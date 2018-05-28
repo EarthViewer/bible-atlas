@@ -3,6 +3,8 @@ import Globe from 'worldwind-react-globe';
 import { observer } from "mobx-react";
 
 import NavBar from './components/NavBar';
+import NavItem from './components/NavItem';
+import SearchBox from './components/SearchBox';
 import Tools from './components/Tools';
 import Layers from './components/Layers';
 import Markers from './components/Markers';
@@ -74,14 +76,22 @@ const App = observer(class App extends Component {
    * by the panels.
    */
   render() {
+    
+    const items = [
+      <NavItem key='1' title="Layers" icon="list" href="#layers"/>,
+      <NavItem key='2' title="Markers" icon="map-marker" href="#markers"/>,
+      <NavItem key='3' title="Settings" icon="cog" href="#settings"/>
+    ];
+    const search = <SearchBox globe={this.globe}/>;
 
     return (
         <div>
             <NavBar 
-                globe={this.globe}
                 title='Bible Atlas'
                 logo='./images/mapicons/cross-2.png'
-                href='https://github.com/emxsys/bible-atlas'/>
+                href='https://github.com/emxsys/bible-atlas'
+                items={items}
+                search={search} />
             <div className="App container-fluid p-0">
                 <div className="globe">
                     <Globe 

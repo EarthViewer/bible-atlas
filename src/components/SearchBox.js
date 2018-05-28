@@ -8,7 +8,7 @@ import Modal from '../Modal';
 
 /* global WorldWind */
 
-export default class Search extends React.Component {
+export default class SearchBox extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
