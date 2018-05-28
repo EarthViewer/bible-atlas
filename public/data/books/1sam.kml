@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>1 Sam</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Adullam</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+22%3A1&amp;version=ESV"&gt;1 Sam 22:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.000000,31.650000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aijalon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A31&amp;version=ESV"&gt;1 Sam 14:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.025379,31.841173</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Amalek&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A2&amp;version=ESV"&gt;1 Sam 15:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A3&amp;version=ESV"&gt;1 Sam 15:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A5&amp;version=ESV"&gt;1 Sam 15:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A20&amp;version=ESV"&gt;1 Sam 15:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+28%3A18&amp;version=ESV"&gt;1 Sam 28:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.835554,30.659770</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aphek</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+4%3A1&amp;version=ESV"&gt;1 Sam 4:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+29%3A1&amp;version=ESV"&gt;1 Sam 29:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.931979,32.104712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arabah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A24&amp;version=ESV"&gt;1 Sam 23:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.520995,32.029676</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aroer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A28&amp;version=ESV"&gt;1 Sam 30:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.984852,31.148931</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashdod</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+5%3A1&amp;version=ESV"&gt;1 Sam 5:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+5%3A3&amp;version=ESV"&gt;1 Sam 5:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+5%3A5&amp;version=ESV"&gt;1 Sam 5:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+5%3A6&amp;version=ESV"&gt;1 Sam 5:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+5%3A7&amp;version=ESV"&gt;1 Sam 5:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A17&amp;version=ESV"&gt;1 Sam 6:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.635114,31.802999</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashkelon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A17&amp;version=ESV"&gt;1 Sam 6:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.547227,31.662405</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Azekah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+17%3A1&amp;version=ESV"&gt;1 Sam 17:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.936185,31.700638</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beersheba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+3%3A20&amp;version=ESV"&gt;1 Sam 3:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+8%3A2&amp;version=ESV"&gt;1 Sam 8:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.840888,31.244952</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Besor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A9&amp;version=ESV"&gt;1 Sam 30:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A10&amp;version=ESV"&gt;1 Sam 30:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A21&amp;version=ESV"&gt;1 Sam 30:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.436667,31.398056</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-aven</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A5&amp;version=ESV"&gt;1 Sam 13:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A23&amp;version=ESV"&gt;1 Sam 14:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.253098,31.895717</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-car~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A11&amp;version=ESV"&gt;1 Sam 7:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-horon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A18&amp;version=ESV"&gt;1 Sam 13:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.123567,31.878925</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-shan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+31%3A10&amp;version=ESV"&gt;1 Sam 31:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+31%3A12&amp;version=ESV"&gt;1 Sam 31:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.503077,32.504238</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-shemesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A9&amp;version=ESV"&gt;1 Sam 6:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A12&amp;version=ESV"&gt;1 Sam 6:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A13&amp;version=ESV"&gt;1 Sam 6:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A14&amp;version=ESV"&gt;1 Sam 6:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A15&amp;version=ESV"&gt;1 Sam 6:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A18&amp;version=ESV"&gt;1 Sam 6:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A19&amp;version=ESV"&gt;1 Sam 6:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A20&amp;version=ESV"&gt;1 Sam 6:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.976609,31.752748</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A16&amp;version=ESV"&gt;1 Sam 7:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+10%3A3&amp;version=ESV"&gt;1 Sam 10:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A2&amp;version=ESV"&gt;1 Sam 13:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethel~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A27&amp;version=ESV"&gt;1 Sam 30:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethlehem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+16%3A4&amp;version=ESV"&gt;1 Sam 16:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+17%3A12&amp;version=ESV"&gt;1 Sam 17:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+17%3A15&amp;version=ESV"&gt;1 Sam 17:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+20%3A6&amp;version=ESV"&gt;1 Sam 20:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+20%3A28&amp;version=ESV"&gt;1 Sam 20:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bezek</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+11%3A8&amp;version=ESV"&gt;1 Sam 11:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.4,32.3667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bor-ashan~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A30&amp;version=ESV"&gt;1 Sam 30:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.9365,31.8099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bozez</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A4&amp;version=ESV"&gt;1 Sam 14:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.287147,31.857164</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Carmel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A12&amp;version=ESV"&gt;1 Sam 15:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+25%3A2&amp;version=ESV"&gt;1 Sam 25:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+25%3A5&amp;version=ESV"&gt;1 Sam 25:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+25%3A7&amp;version=ESV"&gt;1 Sam 25:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+25%3A40&amp;version=ESV"&gt;1 Sam 25:40&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+27%3A3&amp;version=ESV"&gt;1 Sam 27:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A5&amp;version=ESV"&gt;1 Sam 30:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.133331,31.433331</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+3%3A20&amp;version=ESV"&gt;1 Sam 3:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.652483,33.248659</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ebenezer~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+4%3A1&amp;version=ESV"&gt;1 Sam 4:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+5%3A1&amp;version=ESV"&gt;1 Sam 5:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A12&amp;version=ESV"&gt;1 Sam 7:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Edom&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A47&amp;version=ESV"&gt;1 Sam 14:47&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+2%3A27&amp;version=ESV"&gt;1 Sam 2:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+8%3A8&amp;version=ESV"&gt;1 Sam 8:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+10%3A18&amp;version=ESV"&gt;1 Sam 10:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+12%3A6&amp;version=ESV"&gt;1 Sam 12:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+12%3A8&amp;version=ESV"&gt;1 Sam 12:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A2&amp;version=ESV"&gt;1 Sam 15:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A6&amp;version=ESV"&gt;1 Sam 15:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A7&amp;version=ESV"&gt;1 Sam 15:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+27%3A8&amp;version=ESV"&gt;1 Sam 27:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A13&amp;version=ESV"&gt;1 Sam 30:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ekron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+5%3A10&amp;version=ESV"&gt;1 Sam 5:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A16&amp;version=ESV"&gt;1 Sam 6:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A17&amp;version=ESV"&gt;1 Sam 6:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A14&amp;version=ESV"&gt;1 Sam 7:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+17%3A52&amp;version=ESV"&gt;1 Sam 17:52&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.852145,31.777614</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>En-dor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+28%3A7&amp;version=ESV"&gt;1 Sam 28:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.385667,32.625700</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Engedi</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A29&amp;version=ESV"&gt;1 Sam 23:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+24%3A1&amp;version=ESV"&gt;1 Sam 24:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.392411,31.461525</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ephes-dammim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+17%3A1&amp;version=ESV"&gt;1 Sam 17:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.944496,31.691186</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eshtemoa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A28&amp;version=ESV"&gt;1 Sam 30:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.074552,31.373521</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gallim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+25%3A44&amp;version=ESV"&gt;1 Sam 25:44&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.250000,31.816667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+5%3A8&amp;version=ESV"&gt;1 Sam 5:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A17&amp;version=ESV"&gt;1 Sam 6:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A14&amp;version=ESV"&gt;1 Sam 7:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+17%3A4&amp;version=ESV"&gt;1 Sam 17:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+17%3A23&amp;version=ESV"&gt;1 Sam 17:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+17%3A52&amp;version=ESV"&gt;1 Sam 17:52&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+21%3A10&amp;version=ESV"&gt;1 Sam 21:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+21%3A12&amp;version=ESV"&gt;1 Sam 21:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+27%3A2&amp;version=ESV"&gt;1 Sam 27:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+27%3A3&amp;version=ESV"&gt;1 Sam 27:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+27%3A4&amp;version=ESV"&gt;1 Sam 27:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+27%3A11&amp;version=ESV"&gt;1 Sam 27:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.843882,31.693529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gaza</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A17&amp;version=ESV"&gt;1 Sam 6:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.433364,31.524817</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Geba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A3&amp;version=ESV"&gt;1 Sam 13:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A16&amp;version=ESV"&gt;1 Sam 13:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A5&amp;version=ESV"&gt;1 Sam 14:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.259755,31.857878</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gibeah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+10%3A10&amp;version=ESV"&gt;1 Sam 10:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+10%3A26&amp;version=ESV"&gt;1 Sam 10:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+11%3A4&amp;version=ESV"&gt;1 Sam 11:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A2&amp;version=ESV"&gt;1 Sam 13:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A15&amp;version=ESV"&gt;1 Sam 13:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A2&amp;version=ESV"&gt;1 Sam 14:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A16&amp;version=ESV"&gt;1 Sam 14:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A34&amp;version=ESV"&gt;1 Sam 15:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+22%3A6&amp;version=ESV"&gt;1 Sam 22:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A19&amp;version=ESV"&gt;1 Sam 23:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+26%3A1&amp;version=ESV"&gt;1 Sam 26:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.231009,31.823781</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gibeath-elohim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+10%3A5&amp;version=ESV"&gt;1 Sam 10:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilboa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+28%3A4&amp;version=ESV"&gt;1 Sam 28:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.400000,32.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilead&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A7&amp;version=ESV"&gt;1 Sam 13:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilgal</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A16&amp;version=ESV"&gt;1 Sam 7:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+10%3A8&amp;version=ESV"&gt;1 Sam 10:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+11%3A14&amp;version=ESV"&gt;1 Sam 11:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+11%3A15&amp;version=ESV"&gt;1 Sam 11:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A4&amp;version=ESV"&gt;1 Sam 13:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A7&amp;version=ESV"&gt;1 Sam 13:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A8&amp;version=ESV"&gt;1 Sam 13:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A12&amp;version=ESV"&gt;1 Sam 13:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A15&amp;version=ESV"&gt;1 Sam 13:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A12&amp;version=ESV"&gt;1 Sam 15:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A21&amp;version=ESV"&gt;1 Sam 15:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A33&amp;version=ESV"&gt;1 Sam 15:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.518546,31.863783</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hachilah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A19&amp;version=ESV"&gt;1 Sam 23:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+26%3A1&amp;version=ESV"&gt;1 Sam 26:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+26%3A3&amp;version=ESV"&gt;1 Sam 26:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.216691,31.466604</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Havilah&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A7&amp;version=ESV"&gt;1 Sam 15:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.22,30.14</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+12%3A9&amp;version=ESV"&gt;1 Sam 12:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.568048,33.017181</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hebron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A31&amp;version=ESV"&gt;1 Sam 30:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.094099,31.535773</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hereth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+22%3A5&amp;version=ESV"&gt;1 Sam 22:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.029273,31.621492</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Horesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A15&amp;version=ESV"&gt;1 Sam 23:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A16&amp;version=ESV"&gt;1 Sam 23:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A18&amp;version=ESV"&gt;1 Sam 23:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A19&amp;version=ESV"&gt;1 Sam 23:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.088403,31.451139</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hormah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A30&amp;version=ESV"&gt;1 Sam 30:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.630620,30.880918</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jabesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+11%3A1&amp;version=ESV"&gt;1 Sam 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+11%3A3&amp;version=ESV"&gt;1 Sam 11:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+11%3A5&amp;version=ESV"&gt;1 Sam 11:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+11%3A9&amp;version=ESV"&gt;1 Sam 11:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+11%3A10&amp;version=ESV"&gt;1 Sam 11:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+31%3A12&amp;version=ESV"&gt;1 Sam 31:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+31%3A13&amp;version=ESV"&gt;1 Sam 31:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.611587,32.379821</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jabesh-gilead</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+11%3A1&amp;version=ESV"&gt;1 Sam 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+11%3A9&amp;version=ESV"&gt;1 Sam 11:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+31%3A11&amp;version=ESV"&gt;1 Sam 31:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.611587,32.379821</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jattir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A27&amp;version=ESV"&gt;1 Sam 30:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.069413,31.401438</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+17%3A54&amp;version=ESV"&gt;1 Sam 17:54&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jeshimon~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A19&amp;version=ESV"&gt;1 Sam 23:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A24&amp;version=ESV"&gt;1 Sam 23:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+26%3A1&amp;version=ESV"&gt;1 Sam 26:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+26%3A3&amp;version=ESV"&gt;1 Sam 26:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.392411,31.461525</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jezreel~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+25%3A43&amp;version=ESV"&gt;1 Sam 25:43&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+27%3A3&amp;version=ESV"&gt;1 Sam 27:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+29%3A1&amp;version=ESV"&gt;1 Sam 29:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+29%3A11&amp;version=ESV"&gt;1 Sam 29:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A5&amp;version=ESV"&gt;1 Sam 30:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.094099,31.535773</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A7&amp;version=ESV"&gt;1 Sam 13:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+31%3A7&amp;version=ESV"&gt;1 Sam 31:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Keilah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A1&amp;version=ESV"&gt;1 Sam 23:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A2&amp;version=ESV"&gt;1 Sam 23:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A3&amp;version=ESV"&gt;1 Sam 23:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A4&amp;version=ESV"&gt;1 Sam 23:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A5&amp;version=ESV"&gt;1 Sam 23:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A6&amp;version=ESV"&gt;1 Sam 23:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A7&amp;version=ESV"&gt;1 Sam 23:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A8&amp;version=ESV"&gt;1 Sam 23:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A10&amp;version=ESV"&gt;1 Sam 23:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A11&amp;version=ESV"&gt;1 Sam 23:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A12&amp;version=ESV"&gt;1 Sam 23:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A13&amp;version=ESV"&gt;1 Sam 23:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.002752,31.614175</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriath-jearim?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+6%3A21&amp;version=ESV"&gt;1 Sam 6:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A1&amp;version=ESV"&gt;1 Sam 7:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A2&amp;version=ESV"&gt;1 Sam 7:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.993812,31.771104</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Maon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A24&amp;version=ESV"&gt;1 Sam 23:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A25&amp;version=ESV"&gt;1 Sam 23:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+25%3A2&amp;version=ESV"&gt;1 Sam 25:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.116666,31.416666</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Michmash</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A2&amp;version=ESV"&gt;1 Sam 13:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A5&amp;version=ESV"&gt;1 Sam 13:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A11&amp;version=ESV"&gt;1 Sam 13:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A16&amp;version=ESV"&gt;1 Sam 13:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A23&amp;version=ESV"&gt;1 Sam 13:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A5&amp;version=ESV"&gt;1 Sam 14:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A31&amp;version=ESV"&gt;1 Sam 14:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.279235,31.870184</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Migron~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A2&amp;version=ESV"&gt;1 Sam 14:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.231009,31.823781</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mizpah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A5&amp;version=ESV"&gt;1 Sam 7:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A6&amp;version=ESV"&gt;1 Sam 7:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A7&amp;version=ESV"&gt;1 Sam 7:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A11&amp;version=ESV"&gt;1 Sam 7:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A12&amp;version=ESV"&gt;1 Sam 7:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A16&amp;version=ESV"&gt;1 Sam 7:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+10%3A17&amp;version=ESV"&gt;1 Sam 10:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mizpeh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+22%3A3&amp;version=ESV"&gt;1 Sam 22:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.702147,31.181325</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+12%3A9&amp;version=ESV"&gt;1 Sam 12:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A47&amp;version=ESV"&gt;1 Sam 14:47&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+22%3A3&amp;version=ESV"&gt;1 Sam 22:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+22%3A4&amp;version=ESV"&gt;1 Sam 22:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Gilboa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+31%3A1&amp;version=ESV"&gt;1 Sam 31:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+31%3A8&amp;version=ESV"&gt;1 Sam 31:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.408434,32.509840</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Naioth~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+19%3A18&amp;version=ESV"&gt;1 Sam 19:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+19%3A19&amp;version=ESV"&gt;1 Sam 19:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+19%3A22&amp;version=ESV"&gt;1 Sam 19:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+19%3A23&amp;version=ESV"&gt;1 Sam 19:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+20%3A1&amp;version=ESV"&gt;1 Sam 20:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Negeb&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+27%3A10&amp;version=ESV"&gt;1 Sam 27:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A1&amp;version=ESV"&gt;1 Sam 30:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A14&amp;version=ESV"&gt;1 Sam 30:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A27&amp;version=ESV"&gt;1 Sam 30:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.2,30.3</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nob</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+21%3A1&amp;version=ESV"&gt;1 Sam 21:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+22%3A9&amp;version=ESV"&gt;1 Sam 22:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+22%3A11&amp;version=ESV"&gt;1 Sam 22:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+22%3A19&amp;version=ESV"&gt;1 Sam 22:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.232980,31.799605</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ophrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A17&amp;version=ESV"&gt;1 Sam 13:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.299135,31.953789</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Paran~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+25%3A1&amp;version=ESV"&gt;1 Sam 25:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.541944,29.151667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Racal</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A29&amp;version=ESV"&gt;1 Sam 30:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.133331,31.433331</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+1%3A19&amp;version=ESV"&gt;1 Sam 1:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+2%3A11&amp;version=ESV"&gt;1 Sam 2:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A17&amp;version=ESV"&gt;1 Sam 7:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+8%3A4&amp;version=ESV"&gt;1 Sam 8:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A34&amp;version=ESV"&gt;1 Sam 15:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+16%3A13&amp;version=ESV"&gt;1 Sam 16:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+19%3A18&amp;version=ESV"&gt;1 Sam 19:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+19%3A19&amp;version=ESV"&gt;1 Sam 19:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+19%3A22&amp;version=ESV"&gt;1 Sam 19:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+19%3A23&amp;version=ESV"&gt;1 Sam 19:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+20%3A1&amp;version=ESV"&gt;1 Sam 20:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+25%3A1&amp;version=ESV"&gt;1 Sam 25:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+28%3A3&amp;version=ESV"&gt;1 Sam 28:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramathaim-zophim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+1%3A1&amp;version=ESV"&gt;1 Sam 1:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A27&amp;version=ESV"&gt;1 Sam 30:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rock of Escape~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A28&amp;version=ESV"&gt;1 Sam 23:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.116666,31.416666</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Secu</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+19%3A22&amp;version=ESV"&gt;1 Sam 19:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.200000,31.883333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Seneh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A4&amp;version=ESV"&gt;1 Sam 14:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.286169,31.853094</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shaalim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+9%3A4&amp;version=ESV"&gt;1 Sam 9:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.184912,31.846847</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shaaraim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+17%3A52&amp;version=ESV"&gt;1 Sam 17:52&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.89532,31.7001</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shalishah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+9%3A4&amp;version=ESV"&gt;1 Sam 9:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.184912,31.846847</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shen~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+7%3A12&amp;version=ESV"&gt;1 Sam 7:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shiloh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+1%3A3&amp;version=ESV"&gt;1 Sam 1:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+1%3A9&amp;version=ESV"&gt;1 Sam 1:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+1%3A24&amp;version=ESV"&gt;1 Sam 1:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+2%3A14&amp;version=ESV"&gt;1 Sam 2:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+3%3A21&amp;version=ESV"&gt;1 Sam 3:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+4%3A3&amp;version=ESV"&gt;1 Sam 4:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+4%3A4&amp;version=ESV"&gt;1 Sam 4:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+4%3A12&amp;version=ESV"&gt;1 Sam 4:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A3&amp;version=ESV"&gt;1 Sam 14:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.289528,32.055700</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shual~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A17&amp;version=ESV"&gt;1 Sam 13:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.299135,31.953789</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shunem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+28%3A4&amp;version=ESV"&gt;1 Sam 28:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.334305,32.605631</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shur&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A7&amp;version=ESV"&gt;1 Sam 15:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+27%3A8&amp;version=ESV"&gt;1 Sam 27:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.247,30.2354</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Siphmoth~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A28&amp;version=ESV"&gt;1 Sam 30:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.074552,31.373521</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Socoh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+17%3A1&amp;version=ESV"&gt;1 Sam 17:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.976398,31.681234</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tabor~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+10%3A3&amp;version=ESV"&gt;1 Sam 10:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Telaim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+15%3A4&amp;version=ESV"&gt;1 Sam 15:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Elah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+17%3A2&amp;version=ESV"&gt;1 Sam 17:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+17%3A19&amp;version=ESV"&gt;1 Sam 17:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+21%3A9&amp;version=ESV"&gt;1 Sam 21:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.963136,31.690629</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Zeboim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+13%3A18&amp;version=ESV"&gt;1 Sam 13:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.424836,31.936283</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Wildgoats' Rocks~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+24%3A2&amp;version=ESV"&gt;1 Sam 24:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.392411,31.461525</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zelzah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+10%3A2&amp;version=ESV"&gt;1 Sam 10:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.187019,31.717666</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ziklag</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+27%3A6&amp;version=ESV"&gt;1 Sam 27:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A1&amp;version=ESV"&gt;1 Sam 30:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A14&amp;version=ESV"&gt;1 Sam 30:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+30%3A26&amp;version=ESV"&gt;1 Sam 30:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.873561,31.377600</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ziph</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A14&amp;version=ESV"&gt;1 Sam 23:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A15&amp;version=ESV"&gt;1 Sam 23:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+23%3A24&amp;version=ESV"&gt;1 Sam 23:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+26%3A2&amp;version=ESV"&gt;1 Sam 26:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.1333,31.4833</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zobah&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+14%3A47&amp;version=ESV"&gt;1 Sam 14:47&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.925484,34.312571</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zuph~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Sam+9%3A5&amp;version=ESV"&gt;1 Sam 9:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.184912,31.846847</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

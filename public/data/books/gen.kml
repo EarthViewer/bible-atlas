@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Gen</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Accad</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A10&amp;version=ESV"&gt;Gen 10:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.129248,33.092016</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Admah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A19&amp;version=ESV"&gt;Gen 10:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A2&amp;version=ESV"&gt;Gen 14:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A8&amp;version=ESV"&gt;Gen 14:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.412530,31.119422</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ai</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+12%3A8&amp;version=ESV"&gt;Gen 12:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A3&amp;version=ESV"&gt;Gen 13:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.261226,31.916978</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Allon-bacuth~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A8&amp;version=ESV"&gt;Gen 35:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ararat</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+8%3A4&amp;version=ESV"&gt;Gen 8:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.298180,39.702892</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashteroth-karnaim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A5&amp;version=ESV"&gt;Gen 14:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.016666,32.766666</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Assyria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+2%3A14&amp;version=ESV"&gt;Gen 2:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A11&amp;version=ESV"&gt;Gen 10:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+25%3A18&amp;version=ESV"&gt;Gen 25:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Avith~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A35&amp;version=ESV"&gt;Gen 36:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Babel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A10&amp;version=ESV"&gt;Gen 10:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+11%3A9&amp;version=ESV"&gt;Gen 11:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beer-lahai-roi~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+24%3A62&amp;version=ESV"&gt;Gen 24:62&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+25%3A11&amp;version=ESV"&gt;Gen 25:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.494795,30.687712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beersheba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+21%3A14&amp;version=ESV"&gt;Gen 21:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+21%3A31&amp;version=ESV"&gt;Gen 21:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+21%3A32&amp;version=ESV"&gt;Gen 21:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+21%3A33&amp;version=ESV"&gt;Gen 21:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+22%3A19&amp;version=ESV"&gt;Gen 22:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+26%3A23&amp;version=ESV"&gt;Gen 26:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+26%3A33&amp;version=ESV"&gt;Gen 26:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+28%3A10&amp;version=ESV"&gt;Gen 28:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A1&amp;version=ESV"&gt;Gen 46:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A5&amp;version=ESV"&gt;Gen 46:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.840888,31.244952</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bela</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A2&amp;version=ESV"&gt;Gen 14:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A8&amp;version=ESV"&gt;Gen 14:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.419060,30.926522</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bered~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+16%3A14&amp;version=ESV"&gt;Gen 16:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.494795,30.687712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+12%3A8&amp;version=ESV"&gt;Gen 12:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A3&amp;version=ESV"&gt;Gen 13:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+28%3A19&amp;version=ESV"&gt;Gen 28:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+31%3A13&amp;version=ESV"&gt;Gen 31:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A1&amp;version=ESV"&gt;Gen 35:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A3&amp;version=ESV"&gt;Gen 35:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A6&amp;version=ESV"&gt;Gen 35:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A8&amp;version=ESV"&gt;Gen 35:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A15&amp;version=ESV"&gt;Gen 35:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A16&amp;version=ESV"&gt;Gen 35:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethlehem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A19&amp;version=ESV"&gt;Gen 35:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+48%3A7&amp;version=ESV"&gt;Gen 48:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bozrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A33&amp;version=ESV"&gt;Gen 36:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Calah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A11&amp;version=ESV"&gt;Gen 10:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A12&amp;version=ESV"&gt;Gen 10:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.312178,36.142884</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Calneh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A10&amp;version=ESV"&gt;Gen 10:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>45.229995,32.127213</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Canaan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+11%3A31&amp;version=ESV"&gt;Gen 11:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+12%3A5&amp;version=ESV"&gt;Gen 12:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A12&amp;version=ESV"&gt;Gen 13:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+16%3A3&amp;version=ESV"&gt;Gen 16:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+17%3A8&amp;version=ESV"&gt;Gen 17:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+23%3A2&amp;version=ESV"&gt;Gen 23:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+23%3A19&amp;version=ESV"&gt;Gen 23:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+31%3A18&amp;version=ESV"&gt;Gen 31:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+33%3A18&amp;version=ESV"&gt;Gen 33:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A6&amp;version=ESV"&gt;Gen 35:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A5&amp;version=ESV"&gt;Gen 36:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A6&amp;version=ESV"&gt;Gen 36:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+37%3A1&amp;version=ESV"&gt;Gen 37:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+42%3A5&amp;version=ESV"&gt;Gen 42:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+42%3A7&amp;version=ESV"&gt;Gen 42:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+42%3A13&amp;version=ESV"&gt;Gen 42:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+42%3A29&amp;version=ESV"&gt;Gen 42:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+42%3A32&amp;version=ESV"&gt;Gen 42:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+44%3A8&amp;version=ESV"&gt;Gen 44:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+45%3A17&amp;version=ESV"&gt;Gen 45:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+45%3A25&amp;version=ESV"&gt;Gen 45:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A6&amp;version=ESV"&gt;Gen 46:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A12&amp;version=ESV"&gt;Gen 46:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A31&amp;version=ESV"&gt;Gen 46:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A1&amp;version=ESV"&gt;Gen 47:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A4&amp;version=ESV"&gt;Gen 47:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A13&amp;version=ESV"&gt;Gen 47:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A14&amp;version=ESV"&gt;Gen 47:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A15&amp;version=ESV"&gt;Gen 47:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+48%3A3&amp;version=ESV"&gt;Gen 48:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+48%3A7&amp;version=ESV"&gt;Gen 48:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+49%3A30&amp;version=ESV"&gt;Gen 49:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+50%3A5&amp;version=ESV"&gt;Gen 50:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+50%3A13&amp;version=ESV"&gt;Gen 50:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.843882,31.693529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chezib</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+38%3A5&amp;version=ESV"&gt;Gen 38:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.000000,31.700000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cush&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+2%3A13&amp;version=ESV"&gt;Gen 2:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.343557,21.959788</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Damascus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A15&amp;version=ESV"&gt;Gen 14:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+15%3A2&amp;version=ESV"&gt;Gen 15:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A14&amp;version=ESV"&gt;Gen 14:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.652483,33.248659</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dinhabah?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A32&amp;version=ESV"&gt;Gen 36:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.529889,30.336614</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dothan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+37%3A17&amp;version=ESV"&gt;Gen 37:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180198,32.420643</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eder&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A21&amp;version=ESV"&gt;Gen 35:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Edom&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+32%3A3&amp;version=ESV"&gt;Gen 32:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A16&amp;version=ESV"&gt;Gen 36:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A17&amp;version=ESV"&gt;Gen 36:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A21&amp;version=ESV"&gt;Gen 36:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A31&amp;version=ESV"&gt;Gen 36:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A32&amp;version=ESV"&gt;Gen 36:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A43&amp;version=ESV"&gt;Gen 36:43&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+12%3A10&amp;version=ESV"&gt;Gen 12:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+12%3A11&amp;version=ESV"&gt;Gen 12:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+12%3A14&amp;version=ESV"&gt;Gen 12:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A1&amp;version=ESV"&gt;Gen 13:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A10&amp;version=ESV"&gt;Gen 13:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+15%3A18&amp;version=ESV"&gt;Gen 15:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+21%3A21&amp;version=ESV"&gt;Gen 21:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+25%3A18&amp;version=ESV"&gt;Gen 25:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+26%3A2&amp;version=ESV"&gt;Gen 26:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+37%3A25&amp;version=ESV"&gt;Gen 37:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+37%3A28&amp;version=ESV"&gt;Gen 37:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+37%3A36&amp;version=ESV"&gt;Gen 37:36&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+39%3A1&amp;version=ESV"&gt;Gen 39:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+40%3A1&amp;version=ESV"&gt;Gen 40:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+40%3A5&amp;version=ESV"&gt;Gen 40:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A8&amp;version=ESV"&gt;Gen 41:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A19&amp;version=ESV"&gt;Gen 41:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A29&amp;version=ESV"&gt;Gen 41:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A30&amp;version=ESV"&gt;Gen 41:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A33&amp;version=ESV"&gt;Gen 41:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A34&amp;version=ESV"&gt;Gen 41:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A36&amp;version=ESV"&gt;Gen 41:36&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A41&amp;version=ESV"&gt;Gen 41:41&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A43&amp;version=ESV"&gt;Gen 41:43&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A44&amp;version=ESV"&gt;Gen 41:44&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A45&amp;version=ESV"&gt;Gen 41:45&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A46&amp;version=ESV"&gt;Gen 41:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A48&amp;version=ESV"&gt;Gen 41:48&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A53&amp;version=ESV"&gt;Gen 41:53&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A54&amp;version=ESV"&gt;Gen 41:54&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A55&amp;version=ESV"&gt;Gen 41:55&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A56&amp;version=ESV"&gt;Gen 41:56&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A57&amp;version=ESV"&gt;Gen 41:57&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+42%3A1&amp;version=ESV"&gt;Gen 42:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+42%3A2&amp;version=ESV"&gt;Gen 42:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+42%3A3&amp;version=ESV"&gt;Gen 42:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+43%3A2&amp;version=ESV"&gt;Gen 43:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+43%3A15&amp;version=ESV"&gt;Gen 43:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+45%3A4&amp;version=ESV"&gt;Gen 45:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+45%3A8&amp;version=ESV"&gt;Gen 45:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+45%3A9&amp;version=ESV"&gt;Gen 45:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+45%3A13&amp;version=ESV"&gt;Gen 45:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+45%3A18&amp;version=ESV"&gt;Gen 45:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+45%3A19&amp;version=ESV"&gt;Gen 45:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+45%3A20&amp;version=ESV"&gt;Gen 45:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+45%3A23&amp;version=ESV"&gt;Gen 45:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+45%3A25&amp;version=ESV"&gt;Gen 45:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+45%3A26&amp;version=ESV"&gt;Gen 45:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A3&amp;version=ESV"&gt;Gen 46:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A4&amp;version=ESV"&gt;Gen 46:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A6&amp;version=ESV"&gt;Gen 46:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A7&amp;version=ESV"&gt;Gen 46:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A8&amp;version=ESV"&gt;Gen 46:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A20&amp;version=ESV"&gt;Gen 46:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A26&amp;version=ESV"&gt;Gen 46:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A27&amp;version=ESV"&gt;Gen 46:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A6&amp;version=ESV"&gt;Gen 47:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A11&amp;version=ESV"&gt;Gen 47:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A13&amp;version=ESV"&gt;Gen 47:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A14&amp;version=ESV"&gt;Gen 47:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A15&amp;version=ESV"&gt;Gen 47:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A20&amp;version=ESV"&gt;Gen 47:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A21&amp;version=ESV"&gt;Gen 47:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A26&amp;version=ESV"&gt;Gen 47:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A27&amp;version=ESV"&gt;Gen 47:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A28&amp;version=ESV"&gt;Gen 47:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A29&amp;version=ESV"&gt;Gen 47:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A30&amp;version=ESV"&gt;Gen 47:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+48%3A5&amp;version=ESV"&gt;Gen 48:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+50%3A7&amp;version=ESV"&gt;Gen 50:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+50%3A14&amp;version=ESV"&gt;Gen 50:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+50%3A22&amp;version=ESV"&gt;Gen 50:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+50%3A26&amp;version=ESV"&gt;Gen 50:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>El-bethel&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A7&amp;version=ESV"&gt;Gen 35:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>El-paran~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A6&amp;version=ESV"&gt;Gen 14:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.541944,29.151667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Elam&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A1&amp;version=ESV"&gt;Gen 14:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A9&amp;version=ESV"&gt;Gen 14:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.257886,32.189191</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ellasar&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A1&amp;version=ESV"&gt;Gen 14:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A9&amp;version=ESV"&gt;Gen 14:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.997222,37.056944</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>En-mishpat</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A7&amp;version=ESV"&gt;Gen 14:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.494795,30.687712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Enaim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+38%3A14&amp;version=ESV"&gt;Gen 38:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+38%3A21&amp;version=ESV"&gt;Gen 38:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.909680,31.784368</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ephrath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A16&amp;version=ESV"&gt;Gen 35:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A19&amp;version=ESV"&gt;Gen 35:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+48%3A7&amp;version=ESV"&gt;Gen 48:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Erech</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A10&amp;version=ESV"&gt;Gen 10:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>45.636111,32.322222</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Esau&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A40&amp;version=ESV"&gt;Gen 36:40&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Esek~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+26%3A20&amp;version=ESV"&gt;Gen 26:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.560570,31.391291</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Euphrates</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+2%3A14&amp;version=ESV"&gt;Gen 2:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+15%3A18&amp;version=ESV"&gt;Gen 15:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+31%3A21&amp;version=ESV"&gt;Gen 31:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A37&amp;version=ESV"&gt;Gen 36:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.427780,35.090577</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Galeed</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+31%3A47&amp;version=ESV"&gt;Gen 31:47&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+31%3A48&amp;version=ESV"&gt;Gen 31:48&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.005559,32.565267</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gaza</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A19&amp;version=ESV"&gt;Gen 10:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.433364,31.524817</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gerar</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A19&amp;version=ESV"&gt;Gen 10:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+20%3A1&amp;version=ESV"&gt;Gen 20:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+20%3A2&amp;version=ESV"&gt;Gen 20:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+26%3A1&amp;version=ESV"&gt;Gen 26:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+26%3A6&amp;version=ESV"&gt;Gen 26:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+26%3A20&amp;version=ESV"&gt;Gen 26:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+26%3A26&amp;version=ESV"&gt;Gen 26:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.560570,31.391291</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilead&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+31%3A21&amp;version=ESV"&gt;Gen 31:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+31%3A23&amp;version=ESV"&gt;Gen 31:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+31%3A25&amp;version=ESV"&gt;Gen 31:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+37%3A25&amp;version=ESV"&gt;Gen 37:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gomorrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A19&amp;version=ESV"&gt;Gen 10:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A10&amp;version=ESV"&gt;Gen 13:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A2&amp;version=ESV"&gt;Gen 14:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A8&amp;version=ESV"&gt;Gen 14:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A10&amp;version=ESV"&gt;Gen 14:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A11&amp;version=ESV"&gt;Gen 14:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+18%3A20&amp;version=ESV"&gt;Gen 18:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+19%3A24&amp;version=ESV"&gt;Gen 19:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+19%3A28&amp;version=ESV"&gt;Gen 19:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.473954,31.157248</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Goshen</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+45%3A10&amp;version=ESV"&gt;Gen 45:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A28&amp;version=ESV"&gt;Gen 46:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A29&amp;version=ESV"&gt;Gen 46:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A34&amp;version=ESV"&gt;Gen 46:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A1&amp;version=ESV"&gt;Gen 47:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A4&amp;version=ESV"&gt;Gen 47:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A6&amp;version=ESV"&gt;Gen 47:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A27&amp;version=ESV"&gt;Gen 47:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+50%3A8&amp;version=ESV"&gt;Gen 50:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.804692,30.728501</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ham</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A5&amp;version=ESV"&gt;Gen 14:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.924131,31.950188</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Haran</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+11%3A31&amp;version=ESV"&gt;Gen 11:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+11%3A32&amp;version=ESV"&gt;Gen 11:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+12%3A4&amp;version=ESV"&gt;Gen 12:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+12%3A5&amp;version=ESV"&gt;Gen 12:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+27%3A43&amp;version=ESV"&gt;Gen 27:43&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+28%3A10&amp;version=ESV"&gt;Gen 28:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+29%3A4&amp;version=ESV"&gt;Gen 29:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>39.032196,36.863864</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Havilah&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+25%3A18&amp;version=ESV"&gt;Gen 25:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.22,30.14</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazazon-tamar</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A7&amp;version=ESV"&gt;Gen 14:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.392411,31.461525</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hebron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A18&amp;version=ESV"&gt;Gen 13:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+23%3A2&amp;version=ESV"&gt;Gen 23:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+23%3A19&amp;version=ESV"&gt;Gen 23:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A27&amp;version=ESV"&gt;Gen 35:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.094099,31.535773</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hobah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A15&amp;version=ESV"&gt;Gen 14:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.466667,33.500000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jabbok</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+32%3A22&amp;version=ESV"&gt;Gen 32:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.676305,32.193237</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jegar-sahadutha</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+31%3A47&amp;version=ESV"&gt;Gen 31:47&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.005559,32.565267</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+32%3A10&amp;version=ESV"&gt;Gen 32:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+50%3A10&amp;version=ESV"&gt;Gen 50:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+50%3A11&amp;version=ESV"&gt;Gen 50:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan Valley</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A10&amp;version=ESV"&gt;Gen 13:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A11&amp;version=ESV"&gt;Gen 13:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kadesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A7&amp;version=ESV"&gt;Gen 14:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+16%3A14&amp;version=ESV"&gt;Gen 16:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+20%3A1&amp;version=ESV"&gt;Gen 20:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.494795,30.687712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>King's Valley~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A17&amp;version=ESV"&gt;Gen 14:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriath-arba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+23%3A2&amp;version=ESV"&gt;Gen 23:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A27&amp;version=ESV"&gt;Gen 35:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.094099,31.535773</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lasha</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A19&amp;version=ESV"&gt;Gen 10:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.584826,31.718148</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Luz</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+28%3A19&amp;version=ESV"&gt;Gen 28:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A6&amp;version=ESV"&gt;Gen 35:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+48%3A3&amp;version=ESV"&gt;Gen 48:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Machpelah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+23%3A9&amp;version=ESV"&gt;Gen 23:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+23%3A17&amp;version=ESV"&gt;Gen 23:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+23%3A19&amp;version=ESV"&gt;Gen 23:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+25%3A9&amp;version=ESV"&gt;Gen 25:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+49%3A30&amp;version=ESV"&gt;Gen 49:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+50%3A13&amp;version=ESV"&gt;Gen 50:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.110734,31.524647</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mahanaim?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+32%3A2&amp;version=ESV"&gt;Gen 32:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.632914,32.214708</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mamre</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+23%3A17&amp;version=ESV"&gt;Gen 23:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+23%3A19&amp;version=ESV"&gt;Gen 23:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+25%3A9&amp;version=ESV"&gt;Gen 25:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A27&amp;version=ESV"&gt;Gen 35:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+49%3A30&amp;version=ESV"&gt;Gen 49:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+50%3A13&amp;version=ESV"&gt;Gen 50:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.093560,31.549098</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Masrekah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A36&amp;version=ESV"&gt;Gen 36:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mesha?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A30&amp;version=ESV"&gt;Gen 10:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.859127,28.857260</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mesopotamia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+24%3A10&amp;version=ESV"&gt;Gen 24:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Midian&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A35&amp;version=ESV"&gt;Gen 36:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.90832,28.932881</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mizpah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+31%3A49&amp;version=ESV"&gt;Gen 31:49&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.005559,32.565267</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A35&amp;version=ESV"&gt;Gen 36:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moreh~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+12%3A6&amp;version=ESV"&gt;Gen 12:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.281798,32.213691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moriah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+22%3A2&amp;version=ESV"&gt;Gen 22:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.235251,31.777593</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Negeb&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+12%3A9&amp;version=ESV"&gt;Gen 12:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A1&amp;version=ESV"&gt;Gen 13:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A3&amp;version=ESV"&gt;Gen 13:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+20%3A1&amp;version=ESV"&gt;Gen 20:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+24%3A62&amp;version=ESV"&gt;Gen 24:62&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.2,30.3</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nile</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A1&amp;version=ESV"&gt;Gen 41:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A2&amp;version=ESV"&gt;Gen 41:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A3&amp;version=ESV"&gt;Gen 41:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A17&amp;version=ESV"&gt;Gen 41:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A18&amp;version=ESV"&gt;Gen 41:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.230987,30.092632</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nineveh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A11&amp;version=ESV"&gt;Gen 10:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A12&amp;version=ESV"&gt;Gen 10:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>On</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A45&amp;version=ESV"&gt;Gen 41:45&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+41%3A50&amp;version=ESV"&gt;Gen 41:50&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A20&amp;version=ESV"&gt;Gen 46:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Paddan-aram&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+25%3A20&amp;version=ESV"&gt;Gen 25:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+28%3A2&amp;version=ESV"&gt;Gen 28:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+28%3A5&amp;version=ESV"&gt;Gen 28:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+28%3A6&amp;version=ESV"&gt;Gen 28:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+28%3A7&amp;version=ESV"&gt;Gen 28:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+31%3A18&amp;version=ESV"&gt;Gen 31:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+33%3A18&amp;version=ESV"&gt;Gen 33:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A9&amp;version=ESV"&gt;Gen 35:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A26&amp;version=ESV"&gt;Gen 35:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+46%3A15&amp;version=ESV"&gt;Gen 46:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>39.032196,36.863864</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Paddan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+48%3A7&amp;version=ESV"&gt;Gen 48:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>39.032196,36.863864</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Paran~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+21%3A21&amp;version=ESV"&gt;Gen 21:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.541944,29.151667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pau&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A39&amp;version=ESV"&gt;Gen 36:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Peniel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+32%3A30&amp;version=ESV"&gt;Gen 32:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.702870,32.184372</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Penuel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+32%3A31&amp;version=ESV"&gt;Gen 32:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.702870,32.184372</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rameses</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+47%3A11&amp;version=ESV"&gt;Gen 47:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.834216,30.799370</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rehoboth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+26%3A22&amp;version=ESV"&gt;Gen 26:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.597830,31.066829</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rehoboth~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A37&amp;version=ESV"&gt;Gen 36:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.897633,30.884128</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rehoboth-Ir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A11&amp;version=ESV"&gt;Gen 10:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Resen~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A12&amp;version=ESV"&gt;Gen 10:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Salem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A18&amp;version=ESV"&gt;Gen 14:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Salt Sea</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A3&amp;version=ESV"&gt;Gen 14:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.482268,31.538593</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Seir&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A6&amp;version=ESV"&gt;Gen 14:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+32%3A3&amp;version=ESV"&gt;Gen 32:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+33%3A14&amp;version=ESV"&gt;Gen 33:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+33%3A16&amp;version=ESV"&gt;Gen 33:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A8&amp;version=ESV"&gt;Gen 36:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A9&amp;version=ESV"&gt;Gen 36:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+36%3A30&amp;version=ESV"&gt;Gen 36:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sephar</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A30&amp;version=ESV"&gt;Gen 10:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.392642,14.550219</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shaveh-kiriathaim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A5&amp;version=ESV"&gt;Gen 14:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.700000,31.583333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shechem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+12%3A6&amp;version=ESV"&gt;Gen 12:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+33%3A18&amp;version=ESV"&gt;Gen 33:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+35%3A4&amp;version=ESV"&gt;Gen 35:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+37%3A12&amp;version=ESV"&gt;Gen 37:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+37%3A13&amp;version=ESV"&gt;Gen 37:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+37%3A14&amp;version=ESV"&gt;Gen 37:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.281798,32.213691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shibah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+26%3A33&amp;version=ESV"&gt;Gen 26:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.840888,31.244952</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shinar&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A10&amp;version=ESV"&gt;Gen 10:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+11%3A2&amp;version=ESV"&gt;Gen 11:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A1&amp;version=ESV"&gt;Gen 14:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A9&amp;version=ESV"&gt;Gen 14:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shur&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+16%3A7&amp;version=ESV"&gt;Gen 16:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+20%3A1&amp;version=ESV"&gt;Gen 20:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+25%3A18&amp;version=ESV"&gt;Gen 25:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.247,30.2354</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sidon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A19&amp;version=ESV"&gt;Gen 10:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+49%3A13&amp;version=ESV"&gt;Gen 49:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sitnah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+26%3A21&amp;version=ESV"&gt;Gen 26:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.560570,31.391291</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sodom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A19&amp;version=ESV"&gt;Gen 10:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A10&amp;version=ESV"&gt;Gen 13:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A12&amp;version=ESV"&gt;Gen 13:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A13&amp;version=ESV"&gt;Gen 13:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A2&amp;version=ESV"&gt;Gen 14:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A8&amp;version=ESV"&gt;Gen 14:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A10&amp;version=ESV"&gt;Gen 14:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A11&amp;version=ESV"&gt;Gen 14:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A12&amp;version=ESV"&gt;Gen 14:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A17&amp;version=ESV"&gt;Gen 14:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A21&amp;version=ESV"&gt;Gen 14:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A22&amp;version=ESV"&gt;Gen 14:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+18%3A16&amp;version=ESV"&gt;Gen 18:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+18%3A20&amp;version=ESV"&gt;Gen 18:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+18%3A22&amp;version=ESV"&gt;Gen 18:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+18%3A26&amp;version=ESV"&gt;Gen 18:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+19%3A1&amp;version=ESV"&gt;Gen 19:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+19%3A4&amp;version=ESV"&gt;Gen 19:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+19%3A24&amp;version=ESV"&gt;Gen 19:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+19%3A28&amp;version=ESV"&gt;Gen 19:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.396484,31.196560</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Succoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+33%3A17&amp;version=ESV"&gt;Gen 33:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.633313,32.199982</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tigris</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+2%3A14&amp;version=ESV"&gt;Gen 2:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.346466,35.983343</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Timnah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+38%3A12&amp;version=ESV"&gt;Gen 38:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+38%3A13&amp;version=ESV"&gt;Gen 38:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+38%3A14&amp;version=ESV"&gt;Gen 38:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.909680,31.784368</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ur</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+11%3A28&amp;version=ESV"&gt;Gen 11:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+11%3A31&amp;version=ESV"&gt;Gen 11:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+15%3A7&amp;version=ESV"&gt;Gen 15:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>46.103741,30.962052</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Gerar</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+26%3A17&amp;version=ESV"&gt;Gen 26:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.560570,31.391291</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Hebron&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+37%3A14&amp;version=ESV"&gt;Gen 37:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.093560,31.549098</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Shaveh~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A17&amp;version=ESV"&gt;Gen 14:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Siddim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A3&amp;version=ESV"&gt;Gen 14:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A8&amp;version=ESV"&gt;Gen 14:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A10&amp;version=ESV"&gt;Gen 14:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.517624,31.235341</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zeboiim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+10%3A19&amp;version=ESV"&gt;Gen 10:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A2&amp;version=ESV"&gt;Gen 14:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A8&amp;version=ESV"&gt;Gen 14:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.412530,31.119422</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zoar</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gen+13%3A10&amp;version=ESV"&gt;Gen 13:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A2&amp;version=ESV"&gt;Gen 14:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+14%3A8&amp;version=ESV"&gt;Gen 14:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+19%3A22&amp;version=ESV"&gt;Gen 19:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+19%3A23&amp;version=ESV"&gt;Gen 19:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gen+19%3A30&amp;version=ESV"&gt;Gen 19:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.419060,30.926522</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

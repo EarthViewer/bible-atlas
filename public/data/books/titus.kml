@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Titus</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Crete</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Titus+1%3A5&amp;version=ESV"&gt;Titus 1:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>25.007204,35.171239</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nicopolis</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Titus+3%3A12&amp;version=ESV"&gt;Titus 3:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>20.735730,39.024033</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

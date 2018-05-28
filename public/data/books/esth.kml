@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Est</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Babylon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Est+2%3A6&amp;version=ESV"&gt;Est 2:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ethiopia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Est+1%3A1&amp;version=ESV"&gt;Est 1:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+8%3A9&amp;version=ESV"&gt;Est 8:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.343557,21.959788</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>India&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Est+1%3A1&amp;version=ESV"&gt;Est 1:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+8%3A9&amp;version=ESV"&gt;Est 8:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>77,22</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Est+2%3A6&amp;version=ESV"&gt;Est 2:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Media&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Est+1%3A3&amp;version=ESV"&gt;Est 1:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+1%3A14&amp;version=ESV"&gt;Est 1:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+1%3A18&amp;version=ESV"&gt;Est 1:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+10%3A2&amp;version=ESV"&gt;Est 10:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.514966,34.798311</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Persia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Est+1%3A3&amp;version=ESV"&gt;Est 1:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+1%3A14&amp;version=ESV"&gt;Est 1:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+1%3A18&amp;version=ESV"&gt;Est 1:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+10%3A2&amp;version=ESV"&gt;Est 10:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.514966,34.798311</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Susa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Est+1%3A2&amp;version=ESV"&gt;Est 1:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+1%3A5&amp;version=ESV"&gt;Est 1:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+2%3A3&amp;version=ESV"&gt;Est 2:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+2%3A5&amp;version=ESV"&gt;Est 2:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+2%3A8&amp;version=ESV"&gt;Est 2:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+3%3A15&amp;version=ESV"&gt;Est 3:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+4%3A8&amp;version=ESV"&gt;Est 4:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+4%3A16&amp;version=ESV"&gt;Est 4:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+8%3A14&amp;version=ESV"&gt;Est 8:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+8%3A15&amp;version=ESV"&gt;Est 8:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+9%3A6&amp;version=ESV"&gt;Est 9:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+9%3A11&amp;version=ESV"&gt;Est 9:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+9%3A12&amp;version=ESV"&gt;Est 9:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+9%3A13&amp;version=ESV"&gt;Est 9:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+9%3A14&amp;version=ESV"&gt;Est 9:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+9%3A15&amp;version=ESV"&gt;Est 9:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Est+9%3A18&amp;version=ESV"&gt;Est 9:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.257886,32.189191</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

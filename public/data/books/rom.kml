@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Rom</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Achaia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rom+15%3A26&amp;version=ESV"&gt;Rom 15:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>23.733333,37.983333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Asia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rom+16%3A5&amp;version=ESV"&gt;Rom 16:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.73,39.23</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cenchreae</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rom+16%3A1&amp;version=ESV"&gt;Rom 16:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>22.993359,37.884603</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gomorrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rom+9%3A29&amp;version=ESV"&gt;Rom 9:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.473954,31.157248</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Illyricum&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rom+15%3A19&amp;version=ESV"&gt;Rom 15:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>16.071538,43.515484</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rom+15%3A19&amp;version=ESV"&gt;Rom 15:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rom+15%3A25&amp;version=ESV"&gt;Rom 15:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rom+15%3A26&amp;version=ESV"&gt;Rom 15:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rom+15%3A31&amp;version=ESV"&gt;Rom 15:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Judea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rom+15%3A31&amp;version=ESV"&gt;Rom 15:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Macedonia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rom+15%3A26&amp;version=ESV"&gt;Rom 15:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>22.932086,40.632155</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rome</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rom+1%3A7&amp;version=ESV"&gt;Rom 1:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rom+1%3A15&amp;version=ESV"&gt;Rom 1:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>12.483333,41.9</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sodom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rom+9%3A29&amp;version=ESV"&gt;Rom 9:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.396484,31.196560</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Spain&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rom+15%3A24&amp;version=ESV"&gt;Rom 15:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rom+15%3A28&amp;version=ESV"&gt;Rom 15:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>-3.175332,40.481391</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rom+9%3A33&amp;version=ESV"&gt;Rom 9:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rom+11%3A26&amp;version=ESV"&gt;Rom 11:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

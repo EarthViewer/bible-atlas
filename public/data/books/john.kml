@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>John</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Aenon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+3%3A23&amp;version=ESV"&gt;John 3:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.543510,32.398936</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arimathea</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+19%3A38&amp;version=ESV"&gt;John 19:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethany</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+11%3A1&amp;version=ESV"&gt;John 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+11%3A18&amp;version=ESV"&gt;John 11:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+12%3A1&amp;version=ESV"&gt;John 12:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.262122,31.771665</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethany</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+1%3A28&amp;version=ESV"&gt;John 1:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.552600,31.836321</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethesda&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+5%3A2&amp;version=ESV"&gt;John 5:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethsaida</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+1%3A44&amp;version=ESV"&gt;John 1:44&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+12%3A21&amp;version=ESV"&gt;John 12:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.626972,32.907848</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cana</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+2%3A1&amp;version=ESV"&gt;John 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+2%3A11&amp;version=ESV"&gt;John 2:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A46&amp;version=ESV"&gt;John 4:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+21%3A2&amp;version=ESV"&gt;John 21:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.338771,32.747015</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Capernaum</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+2%3A12&amp;version=ESV"&gt;John 2:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A46&amp;version=ESV"&gt;John 4:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+6%3A17&amp;version=ESV"&gt;John 6:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+6%3A24&amp;version=ESV"&gt;John 6:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+6%3A59&amp;version=ESV"&gt;John 6:59&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.575157,32.880594</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ephraim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+11%3A54&amp;version=ESV"&gt;John 11:54&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.299135,31.953789</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gabbatha~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+19%3A13&amp;version=ESV"&gt;John 19:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Galilee&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+1%3A43&amp;version=ESV"&gt;John 1:43&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+2%3A1&amp;version=ESV"&gt;John 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+2%3A11&amp;version=ESV"&gt;John 2:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A3&amp;version=ESV"&gt;John 4:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A43&amp;version=ESV"&gt;John 4:43&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A45&amp;version=ESV"&gt;John 4:45&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A46&amp;version=ESV"&gt;John 4:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A47&amp;version=ESV"&gt;John 4:47&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A54&amp;version=ESV"&gt;John 4:54&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+7%3A1&amp;version=ESV"&gt;John 7:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+7%3A9&amp;version=ESV"&gt;John 7:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+7%3A41&amp;version=ESV"&gt;John 7:41&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+7%3A52&amp;version=ESV"&gt;John 7:52&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+12%3A21&amp;version=ESV"&gt;John 12:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+21%3A2&amp;version=ESV"&gt;John 21:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.301528,32.706745</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Golgotha&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+19%3A17&amp;version=ESV"&gt;John 19:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+1%3A19&amp;version=ESV"&gt;John 1:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+2%3A13&amp;version=ESV"&gt;John 2:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+2%3A23&amp;version=ESV"&gt;John 2:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A20&amp;version=ESV"&gt;John 4:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A21&amp;version=ESV"&gt;John 4:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A45&amp;version=ESV"&gt;John 4:45&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+5%3A1&amp;version=ESV"&gt;John 5:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+5%3A2&amp;version=ESV"&gt;John 5:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+7%3A25&amp;version=ESV"&gt;John 7:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+10%3A22&amp;version=ESV"&gt;John 10:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+11%3A18&amp;version=ESV"&gt;John 11:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+11%3A55&amp;version=ESV"&gt;John 11:55&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+12%3A12&amp;version=ESV"&gt;John 12:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+1%3A28&amp;version=ESV"&gt;John 1:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+3%3A26&amp;version=ESV"&gt;John 3:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+10%3A40&amp;version=ESV"&gt;John 10:40&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Judea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A3&amp;version=ESV"&gt;John 4:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A47&amp;version=ESV"&gt;John 4:47&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A54&amp;version=ESV"&gt;John 4:54&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+7%3A1&amp;version=ESV"&gt;John 7:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+7%3A3&amp;version=ESV"&gt;John 7:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+11%3A7&amp;version=ESV"&gt;John 11:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Judean&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+3%3A22&amp;version=ESV"&gt;John 3:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kidron Valley</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+18%3A1&amp;version=ESV"&gt;John 18:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.236596,31.772134</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount of Olives</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+8%3A1&amp;version=ESV"&gt;John 8:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.247197,31.778095</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nazareth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+1%3A45&amp;version=ESV"&gt;John 1:45&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+1%3A46&amp;version=ESV"&gt;John 1:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+18%3A5&amp;version=ESV"&gt;John 18:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+18%3A7&amp;version=ESV"&gt;John 18:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+19%3A19&amp;version=ESV"&gt;John 19:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.301528,32.706745</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Salim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+3%3A23&amp;version=ESV"&gt;John 3:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.526443,32.399334</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Samaria</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A4&amp;version=ESV"&gt;John 4:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A5&amp;version=ESV"&gt;John 4:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A7&amp;version=ESV"&gt;John 4:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A9&amp;version=ESV"&gt;John 4:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.197929,32.280231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sea of Galilee</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+6%3A1&amp;version=ESV"&gt;John 6:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.589360,32.806775</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sea of Tiberias</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+6%3A1&amp;version=ESV"&gt;John 6:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+21%3A1&amp;version=ESV"&gt;John 21:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.589360,32.806775</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sheep Gate&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+5%3A2&amp;version=ESV"&gt;John 5:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Siloam&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+9%3A7&amp;version=ESV"&gt;John 9:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=John+9%3A11&amp;version=ESV"&gt;John 9:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sychar</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+4%3A5&amp;version=ESV"&gt;John 4:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.311921,32.203076</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>The Place of a Skull~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+19%3A17&amp;version=ESV"&gt;John 19:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>The Stone Pavement&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+19%3A13&amp;version=ESV"&gt;John 19:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tiberias</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+6%3A23&amp;version=ESV"&gt;John 6:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.529220,32.795537</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=John+12%3A15&amp;version=ESV"&gt;John 12:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

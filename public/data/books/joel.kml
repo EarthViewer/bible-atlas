@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Joel</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Edom&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A19&amp;version=ESV"&gt;Joel 3:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A19&amp;version=ESV"&gt;Joel 3:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Joel+2%3A32&amp;version=ESV"&gt;Joel 2:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A1&amp;version=ESV"&gt;Joel 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A6&amp;version=ESV"&gt;Joel 3:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A16&amp;version=ESV"&gt;Joel 3:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A17&amp;version=ESV"&gt;Joel 3:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A20&amp;version=ESV"&gt;Joel 3:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Zion&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Joel+2%3A32&amp;version=ESV"&gt;Joel 2:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Philistia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A4&amp;version=ESV"&gt;Joel 3:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sidon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A4&amp;version=ESV"&gt;Joel 3:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tyre</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A4&amp;version=ESV"&gt;Joel 3:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.192574,33.275827</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Jehoshaphat</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A2&amp;version=ESV"&gt;Joel 3:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A12&amp;version=ESV"&gt;Joel 3:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.236596,31.772134</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Shittim&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A18&amp;version=ESV"&gt;Joel 3:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.641566,31.858262</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Joel+2%3A1&amp;version=ESV"&gt;Joel 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Joel+2%3A15&amp;version=ESV"&gt;Joel 2:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Joel+2%3A23&amp;version=ESV"&gt;Joel 2:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A16&amp;version=ESV"&gt;Joel 3:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A17&amp;version=ESV"&gt;Joel 3:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Joel+3%3A21&amp;version=ESV"&gt;Joel 3:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

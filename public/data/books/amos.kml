@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Amos</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Ashdod</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A8&amp;version=ESV"&gt;Amos 1:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+3%3A9&amp;version=ESV"&gt;Amos 3:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.635114,31.802999</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashkelon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A8&amp;version=ESV"&gt;Amos 1:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.547227,31.662405</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bashan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+4%3A1&amp;version=ESV"&gt;Amos 4:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.937301,32.800075</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beersheba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+5%3A5&amp;version=ESV"&gt;Amos 5:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.840888,31.244952</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-eden~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A5&amp;version=ESV"&gt;Amos 1:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+3%3A14&amp;version=ESV"&gt;Amos 3:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+4%3A4&amp;version=ESV"&gt;Amos 4:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+5%3A5&amp;version=ESV"&gt;Amos 5:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+5%3A6&amp;version=ESV"&gt;Amos 5:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+7%3A10&amp;version=ESV"&gt;Amos 7:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+7%3A13&amp;version=ESV"&gt;Amos 7:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bozrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A12&amp;version=ESV"&gt;Amos 1:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Brook of the Arabah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+6%3A14&amp;version=ESV"&gt;Amos 6:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Calneh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+6%3A2&amp;version=ESV"&gt;Amos 6:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>45.229995,32.127213</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Caphtor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+9%3A7&amp;version=ESV"&gt;Amos 9:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>25.007204,35.171239</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Carmel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A2&amp;version=ESV"&gt;Amos 1:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+9%3A3&amp;version=ESV"&gt;Amos 9:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.133331,31.433331</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Damascus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A3&amp;version=ESV"&gt;Amos 1:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A5&amp;version=ESV"&gt;Amos 1:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+5%3A27&amp;version=ESV"&gt;Amos 5:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Edom&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A6&amp;version=ESV"&gt;Amos 1:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A9&amp;version=ESV"&gt;Amos 1:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A11&amp;version=ESV"&gt;Amos 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+2%3A1&amp;version=ESV"&gt;Amos 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+9%3A12&amp;version=ESV"&gt;Amos 9:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+2%3A10&amp;version=ESV"&gt;Amos 2:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+3%3A1&amp;version=ESV"&gt;Amos 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+3%3A9&amp;version=ESV"&gt;Amos 3:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+4%3A10&amp;version=ESV"&gt;Amos 4:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+8%3A8&amp;version=ESV"&gt;Amos 8:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+9%3A5&amp;version=ESV"&gt;Amos 9:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+9%3A7&amp;version=ESV"&gt;Amos 9:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ekron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A8&amp;version=ESV"&gt;Amos 1:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.852145,31.777614</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+6%3A2&amp;version=ESV"&gt;Amos 6:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.843882,31.693529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gaza</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A6&amp;version=ESV"&gt;Amos 1:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A7&amp;version=ESV"&gt;Amos 1:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.433364,31.524817</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilead&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A3&amp;version=ESV"&gt;Amos 1:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A13&amp;version=ESV"&gt;Amos 1:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilgal</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+4%3A4&amp;version=ESV"&gt;Amos 4:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+5%3A5&amp;version=ESV"&gt;Amos 5:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.518546,31.863783</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gomorrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+4%3A11&amp;version=ESV"&gt;Amos 4:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.473954,31.157248</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hamath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+6%3A2&amp;version=ESV"&gt;Amos 6:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Harmon~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+4%3A3&amp;version=ESV"&gt;Amos 4:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.197929,32.280231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A2&amp;version=ESV"&gt;Amos 1:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+2%3A5&amp;version=ESV"&gt;Amos 2:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Karnaim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+6%3A13&amp;version=ESV"&gt;Amos 6:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.016666,32.766666</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kerioth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+2%3A2&amp;version=ESV"&gt;Amos 2:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.700000,31.583333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A5&amp;version=ESV"&gt;Amos 1:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+9%3A7&amp;version=ESV"&gt;Amos 9:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.702147,31.181325</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebo-hamath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+6%3A14&amp;version=ESV"&gt;Amos 6:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lo-debar</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+6%3A13&amp;version=ESV"&gt;Amos 6:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.783568,32.662488</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+2%3A1&amp;version=ESV"&gt;Amos 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+2%3A2&amp;version=ESV"&gt;Amos 2:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nile</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+8%3A8&amp;version=ESV"&gt;Amos 8:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+9%3A5&amp;version=ESV"&gt;Amos 9:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.230987,30.092632</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rabbah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A14&amp;version=ESV"&gt;Amos 1:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.924131,31.950188</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Samaria</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+3%3A9&amp;version=ESV"&gt;Amos 3:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+3%3A12&amp;version=ESV"&gt;Amos 3:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+4%3A1&amp;version=ESV"&gt;Amos 4:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+6%3A1&amp;version=ESV"&gt;Amos 6:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.197929,32.280231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sodom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+4%3A11&amp;version=ESV"&gt;Amos 4:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.396484,31.196560</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Syria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A5&amp;version=ESV"&gt;Amos 1:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tekoa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A1&amp;version=ESV"&gt;Amos 1:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.214077,31.636221</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Teman&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A12&amp;version=ESV"&gt;Amos 1:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.732568,30.203813</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tyre</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A9&amp;version=ESV"&gt;Amos 1:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A10&amp;version=ESV"&gt;Amos 1:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.192574,33.275827</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Aven</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A5&amp;version=ESV"&gt;Amos 1:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.203889,34.006944</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Amos+1%3A2&amp;version=ESV"&gt;Amos 1:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Amos+6%3A1&amp;version=ESV"&gt;Amos 6:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import Globe from 'worldwind-react-globe';
+import FontAwesome from 'react-fontawesome';
 import 'bootstrap';
 
 import Search from './Search';
@@ -23,7 +24,7 @@ class NavBar extends Component {
             return (
                 <li className="nav-item">
                     <a className="nav-link" data-toggle="collapse" href={props.href} role="button">
-                        <span className={props.icon} aria-hidden="true"></span>
+                        <FontAwesome name={props.icon} />
                         <span className="d-md-none d-lg-inline pl-1" aria-hidden="true">{props.title}</span>
                     </a>
                 </li>
@@ -40,9 +41,9 @@ class NavBar extends Component {
                 </button>
                 <div className="collapse navbar-collapse" id="main-menu">
                     <ul className="navbar-nav mr-auto">
-                        <NavItem title="Layers" icon="fas fa-list" href="#layers"/>
-                        <NavItem title="Markers" icon="fas fa-map-marker-alt" href="#markers"/>
-                        <NavItem title="Settings" icon="fas fa-cog" href="#settings"/>
+                        <NavItem title="Layers" icon="list" href="#layers"/>
+                        <NavItem title="Markers" icon="map-marker" href="#markers"/>
+                        <NavItem title="Settings" icon="cog" href="#settings"/>
                     </ul>
                     <Search globe={this.props.globe}/>
                 </div>

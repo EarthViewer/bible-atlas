@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import Globe from 'worldwind-react-globe';
+import FontAwesome from 'react-fontawesome';
 
 import LayerList from './LayerList';
 
@@ -14,10 +15,10 @@ export default class Settings extends Component {
     
     render() {
         return (
-            <div className="card globe-card">
+            <div className="card">
                 <div className="card-header">
                     <h5 className="card-title">
-                        <span className="fas fa-cog" aria-hidden="true"></span> Settings
+                        <FontAwesome name='cog'/> Settings
                         <button type="button" className="close pull-right" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>

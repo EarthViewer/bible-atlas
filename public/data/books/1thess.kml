@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>1 Thes</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Achaia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Thes+1%3A7&amp;version=ESV"&gt;1 Thes 1:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Thes+1%3A8&amp;version=ESV"&gt;1 Thes 1:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>23.733333,37.983333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Athens</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Thes+3%3A1&amp;version=ESV"&gt;1 Thes 3:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>23.733333,37.983333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Judea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Thes+2%3A14&amp;version=ESV"&gt;1 Thes 2:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Macedonia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Thes+1%3A7&amp;version=ESV"&gt;1 Thes 1:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Thes+1%3A8&amp;version=ESV"&gt;1 Thes 1:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Thes+4%3A10&amp;version=ESV"&gt;1 Thes 4:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>22.932086,40.632155</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Philippi</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Thes+2%3A2&amp;version=ESV"&gt;1 Thes 2:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>24.286190,41.011959</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Lev</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Canaan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Lev+14%3A34&amp;version=ESV"&gt;Lev 14:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+18%3A3&amp;version=ESV"&gt;Lev 18:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+25%3A38&amp;version=ESV"&gt;Lev 25:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.843882,31.693529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Lev+11%3A45&amp;version=ESV"&gt;Lev 11:45&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+18%3A3&amp;version=ESV"&gt;Lev 18:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+19%3A34&amp;version=ESV"&gt;Lev 19:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+19%3A36&amp;version=ESV"&gt;Lev 19:36&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+22%3A33&amp;version=ESV"&gt;Lev 22:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+23%3A43&amp;version=ESV"&gt;Lev 23:43&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+25%3A38&amp;version=ESV"&gt;Lev 25:38&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+25%3A42&amp;version=ESV"&gt;Lev 25:42&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+25%3A55&amp;version=ESV"&gt;Lev 25:55&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+26%3A13&amp;version=ESV"&gt;Lev 26:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+26%3A45&amp;version=ESV"&gt;Lev 26:45&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Sinai</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Lev+7%3A38&amp;version=ESV"&gt;Lev 7:38&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+25%3A1&amp;version=ESV"&gt;Lev 25:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+26%3A46&amp;version=ESV"&gt;Lev 26:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lev+27%3A34&amp;version=ESV"&gt;Lev 27:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.973333,28.539722</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sinai</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Lev+7%3A38&amp;version=ESV"&gt;Lev 7:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.973333,28.539722</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

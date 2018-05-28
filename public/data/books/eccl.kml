@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Eccl</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Eccl+1%3A1&amp;version=ESV"&gt;Eccl 1:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Eccl+1%3A12&amp;version=ESV"&gt;Eccl 1:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Eccl+1%3A16&amp;version=ESV"&gt;Eccl 1:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Eccl+2%3A7&amp;version=ESV"&gt;Eccl 2:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Eccl+2%3A9&amp;version=ESV"&gt;Eccl 2:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

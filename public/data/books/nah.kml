@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Nahum</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Assyria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Nahum+3%3A18&amp;version=ESV"&gt;Nahum 3:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bashan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Nahum+1%3A4&amp;version=ESV"&gt;Nahum 1:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.937301,32.800075</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Carmel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Nahum+1%3A4&amp;version=ESV"&gt;Nahum 1:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.133331,31.433331</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cush&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Nahum+3%3A9&amp;version=ESV"&gt;Nahum 3:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.343557,21.959788</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Nahum+3%3A9&amp;version=ESV"&gt;Nahum 3:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebanon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Nahum+1%3A4&amp;version=ESV"&gt;Nahum 1:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.590804,33.752479</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nile</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Nahum+3%3A8&amp;version=ESV"&gt;Nahum 3:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.230987,30.092632</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nineveh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Nahum+1%3A1&amp;version=ESV"&gt;Nahum 1:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Nahum+2%3A8&amp;version=ESV"&gt;Nahum 2:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Nahum+3%3A7&amp;version=ESV"&gt;Nahum 3:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Put&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Nahum+3%3A9&amp;version=ESV"&gt;Nahum 3:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>21.858301,32.824979</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Thebes</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Nahum+3%3A8&amp;version=ESV"&gt;Nahum 3:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.639441,25.700025</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

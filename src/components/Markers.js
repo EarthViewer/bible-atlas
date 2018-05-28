@@ -1,14 +1,13 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import Globe from 'worldwind-react-globe';
-
-import './Markers.css';
+import FontAwesome from 'react-fontawesome';
 
 class Markers extends Component {
     constructor(props) {
         super(props);
         this.state = {markers: []};
-
+        
     }
     
     static propTypes = {
@@ -57,43 +56,85 @@ class Markers extends Component {
             return null;
         }
         const self = this;
+        
         function GotoButton(props) {
             return (
-                <button type="button" className="btn btn-light" onClick={(e) => self.gotoMarker(props.marker, e)}>
+                <button 
+                    type="button" 
+                    className="btn btn-light" 
+                    onClick={(e) => self.gotoMarker(props.marker, e)}>
                     <span><img width="16px" height="16px" src={props.marker.attributes.imageSource} alt=""/>  </span>
                     {props.marker.label}
                 </button>
             );
         }
+        
         function EditButton(props) {
             return (
-                <button type="button" className="btn btn-light  fas fa-edit" disabled onClick={self.editMarker.bind(self, props.marker)}></button>
+                <button 
+                    type="button" 
+                    className="btn btn-light" 
+                    disabled 
+                    onClick={(e) => self.editMarker(props.marker)}>
+                  <FontAwesome name='edit'/>
+                </button>
             );
-        }
+        };
+        
         function RemoveButton(props) {
             return (
-                <button type="button" className="btn btn-light fas fa-trash-alt" onClick={(e) => self.removeMarker(props.marker, e)}></button>
+                <button 
+                    type="button" 
+                    className="btn btn-light" 
+                    onClick={(e) => self.removeMarker(props.marker)}>
+                  <FontAwesome name='trash'/>
+                </button>
             );
         }
+        
         function MarkerItem(props) {
             return (
-                <li className="list-group-item list-group-item-action p-0">
-                    <div className="btn-group" role="group">
+              <li className="list-group-item list-group-item-action p-0">
+                <div className="btn-group" role="group">
                         <GotoButton marker={props.marker}/>
                         <EditButton marker={props.marker}/>
                         <RemoveButton marker={props.marker}/>
-                    </div>
-                </li>                
+                </div>
+              </li>                
             );
         }
+        
         const markerList = this.state.markers.map((marker) =>
-            <MarkerItem key={marker.uniqueId} marker={marker}/>
-        );    
+          <li key={marker.uniqueId} className="list-group-item list-group-item-action p-0">
+            <div className="btn-group" role="group">
+              <button 
+                type="button" 
+                className="btn btn-light" 
+                onClick={(e) => self.gotoMarker(marker, e)}>
+                <span><img width="16px" height="16px" src={marker.attributes.imageSource} alt=""/>  </span>
+                {marker.label}
+              </button>  
+              <button 
+                type="button" 
+                className="btn btn-light"
+                onClick={(e) => self.editMarker(marker)}>
+                  <FontAwesome name='edit'/>
+              </button>
+              <button 
+                type="button" 
+                className="btn btn-light" 
+                onClick={(e) => self.removeMarker(marker)}>
+                  <FontAwesome name='trash'/>
+              </button>   
+            </div>
+          </li>      
+        );
+    
         return (
-            <div className="card globe-card">
+            <div className="card">
                 <div className="card-header">
                     <h5 className="card-title">
-                        <span className="fas fa-globe-marker-alt" aria-hidden="true"></span> Markers
+                        <FontAwesome name='globe-marker'/> Markers
                         <button type="button" className="close pull-right" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button></h5>

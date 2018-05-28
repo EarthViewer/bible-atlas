@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Ezek</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Ammon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A5&amp;version=ESV"&gt;Ezek 25:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.924131,31.950188</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arabah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A8&amp;version=ESV"&gt;Ezek 47:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.520995,32.029676</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arabia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A21&amp;version=ESV"&gt;Ezek 27:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A5&amp;version=ESV"&gt;Ezek 30:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>37.7,27.4</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arvad</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A8&amp;version=ESV"&gt;Ezek 27:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A11&amp;version=ESV"&gt;Ezek 27:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.858485,34.856082</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Asshur&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A23&amp;version=ESV"&gt;Ezek 27:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Assyria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+23%3A7&amp;version=ESV"&gt;Ezek 23:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+31%3A3&amp;version=ESV"&gt;Ezek 31:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+32%3A22&amp;version=ESV"&gt;Ezek 32:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baal-meon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A9&amp;version=ESV"&gt;Ezek 25:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.734892,31.679454</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Babylon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+12%3A13&amp;version=ESV"&gt;Ezek 12:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+17%3A12&amp;version=ESV"&gt;Ezek 17:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+17%3A16&amp;version=ESV"&gt;Ezek 17:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+17%3A20&amp;version=ESV"&gt;Ezek 17:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+19%3A9&amp;version=ESV"&gt;Ezek 19:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+21%3A19&amp;version=ESV"&gt;Ezek 21:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+21%3A21&amp;version=ESV"&gt;Ezek 21:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+24%3A2&amp;version=ESV"&gt;Ezek 24:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+26%3A7&amp;version=ESV"&gt;Ezek 26:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A18&amp;version=ESV"&gt;Ezek 29:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A19&amp;version=ESV"&gt;Ezek 29:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A10&amp;version=ESV"&gt;Ezek 30:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A24&amp;version=ESV"&gt;Ezek 30:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A25&amp;version=ESV"&gt;Ezek 30:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+32%3A11&amp;version=ESV"&gt;Ezek 32:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bamah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+20%3A29&amp;version=ESV"&gt;Ezek 20:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.184912,31.846847</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bashan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A6&amp;version=ESV"&gt;Ezek 27:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+39%3A18&amp;version=ESV"&gt;Ezek 39:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.937301,32.800075</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Berothah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A16&amp;version=ESV"&gt;Ezek 47:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.152049,33.931480</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-jeshimoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A9&amp;version=ESV"&gt;Ezek 25:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.598657,31.776911</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-togarmah&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A14&amp;version=ESV"&gt;Ezek 27:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+38%3A6&amp;version=ESV"&gt;Ezek 38:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>45.036328,40.065539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Brook of Egypt</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A19&amp;version=ESV"&gt;Ezek 47:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+48%3A28&amp;version=ESV"&gt;Ezek 48:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.854957,31.032047</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Canneh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A23&amp;version=ESV"&gt;Ezek 27:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>45.229995,32.127213</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chaldea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+11%3A24&amp;version=ESV"&gt;Ezek 11:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A29&amp;version=ESV"&gt;Ezek 16:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+23%3A15&amp;version=ESV"&gt;Ezek 23:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+23%3A16&amp;version=ESV"&gt;Ezek 23:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>46.103741,30.962052</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chebar</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+1%3A1&amp;version=ESV"&gt;Ezek 1:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+1%3A3&amp;version=ESV"&gt;Ezek 1:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+3%3A15&amp;version=ESV"&gt;Ezek 3:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+3%3A23&amp;version=ESV"&gt;Ezek 3:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+10%3A15&amp;version=ESV"&gt;Ezek 10:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+10%3A20&amp;version=ESV"&gt;Ezek 10:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+10%3A22&amp;version=ESV"&gt;Ezek 10:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+43%3A3&amp;version=ESV"&gt;Ezek 43:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.062930,33.159129</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chilmad~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A23&amp;version=ESV"&gt;Ezek 27:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cush&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A10&amp;version=ESV"&gt;Ezek 29:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A4&amp;version=ESV"&gt;Ezek 30:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A5&amp;version=ESV"&gt;Ezek 30:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A9&amp;version=ESV"&gt;Ezek 30:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+38%3A5&amp;version=ESV"&gt;Ezek 38:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.343557,21.959788</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cyprus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A6&amp;version=ESV"&gt;Ezek 27:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.207693,35.018306</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Damascus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A18&amp;version=ESV"&gt;Ezek 27:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A16&amp;version=ESV"&gt;Ezek 47:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A17&amp;version=ESV"&gt;Ezek 47:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A18&amp;version=ESV"&gt;Ezek 47:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+48%3A1&amp;version=ESV"&gt;Ezek 48:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dedan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A13&amp;version=ESV"&gt;Ezek 25:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A15&amp;version=ESV"&gt;Ezek 27:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A20&amp;version=ESV"&gt;Ezek 27:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+38%3A13&amp;version=ESV"&gt;Ezek 38:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>37.919663,26.625139</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>East~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A4&amp;version=ESV"&gt;Ezek 25:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A10&amp;version=ESV"&gt;Ezek 25:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.924131,31.950188</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Edom&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A12&amp;version=ESV"&gt;Ezek 25:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A13&amp;version=ESV"&gt;Ezek 25:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A14&amp;version=ESV"&gt;Ezek 25:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+32%3A29&amp;version=ESV"&gt;Ezek 32:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+35%3A15&amp;version=ESV"&gt;Ezek 35:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+36%3A5&amp;version=ESV"&gt;Ezek 36:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt's&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A9&amp;version=ESV"&gt;Ezek 30:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+17%3A15&amp;version=ESV"&gt;Ezek 17:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+19%3A4&amp;version=ESV"&gt;Ezek 19:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+20%3A5&amp;version=ESV"&gt;Ezek 20:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+20%3A6&amp;version=ESV"&gt;Ezek 20:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+20%3A7&amp;version=ESV"&gt;Ezek 20:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+20%3A8&amp;version=ESV"&gt;Ezek 20:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+20%3A9&amp;version=ESV"&gt;Ezek 20:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+20%3A10&amp;version=ESV"&gt;Ezek 20:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+20%3A36&amp;version=ESV"&gt;Ezek 20:36&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+23%3A3&amp;version=ESV"&gt;Ezek 23:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+23%3A8&amp;version=ESV"&gt;Ezek 23:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+23%3A19&amp;version=ESV"&gt;Ezek 23:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+23%3A27&amp;version=ESV"&gt;Ezek 23:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A7&amp;version=ESV"&gt;Ezek 27:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A2&amp;version=ESV"&gt;Ezek 29:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A3&amp;version=ESV"&gt;Ezek 29:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A6&amp;version=ESV"&gt;Ezek 29:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A9&amp;version=ESV"&gt;Ezek 29:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A10&amp;version=ESV"&gt;Ezek 29:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A12&amp;version=ESV"&gt;Ezek 29:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A14&amp;version=ESV"&gt;Ezek 29:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A19&amp;version=ESV"&gt;Ezek 29:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A20&amp;version=ESV"&gt;Ezek 29:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A4&amp;version=ESV"&gt;Ezek 30:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A6&amp;version=ESV"&gt;Ezek 30:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A8&amp;version=ESV"&gt;Ezek 30:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A10&amp;version=ESV"&gt;Ezek 30:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A11&amp;version=ESV"&gt;Ezek 30:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A13&amp;version=ESV"&gt;Ezek 30:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A15&amp;version=ESV"&gt;Ezek 30:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A16&amp;version=ESV"&gt;Ezek 30:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A18&amp;version=ESV"&gt;Ezek 30:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A19&amp;version=ESV"&gt;Ezek 30:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A21&amp;version=ESV"&gt;Ezek 30:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A22&amp;version=ESV"&gt;Ezek 30:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A25&amp;version=ESV"&gt;Ezek 30:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+31%3A2&amp;version=ESV"&gt;Ezek 31:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+32%3A2&amp;version=ESV"&gt;Ezek 32:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+32%3A12&amp;version=ESV"&gt;Ezek 32:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+32%3A15&amp;version=ESV"&gt;Ezek 32:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+32%3A16&amp;version=ESV"&gt;Ezek 32:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+32%3A18&amp;version=ESV"&gt;Ezek 32:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+32%3A20&amp;version=ESV"&gt;Ezek 32:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Elam&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+32%3A24&amp;version=ESV"&gt;Ezek 32:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.257886,32.189191</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Elishah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A7&amp;version=ESV"&gt;Ezek 27:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.207693,35.018306</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eneglaim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A10&amp;version=ESV"&gt;Ezek 47:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.498547,30.998062</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Engedi</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A10&amp;version=ESV"&gt;Ezek 47:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.392411,31.461525</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gamad~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A11&amp;version=ESV"&gt;Ezek 27:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.858485,34.856082</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gebal</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A9&amp;version=ESV"&gt;Ezek 27:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.646141,34.119103</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilead&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A18&amp;version=ESV"&gt;Ezek 47:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Great Sea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A10&amp;version=ESV"&gt;Ezek 47:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A15&amp;version=ESV"&gt;Ezek 47:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A19&amp;version=ESV"&gt;Ezek 47:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A20&amp;version=ESV"&gt;Ezek 47:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+48%3A28&amp;version=ESV"&gt;Ezek 48:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.47,33.24</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hamath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A16&amp;version=ESV"&gt;Ezek 47:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A17&amp;version=ESV"&gt;Ezek 47:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+48%3A1&amp;version=ESV"&gt;Ezek 48:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hamonah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+39%3A16&amp;version=ESV"&gt;Ezek 39:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Haran</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A23&amp;version=ESV"&gt;Ezek 27:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>39.032196,36.863864</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hauran&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A16&amp;version=ESV"&gt;Ezek 47:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A18&amp;version=ESV"&gt;Ezek 47:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.937301,32.800075</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazar-enan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A17&amp;version=ESV"&gt;Ezek 47:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+48%3A1&amp;version=ESV"&gt;Ezek 48:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>37.240077,34.229499</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazer-hatticon~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A16&amp;version=ESV"&gt;Ezek 47:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Helbon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A18&amp;version=ESV"&gt;Ezek 27:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.248576,33.664912</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Helech~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A11&amp;version=ESV"&gt;Ezek 27:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.858485,34.856082</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hethlon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A15&amp;version=ESV"&gt;Ezek 47:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+48%3A1&amp;version=ESV"&gt;Ezek 48:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.340918,34.737990</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Holy Place&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+41%3A21&amp;version=ESV"&gt;Ezek 41:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+41%3A23&amp;version=ESV"&gt;Ezek 41:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+42%3A14&amp;version=ESV"&gt;Ezek 42:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+44%3A27&amp;version=ESV"&gt;Ezek 44:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Javan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A13&amp;version=ESV"&gt;Ezek 27:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>27.367825,37.953314</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+4%3A1&amp;version=ESV"&gt;Ezek 4:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+4%3A7&amp;version=ESV"&gt;Ezek 4:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+4%3A16&amp;version=ESV"&gt;Ezek 4:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+5%3A5&amp;version=ESV"&gt;Ezek 5:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+8%3A3&amp;version=ESV"&gt;Ezek 8:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+9%3A4&amp;version=ESV"&gt;Ezek 9:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+9%3A8&amp;version=ESV"&gt;Ezek 9:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+11%3A15&amp;version=ESV"&gt;Ezek 11:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+12%3A10&amp;version=ESV"&gt;Ezek 12:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+12%3A19&amp;version=ESV"&gt;Ezek 12:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+13%3A16&amp;version=ESV"&gt;Ezek 13:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+14%3A21&amp;version=ESV"&gt;Ezek 14:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+14%3A22&amp;version=ESV"&gt;Ezek 14:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+15%3A6&amp;version=ESV"&gt;Ezek 15:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A2&amp;version=ESV"&gt;Ezek 16:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A3&amp;version=ESV"&gt;Ezek 16:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+17%3A12&amp;version=ESV"&gt;Ezek 17:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+21%3A2&amp;version=ESV"&gt;Ezek 21:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+21%3A20&amp;version=ESV"&gt;Ezek 21:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+21%3A22&amp;version=ESV"&gt;Ezek 21:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+22%3A19&amp;version=ESV"&gt;Ezek 22:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+23%3A4&amp;version=ESV"&gt;Ezek 23:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+24%3A2&amp;version=ESV"&gt;Ezek 24:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+26%3A2&amp;version=ESV"&gt;Ezek 26:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+33%3A21&amp;version=ESV"&gt;Ezek 33:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+36%3A38&amp;version=ESV"&gt;Ezek 36:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A18&amp;version=ESV"&gt;Ezek 47:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kedar~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A21&amp;version=ESV"&gt;Ezek 27:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>37.7,27.4</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriathaim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A9&amp;version=ESV"&gt;Ezek 25:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.700000,31.583333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Koa&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+23%3A23&amp;version=ESV"&gt;Ezek 23:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.514966,34.798311</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebanon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+17%3A3&amp;version=ESV"&gt;Ezek 17:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A5&amp;version=ESV"&gt;Ezek 27:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+31%3A3&amp;version=ESV"&gt;Ezek 31:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+31%3A15&amp;version=ESV"&gt;Ezek 31:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+31%3A16&amp;version=ESV"&gt;Ezek 31:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.590804,33.752479</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebo-hamath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A15&amp;version=ESV"&gt;Ezek 47:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A20&amp;version=ESV"&gt;Ezek 47:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+48%3A1&amp;version=ESV"&gt;Ezek 48:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Libya&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A5&amp;version=ESV"&gt;Ezek 30:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>21.858301,32.824979</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lud</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A10&amp;version=ESV"&gt;Ezek 27:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A5&amp;version=ESV"&gt;Ezek 30:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.895277,31.951388</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Magog~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+38%3A2&amp;version=ESV"&gt;Ezek 38:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+39%3A6&amp;version=ESV"&gt;Ezek 39:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>47,46</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Memphis</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A13&amp;version=ESV"&gt;Ezek 30:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A16&amp;version=ESV"&gt;Ezek 30:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.253958,29.849632</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Meribah-kadesh~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A19&amp;version=ESV"&gt;Ezek 47:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+48%3A28&amp;version=ESV"&gt;Ezek 48:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.494795,30.687712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Meshech-Tubal&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+32%3A26&amp;version=ESV"&gt;Ezek 32:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>47,46</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Meshech&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A13&amp;version=ESV"&gt;Ezek 27:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+38%3A2&amp;version=ESV"&gt;Ezek 38:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+38%3A3&amp;version=ESV"&gt;Ezek 38:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+39%3A1&amp;version=ESV"&gt;Ezek 39:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>47,46</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Migdol?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A10&amp;version=ESV"&gt;Ezek 29:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A6&amp;version=ESV"&gt;Ezek 30:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.372233,30.020296</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Minnith</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A17&amp;version=ESV"&gt;Ezek 27:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.850000,31.750000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A8&amp;version=ESV"&gt;Ezek 25:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A9&amp;version=ESV"&gt;Ezek 25:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A11&amp;version=ESV"&gt;Ezek 25:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Most Holy Place&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+41%3A4&amp;version=ESV"&gt;Ezek 41:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+45%3A3&amp;version=ESV"&gt;Ezek 45:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Seir&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+35%3A2&amp;version=ESV"&gt;Ezek 35:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+35%3A3&amp;version=ESV"&gt;Ezek 35:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+35%3A7&amp;version=ESV"&gt;Ezek 35:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+35%3A15&amp;version=ESV"&gt;Ezek 35:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Negeb&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+20%3A46&amp;version=ESV"&gt;Ezek 20:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+20%3A47&amp;version=ESV"&gt;Ezek 20:47&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.2,30.3</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nile</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A3&amp;version=ESV"&gt;Ezek 29:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A9&amp;version=ESV"&gt;Ezek 29:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A12&amp;version=ESV"&gt;Ezek 30:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.230987,30.092632</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>On</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A17&amp;version=ESV"&gt;Ezek 30:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pathros&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A14&amp;version=ESV"&gt;Ezek 29:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A14&amp;version=ESV"&gt;Ezek 30:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>30.692312,28.322364</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pekod</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+23%3A23&amp;version=ESV"&gt;Ezek 23:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pelusium&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A15&amp;version=ESV"&gt;Ezek 30:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A16&amp;version=ESV"&gt;Ezek 30:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.420573,28.838778</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Persia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A10&amp;version=ESV"&gt;Ezek 27:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+38%3A5&amp;version=ESV"&gt;Ezek 38:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.514966,34.798311</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pi-beseth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A17&amp;version=ESV"&gt;Ezek 30:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.500000,30.583333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Put&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A10&amp;version=ESV"&gt;Ezek 27:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A5&amp;version=ESV"&gt;Ezek 30:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+38%3A5&amp;version=ESV"&gt;Ezek 38:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>21.858301,32.824979</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Raamah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A22&amp;version=ESV"&gt;Ezek 27:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>42.78,15.68</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rabbah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+21%3A20&amp;version=ESV"&gt;Ezek 21:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A5&amp;version=ESV"&gt;Ezek 25:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.924131,31.950188</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Riblah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+6%3A14&amp;version=ESV"&gt;Ezek 6:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.545259,34.431703</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sahar~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A18&amp;version=ESV"&gt;Ezek 27:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.248576,33.664912</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Samaria</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A46&amp;version=ESV"&gt;Ezek 16:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A51&amp;version=ESV"&gt;Ezek 16:51&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A53&amp;version=ESV"&gt;Ezek 16:53&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A55&amp;version=ESV"&gt;Ezek 16:55&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+23%3A4&amp;version=ESV"&gt;Ezek 23:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+23%3A33&amp;version=ESV"&gt;Ezek 23:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.197929,32.280231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Seir&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A8&amp;version=ESV"&gt;Ezek 25:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Senir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A5&amp;version=ESV"&gt;Ezek 27:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sheba&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A22&amp;version=ESV"&gt;Ezek 27:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A23&amp;version=ESV"&gt;Ezek 27:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+38%3A13&amp;version=ESV"&gt;Ezek 38:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>38.746799,9.022736</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shoa~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+23%3A23&amp;version=ESV"&gt;Ezek 23:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.514966,34.798311</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sibraim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A16&amp;version=ESV"&gt;Ezek 47:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sidon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A8&amp;version=ESV"&gt;Ezek 27:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+28%3A21&amp;version=ESV"&gt;Ezek 28:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+28%3A22&amp;version=ESV"&gt;Ezek 28:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sodom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A46&amp;version=ESV"&gt;Ezek 16:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A48&amp;version=ESV"&gt;Ezek 16:48&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A49&amp;version=ESV"&gt;Ezek 16:49&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A53&amp;version=ESV"&gt;Ezek 16:53&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A55&amp;version=ESV"&gt;Ezek 16:55&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A56&amp;version=ESV"&gt;Ezek 16:56&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.396484,31.196560</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Syene</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A10&amp;version=ESV"&gt;Ezek 29:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A6&amp;version=ESV"&gt;Ezek 30:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.895862,24.066181</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Syria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+16%3A57&amp;version=ESV"&gt;Ezek 16:57&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A16&amp;version=ESV"&gt;Ezek 27:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tamar</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A18&amp;version=ESV"&gt;Ezek 47:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A19&amp;version=ESV"&gt;Ezek 47:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+48%3A28&amp;version=ESV"&gt;Ezek 48:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.064154,31.024923</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tarshish</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A12&amp;version=ESV"&gt;Ezek 27:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A25&amp;version=ESV"&gt;Ezek 27:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+38%3A13&amp;version=ESV"&gt;Ezek 38:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>-6.379340,36.952995</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tehaphnehes</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A18&amp;version=ESV"&gt;Ezek 30:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.171389,30.860556</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tel-abib~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+3%3A15&amp;version=ESV"&gt;Ezek 3:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>45.229995,32.127213</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Teman&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+25%3A13&amp;version=ESV"&gt;Ezek 25:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.732568,30.203813</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>The Lord Is There</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+48%3A35&amp;version=ESV"&gt;Ezek 48:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Thebes</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A14&amp;version=ESV"&gt;Ezek 30:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A15&amp;version=ESV"&gt;Ezek 30:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A16&amp;version=ESV"&gt;Ezek 30:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.639441,25.700025</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tubal~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A13&amp;version=ESV"&gt;Ezek 27:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+38%3A2&amp;version=ESV"&gt;Ezek 38:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+38%3A3&amp;version=ESV"&gt;Ezek 38:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+39%3A1&amp;version=ESV"&gt;Ezek 39:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>37.799969,40.905222</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tyre</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+26%3A2&amp;version=ESV"&gt;Ezek 26:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+26%3A3&amp;version=ESV"&gt;Ezek 26:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+26%3A4&amp;version=ESV"&gt;Ezek 26:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+26%3A7&amp;version=ESV"&gt;Ezek 26:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+26%3A15&amp;version=ESV"&gt;Ezek 26:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A2&amp;version=ESV"&gt;Ezek 27:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A3&amp;version=ESV"&gt;Ezek 27:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A8&amp;version=ESV"&gt;Ezek 27:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A32&amp;version=ESV"&gt;Ezek 27:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+28%3A2&amp;version=ESV"&gt;Ezek 28:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+28%3A12&amp;version=ESV"&gt;Ezek 28:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+29%3A18&amp;version=ESV"&gt;Ezek 29:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.192574,33.275827</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Uzal</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+27%3A19&amp;version=ESV"&gt;Ezek 27:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.215092,15.354879</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Hamon-gog~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+39%3A11&amp;version=ESV"&gt;Ezek 39:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ezek+39%3A15&amp;version=ESV"&gt;Ezek 39:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of the Travelers~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+39%3A11&amp;version=ESV"&gt;Ezek 39:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zedad</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+47%3A15&amp;version=ESV"&gt;Ezek 47:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.925484,34.312571</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zoan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ezek+30%3A14&amp;version=ESV"&gt;Ezek 30:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.884173,30.974619</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

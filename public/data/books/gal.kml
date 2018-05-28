@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Gal</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Antioch</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gal+2%3A11&amp;version=ESV"&gt;Gal 2:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.162387,36.202330</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arabia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gal+1%3A17&amp;version=ESV"&gt;Gal 1:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gal+4%3A25&amp;version=ESV"&gt;Gal 4:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>37.7,27.4</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cilicia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gal+1%3A21&amp;version=ESV"&gt;Gal 1:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.891533,36.918026</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Damascus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gal+1%3A17&amp;version=ESV"&gt;Gal 1:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Galatia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gal+1%3A2&amp;version=ESV"&gt;Gal 1:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.453182,37.578134</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gal+1%3A17&amp;version=ESV"&gt;Gal 1:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gal+1%3A18&amp;version=ESV"&gt;Gal 1:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gal+2%3A1&amp;version=ESV"&gt;Gal 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gal+4%3A25&amp;version=ESV"&gt;Gal 4:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gal+4%3A26&amp;version=ESV"&gt;Gal 4:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Judea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gal+1%3A22&amp;version=ESV"&gt;Gal 1:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Sinai</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gal+4%3A24&amp;version=ESV"&gt;Gal 4:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Gal+4%3A25&amp;version=ESV"&gt;Gal 4:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.973333,28.539722</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Syria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Gal+1%3A21&amp;version=ESV"&gt;Gal 1:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

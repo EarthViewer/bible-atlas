@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Phil</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Macedonia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Phil+4%3A15&amp;version=ESV"&gt;Phil 4:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>22.932086,40.632155</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Philippi</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Phil+1%3A1&amp;version=ESV"&gt;Phil 1:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>24.286190,41.011959</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Thessalonica</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Phil+4%3A16&amp;version=ESV"&gt;Phil 4:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>22.932086,40.632155</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

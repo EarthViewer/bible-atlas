@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Folder>
+	<name>Jerusalem Overlays</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<description><![CDATA[From <a href="http://www.openbible.info/">OpenBible.info</a>]]></description>
+	<Folder>
+		<name>Ancient</name>
+		<visibility>0</visibility>
+		<GroundOverlay>
+			<name>Anville (1767)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Overlay copyright ©2000 by Cartography Associates. From the <a href="http://www.davidrumsey.com/">David Rumsey Map Collection</a>. Licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>. #2603045.]]></description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/2603045.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.78233629668986</north>
+				<south>31.76924833144466</south>
+				<east>35.24335713339405</east>
+				<west>35.22527470069547</west>
+				<rotation>5.907089957459174</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Bonne (1791)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Overlay copyright ©2000 by Cartography Associates. From the <a href="http://www.davidrumsey.com/">David Rumsey Map Collection</a>. Licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>. #2612084.]]></description>
+			<color>f0ffffff</color>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/2612084.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.78441698130614</north>
+				<south>31.76896499497864</south>
+				<east>35.24063595412472</east>
+				<west>35.22565418007356</west>
+				<rotation>-22.10398113540033</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Letts (1883)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Overlay copyright ©2000 by Cartography Associates. From the <a href="http://www.davidrumsey.com/">David Rumsey Map Collection</a>. Licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>. #5371096.]]></description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/5371096.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.79420640949452</north>
+				<south>31.76298375759531</south>
+				<east>35.24760799186731</east>
+				<west>35.21865111356457</west>
+				<rotation>-4.012054826012783</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Marzolla (1846)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Overlay copyright ©2000 by Cartography Associates. From the <a href="http://www.davidrumsey.com/">David Rumsey Map Collection</a>. Licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>. #4714004.]]></description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/4714004.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.78422661474445</north>
+				<south>31.76565109883872</south>
+				<east>35.24528174534203</east>
+				<west>35.22143550689729</west>
+				<rotation>-4.513265633252543</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Mitchell (1875)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Overlay copyright ©2000 by Cartography Associates. From the <a href="http://www.davidrumsey.com/">David Rumsey Map Collection</a>. Licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>. #1753007.]]></description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/1753007.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.78162102338476</north>
+				<south>31.76790121796888</south>
+				<east>35.25018874438932</east>
+				<west>35.22215635754829</west>
+				<rotation>-10.84725735487632</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Radefeld (1849)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Overlay copyright ©2000 by Cartography Associates. From the <a href="http://www.davidrumsey.com/">David Rumsey Map Collection</a>. Licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>. #4807101 (2 of 2).]]></description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/4807107-2.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.79124878043979</north>
+				<south>31.7585051944782</south>
+				<east>35.24581299483025</east>
+				<west>35.21440346221868</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Tenz (1894)</name>
+			<visibility>0</visibility>
+			<description>Image copyright The Jewish National &amp; University Library, Shapell Family Digitization Project, Eran Laor Cartographic Collection and The Hebrew University of Jerusalem, Dept. of Geography, Historic Cities Project.</description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/tenz.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.79026991127335</north>
+				<south>31.77019955411678</south>
+				<east>35.25193610158016</east>
+				<west>35.2126448942292</west>
+				<rotation>95.48116101152171</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Wilde (1889)</name>
+			<visibility>0</visibility>
+			<description>Image copyright The Jewish National &amp; University Library, Shapell Family Digitization Project, Eran Laor Cartographic Collection and The Hebrew University of Jerusalem, Dept. of Geography, Historic Cities Project.</description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/wilde.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.79285284523242</north>
+				<south>31.7615947948838</south>
+				<east>35.2412967493979</east>
+				<west>35.21963394109967</west>
+				<rotation>-1.544651336223203</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+	</Folder>
+	<Folder>
+		<name>Modern</name>
+		<visibility>0</visibility>
+		<GroundOverlay>
+			<name>Bartholomew (1922)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Overlay copyright ©2000 by Cartography Associates. From the <a href="http://www.davidrumsey.com/">David Rumsey Map Collection</a>. Licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>. #2113059.]]></description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/2113059.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.79073632646127</north>
+				<south>31.76435696360174</south>
+				<east>35.24193664292076</east>
+				<west>35.22096726830863</west>
+				<rotation>0.06668817279732606</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Conder (1876)</name>
+			<visibility>0</visibility>
+			<description>Image copyright The Jewish National &amp; University Library, Shapell Family Digitization Project, Eran Laor Cartographic Collection and The Hebrew University of Jerusalem, Dept. of Geography, Historic Cities Project.</description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/conder.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.78897919415365</north>
+				<south>31.76933906340993</south>
+				<east>35.23956075617689</east>
+				<west>35.22255172255519</west>
+				<rotation>-1.210097144731754</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Johnson (1860)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Overlay copyright ©2000 by Cartography Associates. From the <a href="http://www.davidrumsey.com/">David Rumsey Map Collection</a>. Licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>. #2905050.]]></description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/2905050.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.79086724895463</north>
+				<south>31.76389694761169</south>
+				<east>35.24478275465686</east>
+				<west>35.22231654885687</west>
+				<rotation>-5.251396919779827</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Hughes (1843)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Overlay copyright ©2000 by Cartography Associates. From the <a href="http://www.davidrumsey.com/">David Rumsey Map Collection</a>. Licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>. #0890085.]]></description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/0890085.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.79351644927217</north>
+				<south>31.76382892277554</south>
+				<east>35.24615415352375</east>
+				<west>35.22203498705819</west>
+				<rotation>-6.943569029574493</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Mitchell (1890)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Overlay copyright ©2000 by Cartography Associates. From the <a href="http://www.davidrumsey.com/">David Rumsey Map Collection</a>. Licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>. #0594066.]]></description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/0594066.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.79000953367986</north>
+				<south>31.76725618134699</south>
+				<east>35.24091102305096</east>
+				<west>35.22210109302032</west>
+				<rotation>5.609107586991735</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Radefeld (1849)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Overlay copyright ©2000 by Cartography Associates. From the <a href="http://www.davidrumsey.com/">David Rumsey Map Collection</a>. Licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>. #4807101 (1 of 2).]]></description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/4807101-1.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.79022189845406</north>
+				<south>31.76474312702088</south>
+				<east>35.24698438067751</east>
+				<west>35.21822245073929</west>
+				<rotation>-1.850972940780405</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Rand McNally (1897)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Overlay copyright ©2000 by Cartography Associates. From the <a href="http://www.davidrumsey.com/">David Rumsey Map Collection</a>. Licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>. #3565030.]]></description>
+			<Icon>
+				<href>http://a.openbible.info/geo/overlays/jerusalem/3565030.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>31.79700644637275</north>
+				<south>31.75263303496773</south>
+				<east>35.25003540452759</east>
+				<west>35.21512704479309</west>
+				<rotation>-0.7272997804424083</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+	</Folder>
+</Folder>
+</kml>

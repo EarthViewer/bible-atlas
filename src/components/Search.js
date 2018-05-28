@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Globe from 'worldwind-react-globe';
+import FontAwesome from 'react-fontawesome';
 
 import SearchPreview from './SearchPreview';
 import Modal from '../Modal';
@@ -98,9 +99,13 @@ export default class Search extends React.Component {
     
         return (
             <form className="form-inline" onSubmit={this.handleSubmit}>
-                <input className="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" value={this.state.value} onChange={this.handleChange}/>
+                <input 
+                  className="form-control mr-sm-2" 
+                  type="text" placeholder="Search" 
+                  aria-label="Search" value={this.state.value} 
+                  onChange={this.handleChange}/>
                 <button className="btn btn-outline-success" type="button" onClick={this.handleClick}>
-                    <span className="fas fa-search" aria-hidden="true"></span>
+                    <FontAwesome name='search'/>
                 </button>
                 {modal}
             </form>

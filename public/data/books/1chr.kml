@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>1 Chr</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Abdon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A74&amp;version=ESV"&gt;1 Chr 6:74&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.146201,33.047808</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Adullam</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A15&amp;version=ESV"&gt;1 Chr 11:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.000000,31.650000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aijalon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A69&amp;version=ESV"&gt;1 Chr 6:69&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+8%3A13&amp;version=ESV"&gt;1 Chr 8:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.025379,31.841173</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ain</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A32&amp;version=ESV"&gt;1 Chr 4:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.860665,31.370835</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Alemeth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A60&amp;version=ESV"&gt;1 Chr 6:60&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.287637,31.828406</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Amalek&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A11&amp;version=ESV"&gt;1 Chr 18:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.835554,30.659770</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Anathoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A60&amp;version=ESV"&gt;1 Chr 6:60&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A28&amp;version=ESV"&gt;1 Chr 11:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+12%3A3&amp;version=ESV"&gt;1 Chr 12:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+27%3A12&amp;version=ESV"&gt;1 Chr 27:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.263498,31.812912</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Anem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A73&amp;version=ESV"&gt;1 Chr 6:73&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.303683,32.463499</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aner</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A70&amp;version=ESV"&gt;1 Chr 6:70&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.216325,32.517239</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aram-maacah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+19%3A6&amp;version=ESV"&gt;1 Chr 19:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.5,33.2</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aram~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+2%3A23&amp;version=ESV"&gt;1 Chr 2:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>39.12,34.85</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aroer~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A8&amp;version=ESV"&gt;1 Chr 5:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.9115,31.9617</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashan~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A32&amp;version=ESV"&gt;1 Chr 4:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A59&amp;version=ESV"&gt;1 Chr 6:59&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.9365,31.8099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashtaroth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A71&amp;version=ESV"&gt;1 Chr 6:71&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.016666,32.833333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Assyria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A6&amp;version=ESV"&gt;1 Chr 5:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A26&amp;version=ESV"&gt;1 Chr 5:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Avith~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+1%3A46&amp;version=ESV"&gt;1 Chr 1:46&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ayyah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+7%3A28&amp;version=ESV"&gt;1 Chr 7:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.433364,31.524817</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baal</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A33&amp;version=ESV"&gt;1 Chr 4:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baal-hermon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A23&amp;version=ESV"&gt;1 Chr 5:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baal-meon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A8&amp;version=ESV"&gt;1 Chr 5:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.734892,31.679454</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baal-perazim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+14%3A11&amp;version=ESV"&gt;1 Chr 14:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.223059,31.756332</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baalah?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+13%3A6&amp;version=ESV"&gt;1 Chr 13:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.993812,31.771104</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Babylon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+9%3A1&amp;version=ESV"&gt;1 Chr 9:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baharum~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A33&amp;version=ESV"&gt;1 Chr 11:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.388486,31.824736</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bashan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A11&amp;version=ESV"&gt;1 Chr 5:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A12&amp;version=ESV"&gt;1 Chr 5:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A16&amp;version=ESV"&gt;1 Chr 5:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A23&amp;version=ESV"&gt;1 Chr 5:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A62&amp;version=ESV"&gt;1 Chr 6:62&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A71&amp;version=ESV"&gt;1 Chr 6:71&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.937301,32.800075</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beeroth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A39&amp;version=ESV"&gt;1 Chr 11:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.216688,31.900074</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beersheba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A28&amp;version=ESV"&gt;1 Chr 4:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+21%3A2&amp;version=ESV"&gt;1 Chr 21:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.840888,31.244952</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-biri~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A31&amp;version=ESV"&gt;1 Chr 4:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.940502,31.391668</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-horon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A68&amp;version=ESV"&gt;1 Chr 6:68&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.123567,31.878925</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-marcaboth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A31&amp;version=ESV"&gt;1 Chr 4:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.940502,31.391668</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-shean</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+7%3A29&amp;version=ESV"&gt;1 Chr 7:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.503077,32.504238</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-shemesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A59&amp;version=ESV"&gt;1 Chr 6:59&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.976609,31.752748</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+7%3A28&amp;version=ESV"&gt;1 Chr 7:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethlehem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A16&amp;version=ESV"&gt;1 Chr 11:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A17&amp;version=ESV"&gt;1 Chr 11:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A18&amp;version=ESV"&gt;1 Chr 11:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A26&amp;version=ESV"&gt;1 Chr 11:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethuel~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A30&amp;version=ESV"&gt;1 Chr 4:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bezer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A78&amp;version=ESV"&gt;1 Chr 6:78&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.488290,32.516137</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bileam</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A70&amp;version=ESV"&gt;1 Chr 6:70&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.2833,32.45</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bilhah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A29&amp;version=ESV"&gt;1 Chr 4:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.840888,31.244952</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bozrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+1%3A44&amp;version=ESV"&gt;1 Chr 1:44&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Canaan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+16%3A18&amp;version=ESV"&gt;1 Chr 16:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.843882,31.693529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Carmel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A37&amp;version=ESV"&gt;1 Chr 11:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.133331,31.433331</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cozeba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A22&amp;version=ESV"&gt;1 Chr 4:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.000000,31.700000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cun</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A8&amp;version=ESV"&gt;1 Chr 18:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.152049,33.931480</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Daberath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A72&amp;version=ESV"&gt;1 Chr 6:72&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.371710,32.691712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Damascus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A5&amp;version=ESV"&gt;1 Chr 18:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A6&amp;version=ESV"&gt;1 Chr 18:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+21%3A2&amp;version=ESV"&gt;1 Chr 21:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.652483,33.248659</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Debir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A58&amp;version=ESV"&gt;1 Chr 6:58&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.966670,31.416669</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dinhabah?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+1%3A43&amp;version=ESV"&gt;1 Chr 1:43&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.529889,30.336614</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+7%3A29&amp;version=ESV"&gt;1 Chr 7:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.918896,32.613236</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Edom&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+1%3A43&amp;version=ESV"&gt;1 Chr 1:43&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+1%3A51&amp;version=ESV"&gt;1 Chr 1:51&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+1%3A54&amp;version=ESV"&gt;1 Chr 1:54&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A11&amp;version=ESV"&gt;1 Chr 18:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A13&amp;version=ESV"&gt;1 Chr 18:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+13%3A5&amp;version=ESV"&gt;1 Chr 13:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+17%3A21&amp;version=ESV"&gt;1 Chr 17:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eshtemoa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A57&amp;version=ESV"&gt;1 Chr 6:57&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.074552,31.373521</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Etam~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A32&amp;version=ESV"&gt;1 Chr 4:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.860665,31.370835</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Euphrates</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+1%3A48&amp;version=ESV"&gt;1 Chr 1:48&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A9&amp;version=ESV"&gt;1 Chr 5:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A3&amp;version=ESV"&gt;1 Chr 18:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+19%3A16&amp;version=ESV"&gt;1 Chr 19:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.427780,35.090577</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ezem~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A29&amp;version=ESV"&gt;1 Chr 4:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gaash~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A32&amp;version=ESV"&gt;1 Chr 11:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.150392,32.121473</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Galilee&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A76&amp;version=ESV"&gt;1 Chr 6:76&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.301528,32.706745</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+7%3A21&amp;version=ESV"&gt;1 Chr 7:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+8%3A13&amp;version=ESV"&gt;1 Chr 8:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A1&amp;version=ESV"&gt;1 Chr 18:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+20%3A6&amp;version=ESV"&gt;1 Chr 20:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+20%3A8&amp;version=ESV"&gt;1 Chr 20:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.843882,31.693529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gath-rimmon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A69&amp;version=ESV"&gt;1 Chr 6:69&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.883055,32.069722</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Geba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A60&amp;version=ESV"&gt;1 Chr 6:60&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+8%3A6&amp;version=ESV"&gt;1 Chr 8:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.259755,31.857878</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gederah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A23&amp;version=ESV"&gt;1 Chr 4:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+12%3A4&amp;version=ESV"&gt;1 Chr 12:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.777779,31.823337</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gedor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+12%3A7&amp;version=ESV"&gt;1 Chr 12:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.083333,31.633330</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gedor~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A39&amp;version=ESV"&gt;1 Chr 4:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.777779,31.823337</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Geshur</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+2%3A23&amp;version=ESV"&gt;1 Chr 2:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+3%3A2&amp;version=ESV"&gt;1 Chr 3:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.416670,33.000000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gezer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A67&amp;version=ESV"&gt;1 Chr 6:67&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+7%3A28&amp;version=ESV"&gt;1 Chr 7:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+14%3A16&amp;version=ESV"&gt;1 Chr 14:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+20%3A4&amp;version=ESV"&gt;1 Chr 20:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.9225,31.876111</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gibeah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A31&amp;version=ESV"&gt;1 Chr 11:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+12%3A3&amp;version=ESV"&gt;1 Chr 12:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.231009,31.823781</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gibeon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A60&amp;version=ESV"&gt;1 Chr 6:60&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+8%3A29&amp;version=ESV"&gt;1 Chr 8:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+9%3A35&amp;version=ESV"&gt;1 Chr 9:35&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+12%3A4&amp;version=ESV"&gt;1 Chr 12:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+14%3A16&amp;version=ESV"&gt;1 Chr 14:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+16%3A39&amp;version=ESV"&gt;1 Chr 16:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+21%3A29&amp;version=ESV"&gt;1 Chr 21:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.184912,31.846847</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilead&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+2%3A22&amp;version=ESV"&gt;1 Chr 2:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A9&amp;version=ESV"&gt;1 Chr 5:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A10&amp;version=ESV"&gt;1 Chr 5:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A16&amp;version=ESV"&gt;1 Chr 5:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A80&amp;version=ESV"&gt;1 Chr 6:80&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+26%3A31&amp;version=ESV"&gt;1 Chr 26:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+27%3A21&amp;version=ESV"&gt;1 Chr 27:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Golan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A71&amp;version=ESV"&gt;1 Chr 6:71&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.937301,32.800075</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gozan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A26&amp;version=ESV"&gt;1 Chr 5:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.068890,36.840013</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Habor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A26&amp;version=ESV"&gt;1 Chr 5:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.789333,36.344972</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Halah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A26&amp;version=ESV"&gt;1 Chr 5:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.789333,36.344972</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hamath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A9&amp;version=ESV"&gt;1 Chr 18:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hammath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+2%3A55&amp;version=ESV"&gt;1 Chr 2:55&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.165000,33.125828</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hammon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A76&amp;version=ESV"&gt;1 Chr 6:76&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.165000,33.125828</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hara~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A26&amp;version=ESV"&gt;1 Chr 5:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.789333,36.344972</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Harod</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A27&amp;version=ESV"&gt;1 Chr 11:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.355647,32.549638</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Havvoth-jair~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+2%3A23&amp;version=ESV"&gt;1 Chr 2:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazar-shual</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A28&amp;version=ESV"&gt;1 Chr 4:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.942986,31.215418</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazar-susim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A31&amp;version=ESV"&gt;1 Chr 4:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.940502,31.391668</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hebron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+3%3A1&amp;version=ESV"&gt;1 Chr 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+3%3A4&amp;version=ESV"&gt;1 Chr 3:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A55&amp;version=ESV"&gt;1 Chr 6:55&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A57&amp;version=ESV"&gt;1 Chr 6:57&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A1&amp;version=ESV"&gt;1 Chr 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A3&amp;version=ESV"&gt;1 Chr 11:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+12%3A23&amp;version=ESV"&gt;1 Chr 12:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+12%3A38&amp;version=ESV"&gt;1 Chr 12:38&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+29%3A27&amp;version=ESV"&gt;1 Chr 29:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.094099,31.535773</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Heshbon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A81&amp;version=ESV"&gt;1 Chr 6:81&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.809018,31.800520</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hilen</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A58&amp;version=ESV"&gt;1 Chr 6:58&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.950000,31.583333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hormah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A30&amp;version=ESV"&gt;1 Chr 4:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.630620,30.880918</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hukok</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A75&amp;version=ESV"&gt;1 Chr 6:75&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.211971,32.955448</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jabesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+10%3A12&amp;version=ESV"&gt;1 Chr 10:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.611587,32.379821</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jabesh-gilead</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+10%3A11&amp;version=ESV"&gt;1 Chr 10:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.611587,32.379821</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jabez~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+2%3A55&amp;version=ESV"&gt;1 Chr 2:55&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jahzah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A78&amp;version=ESV"&gt;1 Chr 6:78&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.920631,31.501003</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jattir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A57&amp;version=ESV"&gt;1 Chr 6:57&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.069413,31.401438</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jazer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A81&amp;version=ESV"&gt;1 Chr 6:81&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+26%3A31&amp;version=ESV"&gt;1 Chr 26:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.727769,31.943529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jebus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A4&amp;version=ESV"&gt;1 Chr 11:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A5&amp;version=ESV"&gt;1 Chr 11:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jericho</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A78&amp;version=ESV"&gt;1 Chr 6:78&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+19%3A5&amp;version=ESV"&gt;1 Chr 19:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.443863,31.870601</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+3%3A4&amp;version=ESV"&gt;1 Chr 3:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+3%3A5&amp;version=ESV"&gt;1 Chr 3:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A10&amp;version=ESV"&gt;1 Chr 6:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A15&amp;version=ESV"&gt;1 Chr 6:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A32&amp;version=ESV"&gt;1 Chr 6:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+8%3A28&amp;version=ESV"&gt;1 Chr 8:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+8%3A32&amp;version=ESV"&gt;1 Chr 8:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+9%3A3&amp;version=ESV"&gt;1 Chr 9:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+9%3A34&amp;version=ESV"&gt;1 Chr 9:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+9%3A38&amp;version=ESV"&gt;1 Chr 9:38&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A4&amp;version=ESV"&gt;1 Chr 11:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+14%3A3&amp;version=ESV"&gt;1 Chr 14:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+14%3A4&amp;version=ESV"&gt;1 Chr 14:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+15%3A3&amp;version=ESV"&gt;1 Chr 15:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A7&amp;version=ESV"&gt;1 Chr 18:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+19%3A15&amp;version=ESV"&gt;1 Chr 19:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+20%3A1&amp;version=ESV"&gt;1 Chr 20:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+20%3A3&amp;version=ESV"&gt;1 Chr 20:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+21%3A4&amp;version=ESV"&gt;1 Chr 21:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+21%3A15&amp;version=ESV"&gt;1 Chr 21:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+21%3A16&amp;version=ESV"&gt;1 Chr 21:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+23%3A25&amp;version=ESV"&gt;1 Chr 23:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+28%3A1&amp;version=ESV"&gt;1 Chr 28:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+29%3A27&amp;version=ESV"&gt;1 Chr 29:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jetur&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A19&amp;version=ESV"&gt;1 Chr 5:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jokmeam</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A68&amp;version=ESV"&gt;1 Chr 6:68&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.300000,31.833333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A78&amp;version=ESV"&gt;1 Chr 6:78&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+12%3A15&amp;version=ESV"&gt;1 Chr 12:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+12%3A37&amp;version=ESV"&gt;1 Chr 12:37&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+19%3A17&amp;version=ESV"&gt;1 Chr 19:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+26%3A30&amp;version=ESV"&gt;1 Chr 26:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kabzeel~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A22&amp;version=ESV"&gt;1 Chr 11:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.96745,31.1858</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kedemoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A79&amp;version=ESV"&gt;1 Chr 6:79&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.894537,31.646073</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kedesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A76&amp;version=ESV"&gt;1 Chr 6:76&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.533613,33.112983</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kedesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A72&amp;version=ESV"&gt;1 Chr 6:72&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.246206,32.559061</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kenath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+2%3A23&amp;version=ESV"&gt;1 Chr 2:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.616400,32.756919</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriath-jearim?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+13%3A5&amp;version=ESV"&gt;1 Chr 13:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+13%3A6&amp;version=ESV"&gt;1 Chr 13:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.993812,31.771104</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriathaim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A76&amp;version=ESV"&gt;1 Chr 6:76&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.165000,33.125828</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebo-hamath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+13%3A5&amp;version=ESV"&gt;1 Chr 13:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lehem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A22&amp;version=ESV"&gt;1 Chr 4:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Libnah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A57&amp;version=ESV"&gt;1 Chr 6:57&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.846725,31.564850</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lod</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+8%3A12&amp;version=ESV"&gt;1 Chr 8:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.895277,31.951388</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lower and Upper Beth-horon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+7%3A24&amp;version=ESV"&gt;1 Chr 7:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.123567,31.878925</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Maacah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+19%3A7&amp;version=ESV"&gt;1 Chr 19:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.5,33.2</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Madmannah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+2%3A49&amp;version=ESV"&gt;1 Chr 2:49&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.940502,31.391668</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mahanaim?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A80&amp;version=ESV"&gt;1 Chr 6:80&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.632914,32.214708</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Manahath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+8%3A6&amp;version=ESV"&gt;1 Chr 8:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.181972,31.752603</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mashal~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A74&amp;version=ESV"&gt;1 Chr 6:74&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.146201,33.047808</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Masrekah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+1%3A47&amp;version=ESV"&gt;1 Chr 1:47&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Medeba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+19%3A7&amp;version=ESV"&gt;1 Chr 19:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.791972,31.720457</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Megiddo</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+7%3A29&amp;version=ESV"&gt;1 Chr 7:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.182291,32.584183</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mephaath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A79&amp;version=ESV"&gt;1 Chr 6:79&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.933333,31.850000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mesopotamia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+19%3A6&amp;version=ESV"&gt;1 Chr 19:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Midian&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+1%3A46&amp;version=ESV"&gt;1 Chr 1:46&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.90832,28.932881</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Millo&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A8&amp;version=ESV"&gt;1 Chr 11:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+1%3A46&amp;version=ESV"&gt;1 Chr 1:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A22&amp;version=ESV"&gt;1 Chr 4:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+8%3A8&amp;version=ESV"&gt;1 Chr 8:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A22&amp;version=ESV"&gt;1 Chr 11:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A2&amp;version=ESV"&gt;1 Chr 18:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A11&amp;version=ESV"&gt;1 Chr 18:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moladah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A28&amp;version=ESV"&gt;1 Chr 4:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.057114,31.162327</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Most Holy Place&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A49&amp;version=ESV"&gt;1 Chr 6:49&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Gilboa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+10%3A1&amp;version=ESV"&gt;1 Chr 10:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+10%3A8&amp;version=ESV"&gt;1 Chr 10:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.408434,32.509840</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Hermon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A23&amp;version=ESV"&gt;1 Chr 5:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Seir&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A42&amp;version=ESV"&gt;1 Chr 4:42&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Naaran</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+7%3A28&amp;version=ESV"&gt;1 Chr 7:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.458730,31.949518</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Naphish&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A19&amp;version=ESV"&gt;1 Chr 5:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.937301,32.800075</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nebo</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A8&amp;version=ESV"&gt;1 Chr 5:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.743257,31.748024</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Netaim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A23&amp;version=ESV"&gt;1 Chr 4:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.777779,31.823337</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Netophah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A30&amp;version=ESV"&gt;1 Chr 11:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+27%3A13&amp;version=ESV"&gt;1 Chr 27:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.220503,31.735465</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nile</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+13%3A5&amp;version=ESV"&gt;1 Chr 13:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.230987,30.092632</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nodab&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A19&amp;version=ESV"&gt;1 Chr 5:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.937301,32.800075</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ono</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+8%3A12&amp;version=ESV"&gt;1 Chr 8:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.866666,32.022222</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ophir&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+29%3A4&amp;version=ESV"&gt;1 Chr 29:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>77,22</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pai&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+1%3A50&amp;version=ESV"&gt;1 Chr 1:50&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pas-dammim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A13&amp;version=ESV"&gt;1 Chr 11:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.944496,31.691186</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Perez-uzza~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+13%3A11&amp;version=ESV"&gt;1 Chr 13:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pirathon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A31&amp;version=ESV"&gt;1 Chr 11:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+27%3A14&amp;version=ESV"&gt;1 Chr 27:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.022944,32.286022</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rabbah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+20%3A1&amp;version=ESV"&gt;1 Chr 20:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.924131,31.950188</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramoth~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A73&amp;version=ESV"&gt;1 Chr 6:73&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A80&amp;version=ESV"&gt;1 Chr 6:80&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.330789,32.555963</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Recah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A12&amp;version=ESV"&gt;1 Chr 4:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rehob~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A75&amp;version=ESV"&gt;1 Chr 6:75&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.211971,32.955448</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rehoboth~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+1%3A48&amp;version=ESV"&gt;1 Chr 1:48&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.897633,30.884128</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rimmon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A32&amp;version=ESV"&gt;1 Chr 4:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.385705,34.353071</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rimmono</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A77&amp;version=ESV"&gt;1 Chr 6:77&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.321364,32.781808</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Salecah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A11&amp;version=ESV"&gt;1 Chr 5:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.710337,32.493941</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Senir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A23&amp;version=ESV"&gt;1 Chr 5:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shaaraim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A31&amp;version=ESV"&gt;1 Chr 4:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.482500,31.282222</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shallecheth&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+26%3A16&amp;version=ESV"&gt;1 Chr 26:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sharon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+27%3A29&amp;version=ESV"&gt;1 Chr 27:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.945929,32.639068</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sharon~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+5%3A16&amp;version=ESV"&gt;1 Chr 5:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shechem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A67&amp;version=ESV"&gt;1 Chr 6:67&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+7%3A28&amp;version=ESV"&gt;1 Chr 7:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.281798,32.213691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shephelah&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+27%3A28&amp;version=ESV"&gt;1 Chr 27:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.852145,31.777614</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Syria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A6&amp;version=ESV"&gt;1 Chr 18:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Taanach</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+7%3A29&amp;version=ESV"&gt;1 Chr 7:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.216325,32.517239</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tabor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+6%3A77&amp;version=ESV"&gt;1 Chr 6:77&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.324694,32.683231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tekoa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A28&amp;version=ESV"&gt;1 Chr 11:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.214077,31.636221</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tibhath~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A8&amp;version=ESV"&gt;1 Chr 18:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.152049,33.931480</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tochen~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A32&amp;version=ESV"&gt;1 Chr 4:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.9365,31.8099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tolad~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A29&amp;version=ESV"&gt;1 Chr 4:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tyre</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+14%3A1&amp;version=ESV"&gt;1 Chr 14:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.192574,33.275827</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Upper Beth-horon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+7%3A24&amp;version=ESV"&gt;1 Chr 7:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.128313,31.858917</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Uzzen-sheerah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+7%3A24&amp;version=ESV"&gt;1 Chr 7:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.045649,31.887821</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Rephaim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A15&amp;version=ESV"&gt;1 Chr 11:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+14%3A9&amp;version=ESV"&gt;1 Chr 14:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.223059,31.756332</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Salt</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A12&amp;version=ESV"&gt;1 Chr 18:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.383740,31.087328</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ziklag</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+4%3A30&amp;version=ESV"&gt;1 Chr 4:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+12%3A1&amp;version=ESV"&gt;1 Chr 12:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+12%3A20&amp;version=ESV"&gt;1 Chr 12:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.873561,31.377600</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+11%3A5&amp;version=ESV"&gt;1 Chr 11:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zobah-Hamath&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A3&amp;version=ESV"&gt;1 Chr 18:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.925484,34.312571</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zobah&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A5&amp;version=ESV"&gt;1 Chr 18:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+18%3A9&amp;version=ESV"&gt;1 Chr 18:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Chr+19%3A6&amp;version=ESV"&gt;1 Chr 19:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.925484,34.312571</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

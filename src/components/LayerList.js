@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 import Globe from 'worldwind-react-globe';
 
 import LayerButton from './LayerButton';
-import './Layers.css';
 
 export default class LayerList extends Component {
     static propTypes = {

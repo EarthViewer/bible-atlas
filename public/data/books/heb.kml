@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Heb</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Heb+3%3A16&amp;version=ESV"&gt;Heb 3:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Heb+8%3A9&amp;version=ESV"&gt;Heb 8:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Heb+11%3A26&amp;version=ESV"&gt;Heb 11:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Heb+11%3A27&amp;version=ESV"&gt;Heb 11:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Holy Place&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Heb+9%3A2&amp;version=ESV"&gt;Heb 9:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Italy&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Heb+13%3A24&amp;version=ESV"&gt;Heb 13:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>12.483333,41.9</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jericho</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Heb+11%3A30&amp;version=ESV"&gt;Heb 11:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.443863,31.870601</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Heb+12%3A22&amp;version=ESV"&gt;Heb 12:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Most Holy Place&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Heb+9%3A3&amp;version=ESV"&gt;Heb 9:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Zion&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Heb+12%3A22&amp;version=ESV"&gt;Heb 12:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Red Sea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Heb+11%3A29&amp;version=ESV"&gt;Heb 11:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.771729,27.088473</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Salem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Heb+7%3A1&amp;version=ESV"&gt;Heb 7:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Heb+7%3A2&amp;version=ESV"&gt;Heb 7:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

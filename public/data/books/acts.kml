@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Acts</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Achaia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A12&amp;version=ESV"&gt;Acts 18:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A27&amp;version=ESV"&gt;Acts 18:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A21&amp;version=ESV"&gt;Acts 19:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>23.733333,37.983333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Adramyttium</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A2&amp;version=ESV"&gt;Acts 27:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>26.936700,39.574800</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Adriatic Sea</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A27&amp;version=ESV"&gt;Acts 27:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>16.373500,42.415000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Akeldama~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+1%3A19&amp;version=ESV"&gt;Acts 1:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Alexandria</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A24&amp;version=ESV"&gt;Acts 18:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A6&amp;version=ESV"&gt;Acts 27:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+28%3A11&amp;version=ESV"&gt;Acts 28:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>29.956924,31.227841</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Amphipolis</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+17%3A1&amp;version=ESV"&gt;Acts 17:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>23.838631,40.823225</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Antioch</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+6%3A5&amp;version=ESV"&gt;Acts 6:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A19&amp;version=ESV"&gt;Acts 11:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A20&amp;version=ESV"&gt;Acts 11:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A22&amp;version=ESV"&gt;Acts 11:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A26&amp;version=ESV"&gt;Acts 11:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A27&amp;version=ESV"&gt;Acts 11:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A1&amp;version=ESV"&gt;Acts 13:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A26&amp;version=ESV"&gt;Acts 14:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A22&amp;version=ESV"&gt;Acts 15:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A23&amp;version=ESV"&gt;Acts 15:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A30&amp;version=ESV"&gt;Acts 15:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A35&amp;version=ESV"&gt;Acts 15:35&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A22&amp;version=ESV"&gt;Acts 18:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.162387,36.202330</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Antioch</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A14&amp;version=ESV"&gt;Acts 13:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A19&amp;version=ESV"&gt;Acts 14:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A21&amp;version=ESV"&gt;Acts 14:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.179486,38.316430</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Antipatris</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+23%3A31&amp;version=ESV"&gt;Acts 23:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.946509,32.100437</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Apollonia</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+17%3A1&amp;version=ESV"&gt;Acts 17:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>23.353351,40.587632</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Areopagus&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+17%3A19&amp;version=ESV"&gt;Acts 17:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+17%3A22&amp;version=ESV"&gt;Acts 17:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>23.733333,37.983333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Asia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A9&amp;version=ESV"&gt;Acts 2:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+6%3A9&amp;version=ESV"&gt;Acts 6:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A6&amp;version=ESV"&gt;Acts 16:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A10&amp;version=ESV"&gt;Acts 19:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A22&amp;version=ESV"&gt;Acts 19:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A26&amp;version=ESV"&gt;Acts 19:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A27&amp;version=ESV"&gt;Acts 19:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A16&amp;version=ESV"&gt;Acts 20:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A18&amp;version=ESV"&gt;Acts 20:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A27&amp;version=ESV"&gt;Acts 21:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+24%3A18&amp;version=ESV"&gt;Acts 24:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A2&amp;version=ESV"&gt;Acts 27:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.73,39.23</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Assos</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A13&amp;version=ESV"&gt;Acts 20:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A14&amp;version=ESV"&gt;Acts 20:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>26.335867,39.489550</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Athens</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+17%3A15&amp;version=ESV"&gt;Acts 17:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+17%3A16&amp;version=ESV"&gt;Acts 17:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+17%3A22&amp;version=ESV"&gt;Acts 17:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A1&amp;version=ESV"&gt;Acts 18:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>23.733333,37.983333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Attalia</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A25&amp;version=ESV"&gt;Acts 14:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>30.694565,36.880825</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Azotus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+8%3A40&amp;version=ESV"&gt;Acts 8:40&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.635114,31.802999</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Babylon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A43&amp;version=ESV"&gt;Acts 7:43&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beautiful Gate&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+3%3A2&amp;version=ESV"&gt;Acts 3:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+3%3A10&amp;version=ESV"&gt;Acts 3:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Berea</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+17%3A10&amp;version=ESV"&gt;Acts 17:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+17%3A13&amp;version=ESV"&gt;Acts 17:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>22.2,40.5167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bithynia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A7&amp;version=ESV"&gt;Acts 16:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>30.685778,40.905503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Caesarea</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+8%3A40&amp;version=ESV"&gt;Acts 8:40&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A30&amp;version=ESV"&gt;Acts 9:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+10%3A1&amp;version=ESV"&gt;Acts 10:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+10%3A24&amp;version=ESV"&gt;Acts 10:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A11&amp;version=ESV"&gt;Acts 11:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+12%3A19&amp;version=ESV"&gt;Acts 12:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A22&amp;version=ESV"&gt;Acts 18:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A8&amp;version=ESV"&gt;Acts 21:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A16&amp;version=ESV"&gt;Acts 21:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+23%3A23&amp;version=ESV"&gt;Acts 23:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+23%3A33&amp;version=ESV"&gt;Acts 23:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+25%3A1&amp;version=ESV"&gt;Acts 25:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+25%3A4&amp;version=ESV"&gt;Acts 25:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+25%3A6&amp;version=ESV"&gt;Acts 25:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+25%3A13&amp;version=ESV"&gt;Acts 25:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.892184,32.499544</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Canaan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A11&amp;version=ESV"&gt;Acts 7:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A19&amp;version=ESV"&gt;Acts 13:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.843882,31.693529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cappadocia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A9&amp;version=ESV"&gt;Acts 2:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.486302,36.731904</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cauda</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A16&amp;version=ESV"&gt;Acts 27:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>24.091671,34.843510</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cenchreae</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A18&amp;version=ESV"&gt;Acts 18:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>22.993359,37.884603</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chios</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A15&amp;version=ESV"&gt;Acts 20:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>26.063302,38.444840</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cilicia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+6%3A9&amp;version=ESV"&gt;Acts 6:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A23&amp;version=ESV"&gt;Acts 15:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A41&amp;version=ESV"&gt;Acts 15:41&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A39&amp;version=ESV"&gt;Acts 21:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+22%3A3&amp;version=ESV"&gt;Acts 22:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+23%3A34&amp;version=ESV"&gt;Acts 23:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A5&amp;version=ESV"&gt;Acts 27:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.891533,36.918026</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cnidus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A7&amp;version=ESV"&gt;Acts 27:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>27.374394,36.685022</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Corinth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A1&amp;version=ESV"&gt;Acts 18:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A1&amp;version=ESV"&gt;Acts 19:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>22.877881,37.905957</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cos</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A1&amp;version=ESV"&gt;Acts 21:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>27.089940,36.804670</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Crete</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A7&amp;version=ESV"&gt;Acts 27:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A12&amp;version=ESV"&gt;Acts 27:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A13&amp;version=ESV"&gt;Acts 27:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A21&amp;version=ESV"&gt;Acts 27:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>25.007204,35.171239</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cyprus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+4%3A36&amp;version=ESV"&gt;Acts 4:36&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A19&amp;version=ESV"&gt;Acts 11:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A20&amp;version=ESV"&gt;Acts 11:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A4&amp;version=ESV"&gt;Acts 13:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A39&amp;version=ESV"&gt;Acts 15:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A3&amp;version=ESV"&gt;Acts 21:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A16&amp;version=ESV"&gt;Acts 21:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A4&amp;version=ESV"&gt;Acts 27:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.207693,35.018306</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cyrene</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A10&amp;version=ESV"&gt;Acts 2:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A20&amp;version=ESV"&gt;Acts 11:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A1&amp;version=ESV"&gt;Acts 13:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>21.858301,32.824979</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Damascus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A2&amp;version=ESV"&gt;Acts 9:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A3&amp;version=ESV"&gt;Acts 9:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A8&amp;version=ESV"&gt;Acts 9:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A10&amp;version=ESV"&gt;Acts 9:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A19&amp;version=ESV"&gt;Acts 9:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A22&amp;version=ESV"&gt;Acts 9:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A27&amp;version=ESV"&gt;Acts 9:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+22%3A5&amp;version=ESV"&gt;Acts 22:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+22%3A6&amp;version=ESV"&gt;Acts 22:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+22%3A10&amp;version=ESV"&gt;Acts 22:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+22%3A11&amp;version=ESV"&gt;Acts 22:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+26%3A12&amp;version=ESV"&gt;Acts 26:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+26%3A20&amp;version=ESV"&gt;Acts 26:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Derbe</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A6&amp;version=ESV"&gt;Acts 14:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A20&amp;version=ESV"&gt;Acts 14:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A1&amp;version=ESV"&gt;Acts 16:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A4&amp;version=ESV"&gt;Acts 20:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.271417,37.350920</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A10&amp;version=ESV"&gt;Acts 2:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A9&amp;version=ESV"&gt;Acts 7:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A10&amp;version=ESV"&gt;Acts 7:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A11&amp;version=ESV"&gt;Acts 7:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A12&amp;version=ESV"&gt;Acts 7:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A15&amp;version=ESV"&gt;Acts 7:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A17&amp;version=ESV"&gt;Acts 7:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A18&amp;version=ESV"&gt;Acts 7:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A34&amp;version=ESV"&gt;Acts 7:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A36&amp;version=ESV"&gt;Acts 7:36&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A39&amp;version=ESV"&gt;Acts 7:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A40&amp;version=ESV"&gt;Acts 7:40&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A17&amp;version=ESV"&gt;Acts 13:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ephesus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A19&amp;version=ESV"&gt;Acts 18:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A21&amp;version=ESV"&gt;Acts 18:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A24&amp;version=ESV"&gt;Acts 18:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A1&amp;version=ESV"&gt;Acts 19:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A17&amp;version=ESV"&gt;Acts 19:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A26&amp;version=ESV"&gt;Acts 19:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A35&amp;version=ESV"&gt;Acts 19:35&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A16&amp;version=ESV"&gt;Acts 20:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A17&amp;version=ESV"&gt;Acts 20:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>27.367825,37.953314</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Fair Havens</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A8&amp;version=ESV"&gt;Acts 27:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>24.731141,34.921384</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Field of Blood~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+1%3A19&amp;version=ESV"&gt;Acts 1:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Forum of Appius</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+28%3A15&amp;version=ESV"&gt;Acts 28:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>12.993929,41.468706</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Galatia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A6&amp;version=ESV"&gt;Acts 16:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A23&amp;version=ESV"&gt;Acts 18:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.453182,37.578134</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Galilee&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+1%3A11&amp;version=ESV"&gt;Acts 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A31&amp;version=ESV"&gt;Acts 9:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+10%3A37&amp;version=ESV"&gt;Acts 10:37&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A31&amp;version=ESV"&gt;Acts 13:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.301528,32.706745</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gaza</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+8%3A26&amp;version=ESV"&gt;Acts 8:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.433364,31.524817</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Greece&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A2&amp;version=ESV"&gt;Acts 20:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>23.733333,37.983333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Haran</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A2&amp;version=ESV"&gt;Acts 7:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A4&amp;version=ESV"&gt;Acts 7:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>39.032196,36.863864</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Iconium</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A51&amp;version=ESV"&gt;Acts 13:51&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A1&amp;version=ESV"&gt;Acts 14:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A19&amp;version=ESV"&gt;Acts 14:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A21&amp;version=ESV"&gt;Acts 14:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A2&amp;version=ESV"&gt;Acts 16:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.494262,37.883530</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Italy&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A2&amp;version=ESV"&gt;Acts 18:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A1&amp;version=ESV"&gt;Acts 27:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A6&amp;version=ESV"&gt;Acts 27:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>12.483333,41.9</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+1%3A4&amp;version=ESV"&gt;Acts 1:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+1%3A8&amp;version=ESV"&gt;Acts 1:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+1%3A12&amp;version=ESV"&gt;Acts 1:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+1%3A19&amp;version=ESV"&gt;Acts 1:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A5&amp;version=ESV"&gt;Acts 2:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A14&amp;version=ESV"&gt;Acts 2:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+4%3A5&amp;version=ESV"&gt;Acts 4:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+4%3A16&amp;version=ESV"&gt;Acts 4:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+5%3A16&amp;version=ESV"&gt;Acts 5:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+5%3A28&amp;version=ESV"&gt;Acts 5:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+6%3A7&amp;version=ESV"&gt;Acts 6:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+8%3A1&amp;version=ESV"&gt;Acts 8:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+8%3A14&amp;version=ESV"&gt;Acts 8:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+8%3A25&amp;version=ESV"&gt;Acts 8:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+8%3A26&amp;version=ESV"&gt;Acts 8:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+8%3A27&amp;version=ESV"&gt;Acts 8:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A2&amp;version=ESV"&gt;Acts 9:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A13&amp;version=ESV"&gt;Acts 9:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A21&amp;version=ESV"&gt;Acts 9:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A26&amp;version=ESV"&gt;Acts 9:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A28&amp;version=ESV"&gt;Acts 9:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+10%3A39&amp;version=ESV"&gt;Acts 10:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A2&amp;version=ESV"&gt;Acts 11:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A22&amp;version=ESV"&gt;Acts 11:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A27&amp;version=ESV"&gt;Acts 11:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+12%3A25&amp;version=ESV"&gt;Acts 12:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A13&amp;version=ESV"&gt;Acts 13:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A27&amp;version=ESV"&gt;Acts 13:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A31&amp;version=ESV"&gt;Acts 13:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A2&amp;version=ESV"&gt;Acts 15:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A4&amp;version=ESV"&gt;Acts 15:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A4&amp;version=ESV"&gt;Acts 16:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A21&amp;version=ESV"&gt;Acts 19:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A16&amp;version=ESV"&gt;Acts 20:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A22&amp;version=ESV"&gt;Acts 20:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A4&amp;version=ESV"&gt;Acts 21:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A11&amp;version=ESV"&gt;Acts 21:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A12&amp;version=ESV"&gt;Acts 21:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A13&amp;version=ESV"&gt;Acts 21:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A15&amp;version=ESV"&gt;Acts 21:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A17&amp;version=ESV"&gt;Acts 21:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A31&amp;version=ESV"&gt;Acts 21:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+22%3A5&amp;version=ESV"&gt;Acts 22:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+22%3A17&amp;version=ESV"&gt;Acts 22:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+22%3A18&amp;version=ESV"&gt;Acts 22:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+23%3A11&amp;version=ESV"&gt;Acts 23:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+24%3A11&amp;version=ESV"&gt;Acts 24:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+25%3A1&amp;version=ESV"&gt;Acts 25:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+25%3A3&amp;version=ESV"&gt;Acts 25:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+25%3A7&amp;version=ESV"&gt;Acts 25:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+25%3A9&amp;version=ESV"&gt;Acts 25:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+25%3A15&amp;version=ESV"&gt;Acts 25:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+25%3A20&amp;version=ESV"&gt;Acts 25:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+25%3A24&amp;version=ESV"&gt;Acts 25:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+26%3A4&amp;version=ESV"&gt;Acts 26:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+26%3A10&amp;version=ESV"&gt;Acts 26:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+26%3A20&amp;version=ESV"&gt;Acts 26:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+28%3A17&amp;version=ESV"&gt;Acts 28:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Joppa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A36&amp;version=ESV"&gt;Acts 9:36&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A38&amp;version=ESV"&gt;Acts 9:38&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A42&amp;version=ESV"&gt;Acts 9:42&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A43&amp;version=ESV"&gt;Acts 9:43&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+10%3A5&amp;version=ESV"&gt;Acts 10:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+10%3A8&amp;version=ESV"&gt;Acts 10:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+10%3A23&amp;version=ESV"&gt;Acts 10:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+10%3A32&amp;version=ESV"&gt;Acts 10:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A5&amp;version=ESV"&gt;Acts 11:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A13&amp;version=ESV"&gt;Acts 11:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.750426,32.053519</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Judea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+1%3A8&amp;version=ESV"&gt;Acts 1:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A9&amp;version=ESV"&gt;Acts 2:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A14&amp;version=ESV"&gt;Acts 2:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+8%3A1&amp;version=ESV"&gt;Acts 8:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A31&amp;version=ESV"&gt;Acts 9:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+10%3A37&amp;version=ESV"&gt;Acts 10:37&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A1&amp;version=ESV"&gt;Acts 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A29&amp;version=ESV"&gt;Acts 11:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+12%3A19&amp;version=ESV"&gt;Acts 12:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A1&amp;version=ESV"&gt;Acts 15:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A10&amp;version=ESV"&gt;Acts 21:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+26%3A20&amp;version=ESV"&gt;Acts 26:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+28%3A21&amp;version=ESV"&gt;Acts 28:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lasea</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A8&amp;version=ESV"&gt;Acts 27:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>24.809198,34.934917</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Libya&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A10&amp;version=ESV"&gt;Acts 2:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>21.858301,32.824979</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lycaonia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A6&amp;version=ESV"&gt;Acts 14:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.494262,37.883530</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lycia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A5&amp;version=ESV"&gt;Acts 27:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>29.318637,36.274717</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lydda</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A32&amp;version=ESV"&gt;Acts 9:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A35&amp;version=ESV"&gt;Acts 9:35&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A38&amp;version=ESV"&gt;Acts 9:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.895277,31.951388</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lystra</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A6&amp;version=ESV"&gt;Acts 14:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A8&amp;version=ESV"&gt;Acts 14:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A21&amp;version=ESV"&gt;Acts 14:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A1&amp;version=ESV"&gt;Acts 16:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A2&amp;version=ESV"&gt;Acts 16:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.453182,37.578134</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Macedonia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A9&amp;version=ESV"&gt;Acts 16:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A10&amp;version=ESV"&gt;Acts 16:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A12&amp;version=ESV"&gt;Acts 16:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A5&amp;version=ESV"&gt;Acts 18:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A21&amp;version=ESV"&gt;Acts 19:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A22&amp;version=ESV"&gt;Acts 19:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A1&amp;version=ESV"&gt;Acts 20:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A3&amp;version=ESV"&gt;Acts 20:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>22.932086,40.632155</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Malta</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+28%3A1&amp;version=ESV"&gt;Acts 28:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>14.532436,35.852826</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mesopotamia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A9&amp;version=ESV"&gt;Acts 2:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A2&amp;version=ESV"&gt;Acts 7:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Midian&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A29&amp;version=ESV"&gt;Acts 7:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.90832,28.932881</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Miletus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A15&amp;version=ESV"&gt;Acts 20:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A17&amp;version=ESV"&gt;Acts 20:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>27.3,37.5</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mitylene</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A14&amp;version=ESV"&gt;Acts 20:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>26.551804,39.100335</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Sinai</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A30&amp;version=ESV"&gt;Acts 7:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A38&amp;version=ESV"&gt;Acts 7:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.973333,28.539722</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Myra</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A5&amp;version=ESV"&gt;Acts 27:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>30.011458,36.230771</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mysia~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A7&amp;version=ESV"&gt;Acts 16:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A8&amp;version=ESV"&gt;Acts 16:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>26.080592,39.506643</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nazareth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A22&amp;version=ESV"&gt;Acts 2:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+3%3A6&amp;version=ESV"&gt;Acts 3:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+4%3A10&amp;version=ESV"&gt;Acts 4:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+6%3A14&amp;version=ESV"&gt;Acts 6:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+10%3A38&amp;version=ESV"&gt;Acts 10:38&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+22%3A8&amp;version=ESV"&gt;Acts 22:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+26%3A9&amp;version=ESV"&gt;Acts 26:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.301528,32.706745</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Neapolis</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A11&amp;version=ESV"&gt;Acts 16:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>24.417679,40.944131</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Olivet</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+1%3A12&amp;version=ESV"&gt;Acts 1:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.247197,31.778095</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pamphylia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A10&amp;version=ESV"&gt;Acts 2:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A13&amp;version=ESV"&gt;Acts 13:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A24&amp;version=ESV"&gt;Acts 14:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A38&amp;version=ESV"&gt;Acts 15:38&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A5&amp;version=ESV"&gt;Acts 27:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>30.904945,37.005208</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Paphos</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A6&amp;version=ESV"&gt;Acts 13:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A13&amp;version=ESV"&gt;Acts 13:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.400162,34.754105</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Patara</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A1&amp;version=ESV"&gt;Acts 21:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>29.318637,36.274717</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Perga</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A13&amp;version=ESV"&gt;Acts 13:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A14&amp;version=ESV"&gt;Acts 13:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A25&amp;version=ESV"&gt;Acts 14:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>30.904945,37.005208</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Philippi</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A12&amp;version=ESV"&gt;Acts 16:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A6&amp;version=ESV"&gt;Acts 20:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>24.286190,41.011959</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Phoenicia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A19&amp;version=ESV"&gt;Acts 11:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A3&amp;version=ESV"&gt;Acts 15:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A2&amp;version=ESV"&gt;Acts 21:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Phoenix</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A12&amp;version=ESV"&gt;Acts 27:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>24.080982,35.198885</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Phrygia~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A10&amp;version=ESV"&gt;Acts 2:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A6&amp;version=ESV"&gt;Acts 16:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A23&amp;version=ESV"&gt;Acts 18:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>29.064501,37.769867</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pisidia~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A14&amp;version=ESV"&gt;Acts 13:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+14%3A24&amp;version=ESV"&gt;Acts 14:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.179486,38.316430</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pontus&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A9&amp;version=ESV"&gt;Acts 2:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A2&amp;version=ESV"&gt;Acts 18:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>37.799969,40.905222</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ptolemais</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A7&amp;version=ESV"&gt;Acts 21:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.081555,32.927583</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Puteoli</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+28%3A13&amp;version=ESV"&gt;Acts 28:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>14.267743,40.835630</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Red Sea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A36&amp;version=ESV"&gt;Acts 7:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.771729,27.088473</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rhegium</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+28%3A13&amp;version=ESV"&gt;Acts 28:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>15.643279,38.111580</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rhodes</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A1&amp;version=ESV"&gt;Acts 21:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>28.226721,36.441926</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rome</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+2%3A10&amp;version=ESV"&gt;Acts 2:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A2&amp;version=ESV"&gt;Acts 18:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+19%3A21&amp;version=ESV"&gt;Acts 19:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+23%3A11&amp;version=ESV"&gt;Acts 23:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+28%3A14&amp;version=ESV"&gt;Acts 28:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+28%3A16&amp;version=ESV"&gt;Acts 28:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>12.483333,41.9</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Salamis</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A5&amp;version=ESV"&gt;Acts 13:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.907552,35.177246</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Salmone</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A7&amp;version=ESV"&gt;Acts 27:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>26.274491,35.212297</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Samaria</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+1%3A8&amp;version=ESV"&gt;Acts 1:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+8%3A1&amp;version=ESV"&gt;Acts 8:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+8%3A5&amp;version=ESV"&gt;Acts 8:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+8%3A9&amp;version=ESV"&gt;Acts 8:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+8%3A14&amp;version=ESV"&gt;Acts 8:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A31&amp;version=ESV"&gt;Acts 9:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A3&amp;version=ESV"&gt;Acts 15:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.197929,32.280231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Samos</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A15&amp;version=ESV"&gt;Acts 20:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>26.934167,37.715172</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Samothrace</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A11&amp;version=ESV"&gt;Acts 16:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>25.486069,40.467279</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Seleucia</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+13%3A4&amp;version=ESV"&gt;Acts 13:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.926807,36.111017</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sharon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A35&amp;version=ESV"&gt;Acts 9:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.945929,32.639068</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shechem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+7%3A16&amp;version=ESV"&gt;Acts 7:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.281798,32.213691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sidon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+12%3A20&amp;version=ESV"&gt;Acts 12:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A3&amp;version=ESV"&gt;Acts 27:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Solomon's Portico&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+5%3A12&amp;version=ESV"&gt;Acts 5:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Solomon's&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+3%3A11&amp;version=ESV"&gt;Acts 3:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Straight~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A11&amp;version=ESV"&gt;Acts 9:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Syracuse</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+28%3A12&amp;version=ESV"&gt;Acts 28:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>15.294823,37.068232</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Syria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A23&amp;version=ESV"&gt;Acts 15:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+15%3A41&amp;version=ESV"&gt;Acts 15:41&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+18%3A18&amp;version=ESV"&gt;Acts 18:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A3&amp;version=ESV"&gt;Acts 20:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A3&amp;version=ESV"&gt;Acts 21:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Syrtis</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A17&amp;version=ESV"&gt;Acts 27:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>18.505556,31.766667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tarsus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A11&amp;version=ESV"&gt;Acts 9:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+9%3A30&amp;version=ESV"&gt;Acts 9:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+11%3A25&amp;version=ESV"&gt;Acts 11:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A39&amp;version=ESV"&gt;Acts 21:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+22%3A3&amp;version=ESV"&gt;Acts 22:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.891533,36.918026</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Thessalonica</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+17%3A1&amp;version=ESV"&gt;Acts 17:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+17%3A11&amp;version=ESV"&gt;Acts 17:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+17%3A13&amp;version=ESV"&gt;Acts 17:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+27%3A2&amp;version=ESV"&gt;Acts 27:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>22.932086,40.632155</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Three Taverns</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+28%3A15&amp;version=ESV"&gt;Acts 28:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>12.828636,41.591320</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Thyatira</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A14&amp;version=ESV"&gt;Acts 16:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>27.856555,38.925791</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Troas</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A8&amp;version=ESV"&gt;Acts 16:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+16%3A11&amp;version=ESV"&gt;Acts 16:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A5&amp;version=ESV"&gt;Acts 20:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+20%3A6&amp;version=ESV"&gt;Acts 20:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>26.080592,39.506643</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tyre</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Acts+12%3A20&amp;version=ESV"&gt;Acts 12:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A3&amp;version=ESV"&gt;Acts 21:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Acts+21%3A7&amp;version=ESV"&gt;Acts 21:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.192574,33.275827</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

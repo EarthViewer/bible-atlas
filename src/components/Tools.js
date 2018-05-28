@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import Globe from 'worldwind-react-globe';
+import FontAwesome from 'react-fontawesome';
 
 import Markers from './Markers';
 import './Tools.css';
@@ -26,14 +27,14 @@ export default class Tools extends Component {
     }   
     
     static pushpins = [
-        "/images/pushpins/castshadow-red.png",
-        "/images/pushpins/castshadow-green.png",
-        "/images/pushpins/castshadow-blue.png",
-        "/images/pushpins/castshadow-orange.png",
-        "/images/pushpins/castshadow-teal.png",
-        "/images/pushpins/castshadow-purple.png",
-        "/images/pushpins/castshadow-white.png",
-        "/images/pushpins/castshadow-black.png"
+        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-red.png",
+        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-green.png",
+        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-blue.png",
+        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-orange.png",
+        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-teal.png",
+        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-purple.png",
+        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-white.png",
+        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-black.png"
     ];
     
     selectPushpin(pushpin) {
@@ -70,7 +71,10 @@ export default class Tools extends Component {
         const globe = this.props.globe;
         const layer = globe.getLayer(this.props.markersLayerName);
         if (layer) {
+            // Add the placemark to the globe
             layer.addRenderable(placemark);
+            
+            // Add the placemark to the Markers component
             this.props.markers.addMarker(placemark);
         } else {
             console.warn("Renderable layer for markers not found: "+ this.props.markersLayerName);
@@ -94,8 +98,8 @@ export default class Tools extends Component {
             <div className="btn-group interactive p-3">
                 <button type="button" 
                         className="btn btn-default btn-sm tool-button p-1"
-                        onClick={()=>this.armDropMarker()}>
-                    <span className="fas fa-plus" aria-hidden="true"></span>
+                        onClick={() => this.armDropMarker()}>
+                    <FontAwesome name='plus'/>
                     <img className="tool-image" src={this.state.selectedMarkerImage} alt="Marker"/>
                 </button>
                 <button type="button" id="marker-palette" 

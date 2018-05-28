@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Matt</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Arimathea</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+27%3A57&amp;version=ESV"&gt;Matt 27:57&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Babylon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+1%3A11&amp;version=ESV"&gt;Matt 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+1%3A12&amp;version=ESV"&gt;Matt 1:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+1%3A17&amp;version=ESV"&gt;Matt 1:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethany</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+21%3A17&amp;version=ESV"&gt;Matt 21:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+26%3A6&amp;version=ESV"&gt;Matt 26:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.262122,31.771665</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethlehem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A1&amp;version=ESV"&gt;Matt 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A5&amp;version=ESV"&gt;Matt 2:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A6&amp;version=ESV"&gt;Matt 2:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A8&amp;version=ESV"&gt;Matt 2:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A16&amp;version=ESV"&gt;Matt 2:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethphage</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+21%3A1&amp;version=ESV"&gt;Matt 21:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.256672,31.790383</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethsaida</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+11%3A21&amp;version=ESV"&gt;Matt 11:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.626972,32.907848</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Caesarea Philippi</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+16%3A13&amp;version=ESV"&gt;Matt 16:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.694637,33.248059</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Capernaum</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+4%3A13&amp;version=ESV"&gt;Matt 4:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+8%3A5&amp;version=ESV"&gt;Matt 8:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+11%3A23&amp;version=ESV"&gt;Matt 11:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+17%3A24&amp;version=ESV"&gt;Matt 17:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.575157,32.880594</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chorazin</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+11%3A21&amp;version=ESV"&gt;Matt 11:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.552923,32.909091</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cyrene</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+27%3A32&amp;version=ESV"&gt;Matt 27:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>21.858301,32.824979</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Decapolis&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+4%3A25&amp;version=ESV"&gt;Matt 4:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A13&amp;version=ESV"&gt;Matt 2:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A14&amp;version=ESV"&gt;Matt 2:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A15&amp;version=ESV"&gt;Matt 2:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A19&amp;version=ESV"&gt;Matt 2:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Field of Blood~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+27%3A8&amp;version=ESV"&gt;Matt 27:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Galilee&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A22&amp;version=ESV"&gt;Matt 2:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+3%3A13&amp;version=ESV"&gt;Matt 3:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+4%3A12&amp;version=ESV"&gt;Matt 4:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+4%3A15&amp;version=ESV"&gt;Matt 4:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+4%3A23&amp;version=ESV"&gt;Matt 4:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+4%3A25&amp;version=ESV"&gt;Matt 4:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+17%3A22&amp;version=ESV"&gt;Matt 17:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+19%3A1&amp;version=ESV"&gt;Matt 19:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+21%3A11&amp;version=ESV"&gt;Matt 21:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+26%3A32&amp;version=ESV"&gt;Matt 26:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+27%3A55&amp;version=ESV"&gt;Matt 27:55&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+28%3A7&amp;version=ESV"&gt;Matt 28:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+28%3A10&amp;version=ESV"&gt;Matt 28:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+28%3A16&amp;version=ESV"&gt;Matt 28:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.301528,32.706745</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gennesaret</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+14%3A34&amp;version=ESV"&gt;Matt 14:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.509937,32.859358</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gethsemane~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+26%3A36&amp;version=ESV"&gt;Matt 26:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Golgotha&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+27%3A33&amp;version=ESV"&gt;Matt 27:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gomorrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+10%3A15&amp;version=ESV"&gt;Matt 10:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.473954,31.157248</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jericho</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+20%3A29&amp;version=ESV"&gt;Matt 20:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.443863,31.870601</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A1&amp;version=ESV"&gt;Matt 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A3&amp;version=ESV"&gt;Matt 2:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+3%3A5&amp;version=ESV"&gt;Matt 3:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+4%3A25&amp;version=ESV"&gt;Matt 4:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+5%3A35&amp;version=ESV"&gt;Matt 5:35&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+15%3A1&amp;version=ESV"&gt;Matt 15:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+16%3A21&amp;version=ESV"&gt;Matt 16:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+20%3A17&amp;version=ESV"&gt;Matt 20:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+20%3A18&amp;version=ESV"&gt;Matt 20:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+21%3A1&amp;version=ESV"&gt;Matt 21:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+21%3A10&amp;version=ESV"&gt;Matt 21:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+23%3A37&amp;version=ESV"&gt;Matt 23:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+3%3A5&amp;version=ESV"&gt;Matt 3:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+3%3A6&amp;version=ESV"&gt;Matt 3:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+3%3A13&amp;version=ESV"&gt;Matt 3:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+4%3A15&amp;version=ESV"&gt;Matt 4:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+4%3A25&amp;version=ESV"&gt;Matt 4:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+19%3A1&amp;version=ESV"&gt;Matt 19:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Judea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A1&amp;version=ESV"&gt;Matt 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A5&amp;version=ESV"&gt;Matt 2:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A22&amp;version=ESV"&gt;Matt 2:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+3%3A1&amp;version=ESV"&gt;Matt 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+3%3A5&amp;version=ESV"&gt;Matt 3:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+4%3A25&amp;version=ESV"&gt;Matt 4:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+19%3A1&amp;version=ESV"&gt;Matt 19:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+24%3A16&amp;version=ESV"&gt;Matt 24:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Magadan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+15%3A39&amp;version=ESV"&gt;Matt 15:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.522936,32.847334</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount of Olives</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+21%3A1&amp;version=ESV"&gt;Matt 21:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+24%3A3&amp;version=ESV"&gt;Matt 24:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+26%3A30&amp;version=ESV"&gt;Matt 26:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.247197,31.778095</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nazareth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A23&amp;version=ESV"&gt;Matt 2:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+4%3A13&amp;version=ESV"&gt;Matt 4:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+21%3A11&amp;version=ESV"&gt;Matt 21:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+26%3A71&amp;version=ESV"&gt;Matt 26:71&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.301528,32.706745</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nineveh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+12%3A41&amp;version=ESV"&gt;Matt 12:41&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Place of a Skull~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+27%3A33&amp;version=ESV"&gt;Matt 27:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+2%3A18&amp;version=ESV"&gt;Matt 2:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.201730,31.896378</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sea of Galilee</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+4%3A18&amp;version=ESV"&gt;Matt 4:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+15%3A29&amp;version=ESV"&gt;Matt 15:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.589360,32.806775</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sidon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+11%3A21&amp;version=ESV"&gt;Matt 11:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+11%3A22&amp;version=ESV"&gt;Matt 11:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+15%3A21&amp;version=ESV"&gt;Matt 15:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sodom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+10%3A15&amp;version=ESV"&gt;Matt 10:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+11%3A23&amp;version=ESV"&gt;Matt 11:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+11%3A24&amp;version=ESV"&gt;Matt 11:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.396484,31.196560</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Syria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+4%3A24&amp;version=ESV"&gt;Matt 4:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tyre</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+11%3A21&amp;version=ESV"&gt;Matt 11:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+11%3A22&amp;version=ESV"&gt;Matt 11:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Matt+15%3A21&amp;version=ESV"&gt;Matt 15:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.192574,33.275827</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Matt+21%3A5&amp;version=ESV"&gt;Matt 21:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

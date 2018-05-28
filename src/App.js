@@ -8,10 +8,11 @@ import Layers from './components/Layers';
 import Markers from './components/Markers';
 import Settings from './components/Settings';
 import WmsCatalog from './api/WmsCatalog';
-
 import './App.css';
 
 /* global WorldWind */
+
+const MARKERS_LAYER='Markers';
 
 const App = observer(class App extends Component {
   constructor(props) {
@@ -28,7 +29,7 @@ const App = observer(class App extends Component {
     this.globe = null;
 
     // Specify the location to the images folder used by WorldWind 
-    Globe.setBaseUrl('/');
+    //Globe.setBaseUrl('./');
   }
 
   /**
@@ -53,7 +54,7 @@ const App = observer(class App extends Component {
       {layer: "Sentinal2 with Labels", options: {category: "base", enabled: true}},
       {layer: "Bing Roads", options: {category: "base", enabled: false}},
       {layer: "OpenStreetMap", options: {category: "base", enabled: false}},
-      {layer: new WorldWind.RenderableLayer("Markers"), options: {category: "data", enabled: true}},
+      {layer: new WorldWind.RenderableLayer(MARKERS_LAYER), options: {category: "data", enabled: true}},
       {layer: "Compass", options: {category: "setting", enabled: false}},
       {layer: "Coordinates", options: {category: "setting", enabled: true}},
       {layer: "View Controls", options: {category: "setting", enabled: true}},
@@ -79,21 +80,24 @@ const App = observer(class App extends Component {
             <NavBar 
                 globe={this.globe}
                 title='Bible Atlas'
-                logo='/images/mapicons/cross-2.png'
-                href='https://github.io/emxsys/bible-atlas'/>
+                logo='./images/mapicons/cross-2.png'
+                href='https://github.com/emxsys/bible-atlas'/>
             <div className="App container-fluid p-0">
                 <div className="globe">
                     <Globe 
                         ref={this.globeRef} 
+                        latitude={31.78}
+                        longitude={35.24}
+                        altitude={1e6}
                         onUpdate={this.onGlobeUpdate.bind(this)} />
                 </div>
-                <div className="globe-overlay noninteractive">
+                <div className="overlayTools noninteractive">
                     <Tools 
                         globe={this.globeRef.current} 
                         markers={this.markersRef.current}
                         markersLayerName="Markers"/>
                 </div>
-                <div className="globe-overlay noninteractive">
+                <div className="overlayCards noninteractive">
                     <div className="card-columns">
                         <div id="layers" className="collapse interactive">
                             <Layers
@@ -105,7 +109,7 @@ const App = observer(class App extends Component {
                             <Markers 
                                 ref={this.markersRef}
                                 globe={this.globeRef.current}
-                                markersLayerName="Markers" />
+                                markersLayerName={MARKERS_LAYER} />
                         </div>
                         <div id="settings" className="collapse interactive">
                             <Settings

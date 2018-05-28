@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>1 Cor</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Achaia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Cor+16%3A15&amp;version=ESV"&gt;1 Cor 16:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>23.733333,37.983333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Asia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Cor+16%3A19&amp;version=ESV"&gt;1 Cor 16:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.73,39.23</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Corinth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Cor+1%3A2&amp;version=ESV"&gt;1 Cor 1:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>22.877881,37.905957</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ephesus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Cor+15%3A32&amp;version=ESV"&gt;1 Cor 15:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=1+Cor+16%3A8&amp;version=ESV"&gt;1 Cor 16:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>27.367825,37.953314</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Galatia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Cor+16%3A1&amp;version=ESV"&gt;1 Cor 16:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.453182,37.578134</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Cor+16%3A3&amp;version=ESV"&gt;1 Cor 16:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Macedonia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Cor+16%3A5&amp;version=ESV"&gt;1 Cor 16:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>22.932086,40.632155</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

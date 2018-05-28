@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Isa</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Aiath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A28&amp;version=ESV"&gt;Isa 10:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.261226,31.916978</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Anathoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A30&amp;version=ESV"&gt;Isa 10:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.263498,31.812912</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ar</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A1&amp;version=ESV"&gt;Isa 15:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.593958,31.449809</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arabia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+21%3A13&amp;version=ESV"&gt;Isa 21:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>37.7,27.4</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ararat</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A38&amp;version=ESV"&gt;Isa 37:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.298180,39.702892</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ariel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+29%3A1&amp;version=ESV"&gt;Isa 29:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+29%3A2&amp;version=ESV"&gt;Isa 29:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+29%3A7&amp;version=ESV"&gt;Isa 29:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arnon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A2&amp;version=ESV"&gt;Isa 16:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.677009,31.428800</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aroer~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+17%3A2&amp;version=ESV"&gt;Isa 17:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.9115,31.9617</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arpad~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A9&amp;version=ESV"&gt;Isa 10:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A19&amp;version=ESV"&gt;Isa 36:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A13&amp;version=ESV"&gt;Isa 37:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashdod</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+20%3A1&amp;version=ESV"&gt;Isa 20:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.635114,31.802999</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Assyria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A17&amp;version=ESV"&gt;Isa 7:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A18&amp;version=ESV"&gt;Isa 7:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A20&amp;version=ESV"&gt;Isa 7:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+8%3A4&amp;version=ESV"&gt;Isa 8:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+8%3A7&amp;version=ESV"&gt;Isa 8:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A5&amp;version=ESV"&gt;Isa 10:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A12&amp;version=ESV"&gt;Isa 10:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+11%3A11&amp;version=ESV"&gt;Isa 11:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+11%3A16&amp;version=ESV"&gt;Isa 11:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A23&amp;version=ESV"&gt;Isa 19:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A24&amp;version=ESV"&gt;Isa 19:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A25&amp;version=ESV"&gt;Isa 19:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+20%3A1&amp;version=ESV"&gt;Isa 20:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+20%3A4&amp;version=ESV"&gt;Isa 20:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+20%3A6&amp;version=ESV"&gt;Isa 20:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A13&amp;version=ESV"&gt;Isa 23:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+27%3A13&amp;version=ESV"&gt;Isa 27:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A1&amp;version=ESV"&gt;Isa 36:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A2&amp;version=ESV"&gt;Isa 36:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A4&amp;version=ESV"&gt;Isa 36:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A8&amp;version=ESV"&gt;Isa 36:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A13&amp;version=ESV"&gt;Isa 36:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A15&amp;version=ESV"&gt;Isa 36:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A16&amp;version=ESV"&gt;Isa 36:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A18&amp;version=ESV"&gt;Isa 36:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A4&amp;version=ESV"&gt;Isa 37:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A6&amp;version=ESV"&gt;Isa 37:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A8&amp;version=ESV"&gt;Isa 37:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A10&amp;version=ESV"&gt;Isa 37:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A11&amp;version=ESV"&gt;Isa 37:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A18&amp;version=ESV"&gt;Isa 37:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A21&amp;version=ESV"&gt;Isa 37:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A33&amp;version=ESV"&gt;Isa 37:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A37&amp;version=ESV"&gt;Isa 37:37&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+38%3A6&amp;version=ESV"&gt;Isa 38:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Babylon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+13%3A1&amp;version=ESV"&gt;Isa 13:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+13%3A19&amp;version=ESV"&gt;Isa 13:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+14%3A4&amp;version=ESV"&gt;Isa 14:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+14%3A22&amp;version=ESV"&gt;Isa 14:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+21%3A9&amp;version=ESV"&gt;Isa 21:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+39%3A1&amp;version=ESV"&gt;Isa 39:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+39%3A3&amp;version=ESV"&gt;Isa 39:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+39%3A6&amp;version=ESV"&gt;Isa 39:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+39%3A7&amp;version=ESV"&gt;Isa 39:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+43%3A14&amp;version=ESV"&gt;Isa 43:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+47%3A1&amp;version=ESV"&gt;Isa 47:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+48%3A14&amp;version=ESV"&gt;Isa 48:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+48%3A20&amp;version=ESV"&gt;Isa 48:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bashan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+2%3A13&amp;version=ESV"&gt;Isa 2:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+33%3A9&amp;version=ESV"&gt;Isa 33:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.937301,32.800075</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beer-elim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A8&amp;version=ESV"&gt;Isa 15:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.498547,30.998062</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bozrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+34%3A6&amp;version=ESV"&gt;Isa 34:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+63%3A1&amp;version=ESV"&gt;Isa 63:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Brook of Egypt</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+27%3A12&amp;version=ESV"&gt;Isa 27:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.854957,31.032047</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Brook of the Willows~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A7&amp;version=ESV"&gt;Isa 15:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Calno</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A9&amp;version=ESV"&gt;Isa 10:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>45.229995,32.127213</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Canaan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A18&amp;version=ESV"&gt;Isa 19:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A11&amp;version=ESV"&gt;Isa 23:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.843882,31.693529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Carchemish</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A9&amp;version=ESV"&gt;Isa 10:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>38.015760,36.829281</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Carmel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+33%3A9&amp;version=ESV"&gt;Isa 33:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+35%3A2&amp;version=ESV"&gt;Isa 35:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.133331,31.433331</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chaldea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+48%3A20&amp;version=ESV"&gt;Isa 48:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>46.103741,30.962052</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>City of Destruction</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A18&amp;version=ESV"&gt;Isa 19:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>City of the Lord</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+60%3A14&amp;version=ESV"&gt;Isa 60:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cush&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+11%3A11&amp;version=ESV"&gt;Isa 11:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+18%3A1&amp;version=ESV"&gt;Isa 18:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+20%3A3&amp;version=ESV"&gt;Isa 20:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+20%3A5&amp;version=ESV"&gt;Isa 20:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A9&amp;version=ESV"&gt;Isa 37:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+43%3A3&amp;version=ESV"&gt;Isa 43:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+45%3A14&amp;version=ESV"&gt;Isa 45:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.343557,21.959788</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cyprus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A1&amp;version=ESV"&gt;Isa 23:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A12&amp;version=ESV"&gt;Isa 23:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.207693,35.018306</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Damascus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A8&amp;version=ESV"&gt;Isa 7:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+8%3A4&amp;version=ESV"&gt;Isa 8:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A9&amp;version=ESV"&gt;Isa 10:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+17%3A1&amp;version=ESV"&gt;Isa 17:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+17%3A3&amp;version=ESV"&gt;Isa 17:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dibon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A2&amp;version=ESV"&gt;Isa 15:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A9&amp;version=ESV"&gt;Isa 15:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dumah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+21%3A11&amp;version=ESV"&gt;Isa 21:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>37.7,27.4</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Edom&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+11%3A14&amp;version=ESV"&gt;Isa 11:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+34%3A5&amp;version=ESV"&gt;Isa 34:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+34%3A6&amp;version=ESV"&gt;Isa 34:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+34%3A9&amp;version=ESV"&gt;Isa 34:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+63%3A1&amp;version=ESV"&gt;Isa 63:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eglaim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A8&amp;version=ESV"&gt;Isa 15:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.498547,30.998062</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt's&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A6&amp;version=ESV"&gt;Isa 19:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+30%3A7&amp;version=ESV"&gt;Isa 30:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A18&amp;version=ESV"&gt;Isa 7:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A26&amp;version=ESV"&gt;Isa 10:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+11%3A11&amp;version=ESV"&gt;Isa 11:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+11%3A16&amp;version=ESV"&gt;Isa 11:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A1&amp;version=ESV"&gt;Isa 19:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A12&amp;version=ESV"&gt;Isa 19:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A13&amp;version=ESV"&gt;Isa 19:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A14&amp;version=ESV"&gt;Isa 19:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A15&amp;version=ESV"&gt;Isa 19:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A18&amp;version=ESV"&gt;Isa 19:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A19&amp;version=ESV"&gt;Isa 19:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A20&amp;version=ESV"&gt;Isa 19:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A22&amp;version=ESV"&gt;Isa 19:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A23&amp;version=ESV"&gt;Isa 19:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A24&amp;version=ESV"&gt;Isa 19:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A25&amp;version=ESV"&gt;Isa 19:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+20%3A3&amp;version=ESV"&gt;Isa 20:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+20%3A4&amp;version=ESV"&gt;Isa 20:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+20%3A5&amp;version=ESV"&gt;Isa 20:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A5&amp;version=ESV"&gt;Isa 23:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+27%3A13&amp;version=ESV"&gt;Isa 27:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+30%3A2&amp;version=ESV"&gt;Isa 30:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+30%3A3&amp;version=ESV"&gt;Isa 30:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+31%3A1&amp;version=ESV"&gt;Isa 31:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A6&amp;version=ESV"&gt;Isa 36:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A9&amp;version=ESV"&gt;Isa 36:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A25&amp;version=ESV"&gt;Isa 37:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+43%3A3&amp;version=ESV"&gt;Isa 43:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+45%3A14&amp;version=ESV"&gt;Isa 45:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+52%3A4&amp;version=ESV"&gt;Isa 52:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Elam&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+11%3A11&amp;version=ESV"&gt;Isa 11:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+21%3A2&amp;version=ESV"&gt;Isa 21:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+22%3A6&amp;version=ESV"&gt;Isa 22:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.257886,32.189191</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Elealeh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A4&amp;version=ESV"&gt;Isa 15:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A9&amp;version=ESV"&gt;Isa 16:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.824275,31.813796</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ephah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+60%3A6&amp;version=ESV"&gt;Isa 60:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.90832,28.932881</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Euphrates</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+27%3A12&amp;version=ESV"&gt;Isa 27:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.427780,35.090577</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Galilee&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+9%3A1&amp;version=ESV"&gt;Isa 9:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.301528,32.706745</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gallim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A30&amp;version=ESV"&gt;Isa 10:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.250000,31.816667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Geba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A29&amp;version=ESV"&gt;Isa 10:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.259755,31.857878</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gebim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A31&amp;version=ESV"&gt;Isa 10:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.250000,31.800000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gibeah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A29&amp;version=ESV"&gt;Isa 10:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.231009,31.823781</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gomorrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+1%3A9&amp;version=ESV"&gt;Isa 1:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+1%3A10&amp;version=ESV"&gt;Isa 1:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+13%3A19&amp;version=ESV"&gt;Isa 13:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.473954,31.157248</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gozan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A12&amp;version=ESV"&gt;Isa 37:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.068890,36.840013</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hamath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A9&amp;version=ESV"&gt;Isa 10:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+11%3A11&amp;version=ESV"&gt;Isa 11:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A19&amp;version=ESV"&gt;Isa 36:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A13&amp;version=ESV"&gt;Isa 37:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hanes</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+30%3A4&amp;version=ESV"&gt;Isa 30:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>30.934402,29.085425</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Haran</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A12&amp;version=ESV"&gt;Isa 37:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>39.032196,36.863864</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hena</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A13&amp;version=ESV"&gt;Isa 37:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>41.964955,34.467725</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Heshbon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A4&amp;version=ESV"&gt;Isa 15:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A8&amp;version=ESV"&gt;Isa 16:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A9&amp;version=ESV"&gt;Isa 16:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.809018,31.800520</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Horonaim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A5&amp;version=ESV"&gt;Isa 15:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.515000,31.288056</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>House of the Forest&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+22%3A8&amp;version=ESV"&gt;Isa 22:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ivvah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A13&amp;version=ESV"&gt;Isa 37:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>41.964955,34.467725</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jahaz</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A4&amp;version=ESV"&gt;Isa 15:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.920631,31.501003</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Javan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+66%3A19&amp;version=ESV"&gt;Isa 66:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>27.367825,37.953314</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jazer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A8&amp;version=ESV"&gt;Isa 16:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A9&amp;version=ESV"&gt;Isa 16:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.727769,31.943529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+1%3A1&amp;version=ESV"&gt;Isa 1:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+2%3A1&amp;version=ESV"&gt;Isa 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+2%3A3&amp;version=ESV"&gt;Isa 2:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+3%3A1&amp;version=ESV"&gt;Isa 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+3%3A8&amp;version=ESV"&gt;Isa 3:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+4%3A3&amp;version=ESV"&gt;Isa 4:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+4%3A4&amp;version=ESV"&gt;Isa 4:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+5%3A3&amp;version=ESV"&gt;Isa 5:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+5%3A14&amp;version=ESV"&gt;Isa 5:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A1&amp;version=ESV"&gt;Isa 7:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+8%3A14&amp;version=ESV"&gt;Isa 8:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A10&amp;version=ESV"&gt;Isa 10:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A11&amp;version=ESV"&gt;Isa 10:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A12&amp;version=ESV"&gt;Isa 10:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A32&amp;version=ESV"&gt;Isa 10:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+22%3A10&amp;version=ESV"&gt;Isa 22:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+22%3A21&amp;version=ESV"&gt;Isa 22:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+24%3A23&amp;version=ESV"&gt;Isa 24:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+27%3A13&amp;version=ESV"&gt;Isa 27:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+28%3A14&amp;version=ESV"&gt;Isa 28:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+30%3A19&amp;version=ESV"&gt;Isa 30:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+31%3A5&amp;version=ESV"&gt;Isa 31:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+31%3A9&amp;version=ESV"&gt;Isa 31:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+33%3A20&amp;version=ESV"&gt;Isa 33:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A2&amp;version=ESV"&gt;Isa 36:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A7&amp;version=ESV"&gt;Isa 36:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A20&amp;version=ESV"&gt;Isa 36:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A10&amp;version=ESV"&gt;Isa 37:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A22&amp;version=ESV"&gt;Isa 37:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A32&amp;version=ESV"&gt;Isa 37:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+40%3A2&amp;version=ESV"&gt;Isa 40:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+40%3A9&amp;version=ESV"&gt;Isa 40:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+41%3A27&amp;version=ESV"&gt;Isa 41:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+44%3A26&amp;version=ESV"&gt;Isa 44:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+44%3A28&amp;version=ESV"&gt;Isa 44:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+51%3A17&amp;version=ESV"&gt;Isa 51:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+52%3A1&amp;version=ESV"&gt;Isa 52:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+52%3A2&amp;version=ESV"&gt;Isa 52:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+52%3A9&amp;version=ESV"&gt;Isa 52:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+62%3A6&amp;version=ESV"&gt;Isa 62:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+62%3A7&amp;version=ESV"&gt;Isa 62:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+64%3A10&amp;version=ESV"&gt;Isa 64:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+65%3A18&amp;version=ESV"&gt;Isa 65:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+65%3A19&amp;version=ESV"&gt;Isa 65:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+66%3A10&amp;version=ESV"&gt;Isa 66:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+66%3A13&amp;version=ESV"&gt;Isa 66:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+66%3A20&amp;version=ESV"&gt;Isa 66:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem's</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+62%3A1&amp;version=ESV"&gt;Isa 62:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+9%3A1&amp;version=ESV"&gt;Isa 9:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kedar~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+21%3A16&amp;version=ESV"&gt;Isa 21:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+21%3A17&amp;version=ESV"&gt;Isa 21:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+42%3A11&amp;version=ESV"&gt;Isa 42:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+60%3A7&amp;version=ESV"&gt;Isa 60:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>37.7,27.4</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A1&amp;version=ESV"&gt;Isa 15:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+22%3A6&amp;version=ESV"&gt;Isa 22:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.702147,31.181325</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kir-hareseth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A7&amp;version=ESV"&gt;Isa 16:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A11&amp;version=ESV"&gt;Isa 16:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.702147,31.181325</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lachish</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A2&amp;version=ESV"&gt;Isa 36:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A8&amp;version=ESV"&gt;Isa 37:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.846725,31.564850</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Laishah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A30&amp;version=ESV"&gt;Isa 10:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.250000,31.800000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebanon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+2%3A13&amp;version=ESV"&gt;Isa 2:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A34&amp;version=ESV"&gt;Isa 10:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+14%3A8&amp;version=ESV"&gt;Isa 14:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+29%3A17&amp;version=ESV"&gt;Isa 29:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+33%3A9&amp;version=ESV"&gt;Isa 33:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+35%3A2&amp;version=ESV"&gt;Isa 35:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A24&amp;version=ESV"&gt;Isa 37:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+40%3A16&amp;version=ESV"&gt;Isa 40:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+60%3A13&amp;version=ESV"&gt;Isa 60:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.590804,33.752479</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Libnah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A8&amp;version=ESV"&gt;Isa 37:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.846725,31.564850</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lud</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+66%3A19&amp;version=ESV"&gt;Isa 66:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.895277,31.951388</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Luhith~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A5&amp;version=ESV"&gt;Isa 15:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.515000,31.288056</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Madmenah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A31&amp;version=ESV"&gt;Isa 10:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.250000,31.800000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Medeba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A2&amp;version=ESV"&gt;Isa 15:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.791972,31.720457</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Media&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+21%3A2&amp;version=ESV"&gt;Isa 21:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.514966,34.798311</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Memphis</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A13&amp;version=ESV"&gt;Isa 19:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.253958,29.849632</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Michmash</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A28&amp;version=ESV"&gt;Isa 10:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.279235,31.870184</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Midian&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+9%3A4&amp;version=ESV"&gt;Isa 9:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A26&amp;version=ESV"&gt;Isa 10:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+60%3A6&amp;version=ESV"&gt;Isa 60:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.90832,28.932881</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Migron~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A28&amp;version=ESV"&gt;Isa 10:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.231009,31.823781</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+11%3A14&amp;version=ESV"&gt;Isa 11:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A1&amp;version=ESV"&gt;Isa 15:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A2&amp;version=ESV"&gt;Isa 15:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A4&amp;version=ESV"&gt;Isa 15:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A5&amp;version=ESV"&gt;Isa 15:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A8&amp;version=ESV"&gt;Isa 15:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A9&amp;version=ESV"&gt;Isa 15:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A2&amp;version=ESV"&gt;Isa 16:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A4&amp;version=ESV"&gt;Isa 16:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A6&amp;version=ESV"&gt;Isa 16:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A7&amp;version=ESV"&gt;Isa 16:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A11&amp;version=ESV"&gt;Isa 16:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A12&amp;version=ESV"&gt;Isa 16:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A13&amp;version=ESV"&gt;Isa 16:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A14&amp;version=ESV"&gt;Isa 16:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+25%3A10&amp;version=ESV"&gt;Isa 25:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Perazim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+28%3A21&amp;version=ESV"&gt;Isa 28:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.223059,31.756332</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Zion&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+4%3A5&amp;version=ESV"&gt;Isa 4:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+8%3A18&amp;version=ESV"&gt;Isa 8:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A12&amp;version=ESV"&gt;Isa 10:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+18%3A7&amp;version=ESV"&gt;Isa 18:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+24%3A23&amp;version=ESV"&gt;Isa 24:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+29%3A8&amp;version=ESV"&gt;Isa 29:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+31%3A4&amp;version=ESV"&gt;Isa 31:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A32&amp;version=ESV"&gt;Isa 37:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nebaioth&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+60%3A7&amp;version=ESV"&gt;Isa 60:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.456279,30.322435</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nebo</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A2&amp;version=ESV"&gt;Isa 15:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.743257,31.748024</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Negeb&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+21%3A1&amp;version=ESV"&gt;Isa 21:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+30%3A6&amp;version=ESV"&gt;Isa 30:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.2,30.3</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nile</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A6&amp;version=ESV"&gt;Isa 19:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A7&amp;version=ESV"&gt;Isa 19:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A8&amp;version=ESV"&gt;Isa 19:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A3&amp;version=ESV"&gt;Isa 23:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A10&amp;version=ESV"&gt;Isa 23:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.230987,30.092632</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nimrim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A6&amp;version=ESV"&gt;Isa 15:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.531138,31.133191</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nineveh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A37&amp;version=ESV"&gt;Isa 37:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nob</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A32&amp;version=ESV"&gt;Isa 10:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.232980,31.799605</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ophir&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+13%3A12&amp;version=ESV"&gt;Isa 13:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>77,22</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pathros&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+11%3A11&amp;version=ESV"&gt;Isa 11:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>30.692312,28.322364</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Philistia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+14%3A29&amp;version=ESV"&gt;Isa 14:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+14%3A31&amp;version=ESV"&gt;Isa 14:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pul&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+66%3A19&amp;version=ESV"&gt;Isa 66:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>21.858301,32.824979</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rahab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+30%3A7&amp;version=ESV"&gt;Isa 30:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+51%3A9&amp;version=ESV"&gt;Isa 51:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A29&amp;version=ESV"&gt;Isa 10:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.201730,31.896378</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rezeph</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A12&amp;version=ESV"&gt;Isa 37:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>39.016667,35.950000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>River</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A20&amp;version=ESV"&gt;Isa 7:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+8%3A7&amp;version=ESV"&gt;Isa 8:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+11%3A15&amp;version=ESV"&gt;Isa 11:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.427780,35.090577</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Samaria</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A9&amp;version=ESV"&gt;Isa 7:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+8%3A4&amp;version=ESV"&gt;Isa 8:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+9%3A9&amp;version=ESV"&gt;Isa 9:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A9&amp;version=ESV"&gt;Isa 10:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A10&amp;version=ESV"&gt;Isa 10:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A11&amp;version=ESV"&gt;Isa 10:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A19&amp;version=ESV"&gt;Isa 36:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.197929,32.280231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sea of Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+11%3A15&amp;version=ESV"&gt;Isa 11:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.771729,27.088473</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Seba&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+43%3A3&amp;version=ESV"&gt;Isa 43:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>38.746799,9.022736</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Seir&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+21%3A11&amp;version=ESV"&gt;Isa 21:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sela</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A1&amp;version=ESV"&gt;Isa 16:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+42%3A11&amp;version=ESV"&gt;Isa 42:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.456279,30.322435</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sepharvaim?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A19&amp;version=ESV"&gt;Isa 36:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A13&amp;version=ESV"&gt;Isa 37:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.459399,33.789693</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sharon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+33%3A9&amp;version=ESV"&gt;Isa 33:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+35%3A2&amp;version=ESV"&gt;Isa 35:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+65%3A10&amp;version=ESV"&gt;Isa 65:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.945929,32.639068</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sheba&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+60%3A6&amp;version=ESV"&gt;Isa 60:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>38.746799,9.022736</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shihor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A3&amp;version=ESV"&gt;Isa 23:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.854957,31.032047</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shiloah&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+8%3A6&amp;version=ESV"&gt;Isa 8:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shinar&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+11%3A11&amp;version=ESV"&gt;Isa 11:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sibmah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A8&amp;version=ESV"&gt;Isa 16:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A9&amp;version=ESV"&gt;Isa 16:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.766738,31.815283</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sidon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A2&amp;version=ESV"&gt;Isa 23:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A4&amp;version=ESV"&gt;Isa 23:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A12&amp;version=ESV"&gt;Isa 23:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sodom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+1%3A9&amp;version=ESV"&gt;Isa 1:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+1%3A10&amp;version=ESV"&gt;Isa 1:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+3%3A9&amp;version=ESV"&gt;Isa 3:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+13%3A19&amp;version=ESV"&gt;Isa 13:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.396484,31.196560</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Syene</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+49%3A12&amp;version=ESV"&gt;Isa 49:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.895862,24.066181</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Syria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A1&amp;version=ESV"&gt;Isa 7:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A2&amp;version=ESV"&gt;Isa 7:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A4&amp;version=ESV"&gt;Isa 7:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A5&amp;version=ESV"&gt;Isa 7:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A8&amp;version=ESV"&gt;Isa 7:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+17%3A3&amp;version=ESV"&gt;Isa 17:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tarshish</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+2%3A16&amp;version=ESV"&gt;Isa 2:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A1&amp;version=ESV"&gt;Isa 23:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A6&amp;version=ESV"&gt;Isa 23:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A10&amp;version=ESV"&gt;Isa 23:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A14&amp;version=ESV"&gt;Isa 23:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+60%3A9&amp;version=ESV"&gt;Isa 60:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+66%3A19&amp;version=ESV"&gt;Isa 66:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>-6.379340,36.952995</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Telassar~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A12&amp;version=ESV"&gt;Isa 37:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.257886,32.189191</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tema</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+21%3A14&amp;version=ESV"&gt;Isa 21:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>38.554125,27.633172</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tubal~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+66%3A19&amp;version=ESV"&gt;Isa 66:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>37.799969,40.905222</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tyre</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A1&amp;version=ESV"&gt;Isa 23:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A5&amp;version=ESV"&gt;Isa 23:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A8&amp;version=ESV"&gt;Isa 23:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A15&amp;version=ESV"&gt;Isa 23:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+23%3A17&amp;version=ESV"&gt;Isa 23:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.192574,33.275827</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Achor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+65%3A10&amp;version=ESV"&gt;Isa 65:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.399737,31.836890</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Gibeon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+28%3A21&amp;version=ESV"&gt;Isa 28:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.184912,31.846847</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Rephaim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+17%3A5&amp;version=ESV"&gt;Isa 17:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.223059,31.756332</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Washer's Field~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+7%3A3&amp;version=ESV"&gt;Isa 7:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+36%3A2&amp;version=ESV"&gt;Isa 36:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.227994,31.769079</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Way of Holiness~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+35%3A8&amp;version=ESV"&gt;Isa 35:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+1%3A8&amp;version=ESV"&gt;Isa 1:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+1%3A27&amp;version=ESV"&gt;Isa 1:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+2%3A3&amp;version=ESV"&gt;Isa 2:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+3%3A16&amp;version=ESV"&gt;Isa 3:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+3%3A17&amp;version=ESV"&gt;Isa 3:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+4%3A3&amp;version=ESV"&gt;Isa 4:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+4%3A4&amp;version=ESV"&gt;Isa 4:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A24&amp;version=ESV"&gt;Isa 10:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+10%3A32&amp;version=ESV"&gt;Isa 10:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+12%3A6&amp;version=ESV"&gt;Isa 12:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+14%3A32&amp;version=ESV"&gt;Isa 14:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+16%3A1&amp;version=ESV"&gt;Isa 16:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+28%3A16&amp;version=ESV"&gt;Isa 28:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+30%3A19&amp;version=ESV"&gt;Isa 30:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+31%3A9&amp;version=ESV"&gt;Isa 31:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+33%3A5&amp;version=ESV"&gt;Isa 33:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+33%3A14&amp;version=ESV"&gt;Isa 33:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+33%3A20&amp;version=ESV"&gt;Isa 33:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+34%3A8&amp;version=ESV"&gt;Isa 34:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+35%3A10&amp;version=ESV"&gt;Isa 35:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+37%3A22&amp;version=ESV"&gt;Isa 37:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+40%3A9&amp;version=ESV"&gt;Isa 40:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+41%3A27&amp;version=ESV"&gt;Isa 41:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+46%3A13&amp;version=ESV"&gt;Isa 46:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+49%3A14&amp;version=ESV"&gt;Isa 49:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+51%3A3&amp;version=ESV"&gt;Isa 51:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+51%3A11&amp;version=ESV"&gt;Isa 51:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+51%3A16&amp;version=ESV"&gt;Isa 51:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+52%3A1&amp;version=ESV"&gt;Isa 52:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+52%3A2&amp;version=ESV"&gt;Isa 52:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+52%3A7&amp;version=ESV"&gt;Isa 52:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+52%3A8&amp;version=ESV"&gt;Isa 52:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+59%3A20&amp;version=ESV"&gt;Isa 59:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+60%3A14&amp;version=ESV"&gt;Isa 60:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+61%3A3&amp;version=ESV"&gt;Isa 61:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+62%3A11&amp;version=ESV"&gt;Isa 62:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+64%3A10&amp;version=ESV"&gt;Isa 64:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+66%3A8&amp;version=ESV"&gt;Isa 66:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zion's</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+33%3A6&amp;version=ESV"&gt;Isa 33:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+62%3A1&amp;version=ESV"&gt;Isa 62:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zoan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A11&amp;version=ESV"&gt;Isa 19:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+19%3A13&amp;version=ESV"&gt;Isa 19:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Isa+30%3A4&amp;version=ESV"&gt;Isa 30:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.884173,30.974619</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zoar</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Isa+15%3A5&amp;version=ESV"&gt;Isa 15:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.419060,30.926522</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

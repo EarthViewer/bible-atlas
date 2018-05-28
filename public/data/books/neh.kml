@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Neh</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Adullam</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A30&amp;version=ESV"&gt;Neh 11:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.000000,31.650000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ai</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A32&amp;version=ESV"&gt;Neh 7:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.261226,31.916978</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aija</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A31&amp;version=ESV"&gt;Neh 11:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.261226,31.916978</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ammon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+13%3A23&amp;version=ESV"&gt;Neh 13:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.924131,31.950188</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ananiah?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A32&amp;version=ESV"&gt;Neh 11:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.219683,31.832910</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Anathoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A27&amp;version=ESV"&gt;Neh 7:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A32&amp;version=ESV"&gt;Neh 11:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.263498,31.812912</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashdod</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+13%3A23&amp;version=ESV"&gt;Neh 13:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+13%3A24&amp;version=ESV"&gt;Neh 13:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.635114,31.802999</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Assyria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+9%3A32&amp;version=ESV"&gt;Neh 9:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Azekah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A30&amp;version=ESV"&gt;Neh 11:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.936185,31.700638</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Azmaveth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A29&amp;version=ESV"&gt;Neh 12:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.260706,31.834203</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Babylon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A6&amp;version=ESV"&gt;Neh 7:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+13%3A6&amp;version=ESV"&gt;Neh 13:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bashan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+9%3A22&amp;version=ESV"&gt;Neh 9:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.937301,32.800075</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beeroth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A29&amp;version=ESV"&gt;Neh 7:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.216688,31.900074</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beersheba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A27&amp;version=ESV"&gt;Neh 11:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A30&amp;version=ESV"&gt;Neh 11:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.840888,31.244952</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-azmaveth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A28&amp;version=ESV"&gt;Neh 7:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.260706,31.834203</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-gilgal</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A29&amp;version=ESV"&gt;Neh 12:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.518546,31.863783</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-haccherem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A14&amp;version=ESV"&gt;Neh 3:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.241516,31.665911</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-pelet~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A26&amp;version=ESV"&gt;Neh 11:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.942986,31.215418</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-zur</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A16&amp;version=ESV"&gt;Neh 3:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.102620,31.596107</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A32&amp;version=ESV"&gt;Neh 7:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A31&amp;version=ESV"&gt;Neh 11:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethlehem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A26&amp;version=ESV"&gt;Neh 7:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beyond the River&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+2%3A7&amp;version=ESV"&gt;Neh 2:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+2%3A9&amp;version=ESV"&gt;Neh 2:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A7&amp;version=ESV"&gt;Neh 3:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Broad Wall~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A8&amp;version=ESV"&gt;Neh 3:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A38&amp;version=ESV"&gt;Neh 12:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chephirah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A29&amp;version=ESV"&gt;Neh 7:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.095272,31.836401</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cherub~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A61&amp;version=ESV"&gt;Neh 7:61&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dibon~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A25&amp;version=ESV"&gt;Neh 11:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.96745,31.1858</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dragon Spring&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+2%3A13&amp;version=ESV"&gt;Neh 2:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dung Gate&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+2%3A13&amp;version=ESV"&gt;Neh 2:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A13&amp;version=ESV"&gt;Neh 3:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A14&amp;version=ESV"&gt;Neh 3:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A31&amp;version=ESV"&gt;Neh 12:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>East Gate&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A29&amp;version=ESV"&gt;Neh 3:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+9%3A9&amp;version=ESV"&gt;Neh 9:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+9%3A17&amp;version=ESV"&gt;Neh 9:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+9%3A18&amp;version=ESV"&gt;Neh 9:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>En-rimmon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A29&amp;version=ESV"&gt;Neh 11:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.860665,31.370835</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Fish Gate&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A3&amp;version=ESV"&gt;Neh 3:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A39&amp;version=ESV"&gt;Neh 12:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Fountain Gate&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+2%3A14&amp;version=ESV"&gt;Neh 2:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A15&amp;version=ESV"&gt;Neh 3:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A37&amp;version=ESV"&gt;Neh 12:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gate of Ephraim&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+8%3A16&amp;version=ESV"&gt;Neh 8:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A39&amp;version=ESV"&gt;Neh 12:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gate of Yeshanah&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A6&amp;version=ESV"&gt;Neh 3:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A39&amp;version=ESV"&gt;Neh 12:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gate of the Guard&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A39&amp;version=ESV"&gt;Neh 12:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Geba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A30&amp;version=ESV"&gt;Neh 7:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A31&amp;version=ESV"&gt;Neh 11:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A29&amp;version=ESV"&gt;Neh 12:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.259755,31.857878</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gibeon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A7&amp;version=ESV"&gt;Neh 3:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A25&amp;version=ESV"&gt;Neh 7:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.184912,31.846847</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gittaim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A33&amp;version=ESV"&gt;Neh 11:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.952536,31.963575</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hadid</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A34&amp;version=ESV"&gt;Neh 11:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.952536,31.963575</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hakkephirim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+6%3A2&amp;version=ESV"&gt;Neh 6:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.866666,32.022222</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazar-shual</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A27&amp;version=ESV"&gt;Neh 11:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.942986,31.215418</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazor~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A33&amp;version=ESV"&gt;Neh 11:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.20000,31.833333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Heshbon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+9%3A22&amp;version=ESV"&gt;Neh 9:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.809018,31.800520</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Horse Gate&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A28&amp;version=ESV"&gt;Neh 3:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Immer~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A61&amp;version=ESV"&gt;Neh 7:61&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jarmuth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A29&amp;version=ESV"&gt;Neh 11:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.969953,31.709268</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jekabzeel~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A25&amp;version=ESV"&gt;Neh 11:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.96745,31.1858</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jericho</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A2&amp;version=ESV"&gt;Neh 3:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A36&amp;version=ESV"&gt;Neh 7:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.443863,31.870601</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+1%3A2&amp;version=ESV"&gt;Neh 1:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+1%3A3&amp;version=ESV"&gt;Neh 1:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+2%3A11&amp;version=ESV"&gt;Neh 2:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+2%3A12&amp;version=ESV"&gt;Neh 2:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+2%3A13&amp;version=ESV"&gt;Neh 2:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+2%3A17&amp;version=ESV"&gt;Neh 2:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+2%3A20&amp;version=ESV"&gt;Neh 2:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A8&amp;version=ESV"&gt;Neh 3:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A9&amp;version=ESV"&gt;Neh 3:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A12&amp;version=ESV"&gt;Neh 3:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+4%3A7&amp;version=ESV"&gt;Neh 4:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+4%3A8&amp;version=ESV"&gt;Neh 4:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+4%3A22&amp;version=ESV"&gt;Neh 4:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+6%3A7&amp;version=ESV"&gt;Neh 6:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A2&amp;version=ESV"&gt;Neh 7:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A3&amp;version=ESV"&gt;Neh 7:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A6&amp;version=ESV"&gt;Neh 7:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+8%3A15&amp;version=ESV"&gt;Neh 8:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A1&amp;version=ESV"&gt;Neh 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A2&amp;version=ESV"&gt;Neh 11:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A3&amp;version=ESV"&gt;Neh 11:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A4&amp;version=ESV"&gt;Neh 11:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A6&amp;version=ESV"&gt;Neh 11:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A22&amp;version=ESV"&gt;Neh 11:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A27&amp;version=ESV"&gt;Neh 12:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A28&amp;version=ESV"&gt;Neh 12:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A29&amp;version=ESV"&gt;Neh 12:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A43&amp;version=ESV"&gt;Neh 12:43&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+13%3A6&amp;version=ESV"&gt;Neh 13:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+13%3A7&amp;version=ESV"&gt;Neh 13:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+13%3A15&amp;version=ESV"&gt;Neh 13:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+13%3A16&amp;version=ESV"&gt;Neh 13:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+13%3A19&amp;version=ESV"&gt;Neh 13:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+13%3A20&amp;version=ESV"&gt;Neh 13:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jeshua~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A26&amp;version=ESV"&gt;Neh 11:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.057114,31.162327</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Keilah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A17&amp;version=ESV"&gt;Neh 3:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A18&amp;version=ESV"&gt;Neh 3:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.002752,31.614175</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>King's Pool&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+2%3A14&amp;version=ESV"&gt;Neh 2:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriath-arba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A25&amp;version=ESV"&gt;Neh 11:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.094099,31.535773</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriath-jearim?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A29&amp;version=ESV"&gt;Neh 7:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.993812,31.771104</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lachish</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A30&amp;version=ESV"&gt;Neh 11:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.846725,31.564850</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lod</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A37&amp;version=ESV"&gt;Neh 7:37&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A35&amp;version=ESV"&gt;Neh 11:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.895277,31.951388</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Meconah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A28&amp;version=ESV"&gt;Neh 11:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.860665,31.370835</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Michmas</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A31&amp;version=ESV"&gt;Neh 7:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.279235,31.870184</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Michmash</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A31&amp;version=ESV"&gt;Neh 11:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.279235,31.870184</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mizpah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A7&amp;version=ESV"&gt;Neh 3:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A15&amp;version=ESV"&gt;Neh 3:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A19&amp;version=ESV"&gt;Neh 3:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+13%3A23&amp;version=ESV"&gt;Neh 13:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moladah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A26&amp;version=ESV"&gt;Neh 11:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.057114,31.162327</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Sinai</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+9%3A13&amp;version=ESV"&gt;Neh 9:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.973333,28.539722</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Muster Gate&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A31&amp;version=ESV"&gt;Neh 3:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Neballat</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A34&amp;version=ESV"&gt;Neh 11:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.957563,31.992079</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nebo</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A33&amp;version=ESV"&gt;Neh 7:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.037417,31.606256</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Netophah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A26&amp;version=ESV"&gt;Neh 7:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.220503,31.735465</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nob</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A32&amp;version=ESV"&gt;Neh 11:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.232980,31.799605</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ono</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+6%3A2&amp;version=ESV"&gt;Neh 6:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A37&amp;version=ESV"&gt;Neh 7:37&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A35&amp;version=ESV"&gt;Neh 11:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.866666,32.022222</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ophel&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A26&amp;version=ESV"&gt;Neh 3:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A27&amp;version=ESV"&gt;Neh 3:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A21&amp;version=ESV"&gt;Neh 11:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pool of Shelah&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A15&amp;version=ESV"&gt;Neh 3:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A30&amp;version=ESV"&gt;Neh 7:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A33&amp;version=ESV"&gt;Neh 11:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.201730,31.896378</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Red Sea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+9%3A9&amp;version=ESV"&gt;Neh 9:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.771729,27.088473</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Samaria</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+4%3A2&amp;version=ESV"&gt;Neh 4:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.197929,32.280231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sheep Gate&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A1&amp;version=ESV"&gt;Neh 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A32&amp;version=ESV"&gt;Neh 3:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A39&amp;version=ESV"&gt;Neh 12:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Susa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+1%3A1&amp;version=ESV"&gt;Neh 1:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.257886,32.189191</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tel-harsha~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A61&amp;version=ESV"&gt;Neh 7:61&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>45.229995,32.127213</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tel-melah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+7%3A61&amp;version=ESV"&gt;Neh 7:61&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>45.229995,32.127213</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tower of Hananel&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A1&amp;version=ESV"&gt;Neh 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A39&amp;version=ESV"&gt;Neh 12:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tower of the Hundred&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A1&amp;version=ESV"&gt;Neh 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A39&amp;version=ESV"&gt;Neh 12:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tower of the Ovens&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A11&amp;version=ESV"&gt;Neh 3:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A38&amp;version=ESV"&gt;Neh 12:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ur</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+9%3A7&amp;version=ESV"&gt;Neh 9:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>46.103741,30.962052</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley Gate&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+2%3A13&amp;version=ESV"&gt;Neh 2:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+2%3A15&amp;version=ESV"&gt;Neh 2:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A13&amp;version=ESV"&gt;Neh 3:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Hinnom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A30&amp;version=ESV"&gt;Neh 11:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.227994,31.769079</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Water Gate&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A26&amp;version=ESV"&gt;Neh 3:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+8%3A1&amp;version=ESV"&gt;Neh 8:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+8%3A3&amp;version=ESV"&gt;Neh 8:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+8%3A16&amp;version=ESV"&gt;Neh 8:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+12%3A37&amp;version=ESV"&gt;Neh 12:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zanoah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+3%3A13&amp;version=ESV"&gt;Neh 3:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A30&amp;version=ESV"&gt;Neh 11:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.000000,31.716667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zeboim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A34&amp;version=ESV"&gt;Neh 11:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.476336,31.101822</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ziklag</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A28&amp;version=ESV"&gt;Neh 11:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.873561,31.377600</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zorah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Neh+11%3A29&amp;version=ESV"&gt;Neh 11:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.969319,31.762141</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
