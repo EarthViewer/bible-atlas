@@ -27,14 +27,14 @@ export default class Tools extends Component {
     }   
     
     static pushpins = [
-        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-red.png",
-        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-green.png",
-        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-blue.png",
-        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-orange.png",
-        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-teal.png",
-        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-purple.png",
-        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-white.png",
-        "https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/images/pushpins/castshadow-black.png"
+        "./images/pushpins/castshadow-red.png",
+        "./images/pushpins/castshadow-green.png",
+        "./images/pushpins/castshadow-blue.png",
+        "./images/pushpins/castshadow-orange.png",
+        "./images/pushpins/castshadow-teal.png",
+        "./images/pushpins/castshadow-purple.png",
+        "./images/pushpins/castshadow-white.png",
+        "./images/pushpins/castshadow-black.png"
     ];
     
     selectPushpin(pushpin) {

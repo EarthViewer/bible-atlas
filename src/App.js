@@ -29,7 +29,7 @@ const App = observer(class App extends Component {
     this.globe = null;
 
     // Specify the location to the images folder used by WorldWind 
-    //Globe.setBaseUrl('./');
+    Globe.setBaseUrl('./');
   }
 
   /**
