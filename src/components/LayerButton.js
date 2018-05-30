@@ -1,3 +1,8 @@
+/* 
+ * Copyright (c) 2018 Bruce Schubert.
+ * The MIT License
+ * http://www.opensource.org/licenses/mit-license
+ */
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import Globe from 'worldwind-react-globe';
@@ -25,7 +30,7 @@ export default class LayerButton extends Component {
     }
 
     render() {
-        const buttonClass = "list-group-item list-group-item-action"
+        const buttonClass = "list-group-item list-group-item-action p-2"
             + (this.props.enabled ? " active" : "");
 
         return (
