@@ -125,21 +125,18 @@ const App = observer(class App extends Component {
     this.globe = this.globeRef.current;
 
     let layers = [
-      {layer: "Blue Marble", options: {category: "base", enabled: false}},
-      {layer: "LandSat", options: {category: "base", enabled: false}},
-      {layer: "Bing Aerial", options: {category: "base", enabled: false}},
-      {layer: "Bing Aerial with Labels", options: {category: "base", enabled: false}},
-      {layer: "Sentinal2", options: {category: "base", enabled: false}},
-      {layer: "Sentinal2 with Labels", options: {category: "base", enabled: true}},
-      {layer: "Bing Roads", options: {category: "base", enabled: false}},
-      {layer: "OpenStreetMap", options: {category: "base", enabled: false}},
-      {layer: new WorldWind.RenderableLayer(MARKERS_LAYER), options: {category: "data", enabled: true}},
-      {layer: "Compass", options: {category: "setting", enabled: false}},
-      {layer: "Coordinates", options: {category: "setting", enabled: true}},
-      {layer: "View Controls", options: {category: "setting", enabled: true}},
-      {layer: "Stars", options: {category: "setting", enabled: false, displayName: "Stars"}},
-      {layer: "Atmosphere", options: {category: "setting", enabled: false}},
-      {layer: "Tessellation", options: {category: "debug", enabled: false}}
+      {layer: 'blue-marble', options: {category: 'base', enabled: false}},
+      {layer: 'blue-marble-landsat', options: {category: 'base', enabled: false}},
+      {layer: 'bing-aerial', options: {category: 'base', enabled: false}},
+      {layer: 'bing-aerial-labels', options: {category: 'base', enabled: false}},
+      {layer: 'eox-sentinal2', options: {category: 'base', enabled: false}},
+      {layer: 'eox-sentinal2-labels', options: {category: 'base', enabled: true}},
+      {layer: 'renderables', options: {category: 'data', enabled: true, displayName: MARKERS_LAYER}},
+      {layer: 'compass', options: {category: 'setting', enabled: false}},
+      {layer: 'coordinates', options: {category: 'setting', enabled: true}},
+      {layer: 'view-controls', options: {category: 'setting', enabled: true}},
+      {layer: 'stars', options: {category: 'setting', enabled: false}},
+      {layer: 'atmosphere-day-night', options: {category: 'setting', enabled: false}}
     ];
     for (let config of layers) {
       this.globe.addLayer(config.layer, config.options);
