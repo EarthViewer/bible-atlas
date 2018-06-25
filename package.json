@@ -7,7 +7,7 @@
   },
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bible.viewer.earth",
+  "homepage": "https://viewer.earth/bible-atlas",
   "dependencies": {
     "ajv": "^6.5.0",
     "bootstrap": "^4.1.1",
