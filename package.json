@@ -5,6 +5,12 @@
     "email": "bruce@emxsys.com",
     "url": "http://twitter.com/emxsys"
   },
+  "bugs": "https://github.com/EarthViewer/bible-atlas/issues",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EarthViewer/bible-atals.git"
+  },
   "version": "0.1.0",
   "private": true,
   "homepage": "https://viewer.earth/bible-atlas",
@@ -21,8 +27,8 @@
     "react-fontawesome": "^1.6.1",
     "react-scripts": "^1.1.4",
     "reactstrap": "^6.0.1",
-    "worldwind-react-globe": "^0.6.0",
-    "worldwind-react-globe-bs4": "^0.3.3"
+    "worldwind-react-globe": "git+https://github.com/EarthViewer/worldwind-react-globe.git",
+    "worldwind-react-globe-bs4": "git+https://github.com/EarthViewer/worldwind-react-globe-bs4.git"
   },
   "devDependencies": {
     "gh-pages": "^1.1.0"
