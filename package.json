@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EarthViewer/bible-atals.git"
+    "url": "https://github.com/EarthViewer/bible-atlas.git"
   },
   "version": "0.1.0",
   "private": true,
@@ -27,8 +27,8 @@
     "react-fontawesome": "^1.6.1",
     "react-scripts": "^1.1.4",
     "reactstrap": "^6.2.0",
-    "worldwind-react-globe": "git+https://github.com/EarthViewer/worldwind-react-globe.git",
-    "worldwind-react-globe-bs4": "git+https://github.com/EarthViewer/worldwind-react-globe-bs4.git"
+    "worldwind-react-globe": "git+https://github.com/EarthViewer/worldwind-react-globe.git#semver:^0.7.2",
+    "worldwind-react-globe-bs4": "git+https://github.com/EarthViewer/worldwind-react-globe-bs4.git#semver^0.3.4"
   },
   "devDependencies": {
     "gh-pages": "^1.2.0"
