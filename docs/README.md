@@ -5,10 +5,10 @@
 The __EarthViewer/bible-atlas__ project is an [online virtual globe](https://viewer.earth/bible-atlas/)
 for viewing the geography, civilizations and cartography of the Holy Land.
 
-The __Bible Atlas__ is online at: [viewer.earth/bible-atlas](https://viewer.earth/bible-atlas)
+The __Bible Atlas__ is online at: [viewer.earth/bible-atlas](https://viewer.earth/bible-atlas).
 
-- KML and locations provided by __Bible GeoCoding__ [openbible.info/geo/](https://www.openbible.info/geo/)
-- Icons provided by the __Maps Icons Collection__ [mapicons.mapsmarker.com](https://mapicons.mapsmarker.com)
+- KML and locations provided by __Bible GeoCoding__ ([openbible.info/geo/](https://www.openbible.info/geo/))
+- Icons provided by the __Maps Icons Collection__ ([mapicons.mapsmarker.com](https://mapicons.mapsmarker.com))
 
 Please show your appreciation for this project by [giving it a star](https://github.com/EarthViewer/bible-atlas/stargazers).
 
