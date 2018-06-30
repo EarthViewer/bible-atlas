@@ -1,6 +1,7 @@
 ![Emxsys](images/emxsys_logo.png)
 
 # [Bible Atlas](https://emxsys.github.io/bible-atlas/)
+[![Build Status](https://travis-ci.org/EarthViewer/bible-atlas.svg?branch=master)](https://travis-ci.org/EarthViewer/bible-atlas)
 
 The __emxsys/bible-atlas__ project is an [online virtual globe](https://emxsys.github.io/bible-atlas/)
 for viewing the geography, civilizations and cartography of the Holy Land.
