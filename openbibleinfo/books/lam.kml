@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Lam</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Assyria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Lam+5%3A6&amp;version=ESV"&gt;Lam 5:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Edom&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Lam+4%3A21&amp;version=ESV"&gt;Lam 4:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+4%3A22&amp;version=ESV"&gt;Lam 4:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Lam+5%3A6&amp;version=ESV"&gt;Lam 5:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Lam+1%3A7&amp;version=ESV"&gt;Lam 1:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+1%3A8&amp;version=ESV"&gt;Lam 1:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+1%3A17&amp;version=ESV"&gt;Lam 1:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+2%3A10&amp;version=ESV"&gt;Lam 2:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+2%3A13&amp;version=ESV"&gt;Lam 2:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+2%3A15&amp;version=ESV"&gt;Lam 2:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+4%3A12&amp;version=ESV"&gt;Lam 4:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Zion&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Lam+5%3A18&amp;version=ESV"&gt;Lam 5:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sodom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Lam+4%3A6&amp;version=ESV"&gt;Lam 4:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.396484,31.196560</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Uz&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Lam+4%3A21&amp;version=ESV"&gt;Lam 4:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.44839,30.0334</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Lam+1%3A4&amp;version=ESV"&gt;Lam 1:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+1%3A6&amp;version=ESV"&gt;Lam 1:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+1%3A17&amp;version=ESV"&gt;Lam 1:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+2%3A1&amp;version=ESV"&gt;Lam 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+2%3A4&amp;version=ESV"&gt;Lam 2:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+2%3A6&amp;version=ESV"&gt;Lam 2:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+2%3A8&amp;version=ESV"&gt;Lam 2:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+2%3A10&amp;version=ESV"&gt;Lam 2:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+2%3A13&amp;version=ESV"&gt;Lam 2:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+2%3A18&amp;version=ESV"&gt;Lam 2:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+4%3A2&amp;version=ESV"&gt;Lam 4:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+4%3A11&amp;version=ESV"&gt;Lam 4:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+4%3A22&amp;version=ESV"&gt;Lam 4:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Lam+5%3A11&amp;version=ESV"&gt;Lam 5:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

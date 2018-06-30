@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Job</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Ethiopia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Job+28%3A19&amp;version=ESV"&gt;Job 28:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.343557,21.959788</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Job+40%3A23&amp;version=ESV"&gt;Job 40:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ophir&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Job+22%3A24&amp;version=ESV"&gt;Job 22:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Job+28%3A16&amp;version=ESV"&gt;Job 28:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>77,22</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rahab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Job+9%3A13&amp;version=ESV"&gt;Job 9:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Job+26%3A12&amp;version=ESV"&gt;Job 26:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sheba&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Job+6%3A19&amp;version=ESV"&gt;Job 6:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>38.746799,9.022736</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tema</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Job+6%3A19&amp;version=ESV"&gt;Job 6:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>38.554125,27.633172</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Uz&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Job+1%3A1&amp;version=ESV"&gt;Job 1:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.44839,30.0334</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

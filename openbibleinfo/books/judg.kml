@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Judg</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Abel-keramim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A33&amp;version=ESV"&gt;Judg 11:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.82352,32.02425</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Abel-meholah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A22&amp;version=ESV"&gt;Judg 7:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.536929,32.356010</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Abiezer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A2&amp;version=ESV"&gt;Judg 8:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.288264,32.608682</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Acco</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A31&amp;version=ESV"&gt;Judg 1:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.081555,32.927583</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Achzib</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A31&amp;version=ESV"&gt;Judg 1:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.102202,33.048467</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ahlab</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A31&amp;version=ESV"&gt;Judg 1:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.445446,33.024980</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aijalon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A35&amp;version=ESV"&gt;Judg 1:35&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+12%3A12&amp;version=ESV"&gt;Judg 12:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.025379,31.841173</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Akrabbim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A36&amp;version=ESV"&gt;Judg 1:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.263182,30.688292</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ammon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A27&amp;version=ESV"&gt;Judg 11:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.924131,31.950188</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aphik</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A31&amp;version=ESV"&gt;Judg 1:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.865801,34.066067</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arad</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A16&amp;version=ESV"&gt;Judg 1:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.126365,31.280981</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arnon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A13&amp;version=ESV"&gt;Judg 11:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A18&amp;version=ESV"&gt;Judg 11:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A22&amp;version=ESV"&gt;Judg 11:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A26&amp;version=ESV"&gt;Judg 11:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.677009,31.428800</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aroer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A26&amp;version=ESV"&gt;Judg 11:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.822003,31.471095</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aroer~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A33&amp;version=ESV"&gt;Judg 11:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.9115,31.9617</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arumah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A41&amp;version=ESV"&gt;Judg 9:41&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.318192,32.154887</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashkelon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A18&amp;version=ESV"&gt;Judg 1:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+14%3A19&amp;version=ESV"&gt;Judg 14:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.547227,31.662405</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baal-tamar~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A33&amp;version=ESV"&gt;Judg 20:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.231009,31.823781</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A21&amp;version=ESV"&gt;Judg 9:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.216688,31.900074</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beersheba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A1&amp;version=ESV"&gt;Judg 20:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.840888,31.244952</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-anath~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A33&amp;version=ESV"&gt;Judg 1:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.427134,33.146864</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-barah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A24&amp;version=ESV"&gt;Judg 7:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.552600,31.836321</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-millo~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A6&amp;version=ESV"&gt;Judg 9:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A20&amp;version=ESV"&gt;Judg 9:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.281798,32.213691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-rehob</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A28&amp;version=ESV"&gt;Judg 18:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.544122,33.219354</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-shean</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A27&amp;version=ESV"&gt;Judg 1:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.503077,32.504238</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-shemesh~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A33&amp;version=ESV"&gt;Judg 1:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.427134,33.146864</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-shittah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A22&amp;version=ESV"&gt;Judg 7:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.438257,32.552496</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A22&amp;version=ESV"&gt;Judg 1:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A23&amp;version=ESV"&gt;Judg 1:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A5&amp;version=ESV"&gt;Judg 4:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A18&amp;version=ESV"&gt;Judg 20:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A26&amp;version=ESV"&gt;Judg 20:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A31&amp;version=ESV"&gt;Judg 20:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A2&amp;version=ESV"&gt;Judg 21:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A19&amp;version=ESV"&gt;Judg 21:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethlehem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+12%3A8&amp;version=ESV"&gt;Judg 12:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+12%3A10&amp;version=ESV"&gt;Judg 12:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+17%3A7&amp;version=ESV"&gt;Judg 17:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+17%3A8&amp;version=ESV"&gt;Judg 17:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+17%3A9&amp;version=ESV"&gt;Judg 17:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+19%3A1&amp;version=ESV"&gt;Judg 19:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+19%3A2&amp;version=ESV"&gt;Judg 19:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+19%3A18&amp;version=ESV"&gt;Judg 19:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bezek</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A4&amp;version=ESV"&gt;Judg 1:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A5&amp;version=ESV"&gt;Judg 1:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.952878,31.898029</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bochim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+2%3A1&amp;version=ESV"&gt;Judg 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+2%3A5&amp;version=ESV"&gt;Judg 2:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Canaan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A1&amp;version=ESV"&gt;Judg 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A2&amp;version=ESV"&gt;Judg 4:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A23&amp;version=ESV"&gt;Judg 4:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A24&amp;version=ESV"&gt;Judg 4:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+5%3A19&amp;version=ESV"&gt;Judg 5:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A12&amp;version=ESV"&gt;Judg 21:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.843882,31.693529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A29&amp;version=ESV"&gt;Judg 18:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A1&amp;version=ESV"&gt;Judg 20:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.652483,33.248659</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Debir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A11&amp;version=ESV"&gt;Judg 1:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.966670,31.416669</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Diviners' Oak&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A37&amp;version=ESV"&gt;Judg 9:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.281798,32.213691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A27&amp;version=ESV"&gt;Judg 1:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.918896,32.613236</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>East~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A3&amp;version=ESV"&gt;Judg 6:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A33&amp;version=ESV"&gt;Judg 6:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A12&amp;version=ESV"&gt;Judg 7:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A10&amp;version=ESV"&gt;Judg 8:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.924131,31.950188</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Edom&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+5%3A4&amp;version=ESV"&gt;Judg 5:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A17&amp;version=ESV"&gt;Judg 11:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A18&amp;version=ESV"&gt;Judg 11:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+2%3A1&amp;version=ESV"&gt;Judg 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+2%3A12&amp;version=ESV"&gt;Judg 2:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A8&amp;version=ESV"&gt;Judg 6:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A13&amp;version=ESV"&gt;Judg 6:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A13&amp;version=ESV"&gt;Judg 11:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A16&amp;version=ESV"&gt;Judg 11:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+19%3A30&amp;version=ESV"&gt;Judg 19:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ekron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A18&amp;version=ESV"&gt;Judg 1:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.852145,31.777614</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>En-hakkore~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+15%3A19&amp;version=ESV"&gt;Judg 15:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.976609,31.752748</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eshtaol</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+13%3A25&amp;version=ESV"&gt;Judg 13:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+16%3A31&amp;version=ESV"&gt;Judg 16:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A2&amp;version=ESV"&gt;Judg 18:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A8&amp;version=ESV"&gt;Judg 18:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A11&amp;version=ESV"&gt;Judg 18:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.009012,31.782429</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Etam</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+15%3A8&amp;version=ESV"&gt;Judg 15:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+15%3A11&amp;version=ESV"&gt;Judg 15:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.054850,31.736294</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gaash~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+2%3A9&amp;version=ESV"&gt;Judg 2:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.150392,32.121473</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gaza</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A18&amp;version=ESV"&gt;Judg 1:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A4&amp;version=ESV"&gt;Judg 6:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+16%3A1&amp;version=ESV"&gt;Judg 16:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+16%3A21&amp;version=ESV"&gt;Judg 16:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.433364,31.524817</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gezer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A29&amp;version=ESV"&gt;Judg 1:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.9225,31.876111</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gibeah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+19%3A12&amp;version=ESV"&gt;Judg 19:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+19%3A13&amp;version=ESV"&gt;Judg 19:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+19%3A14&amp;version=ESV"&gt;Judg 19:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+19%3A15&amp;version=ESV"&gt;Judg 19:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+19%3A16&amp;version=ESV"&gt;Judg 19:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A4&amp;version=ESV"&gt;Judg 20:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A5&amp;version=ESV"&gt;Judg 20:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A9&amp;version=ESV"&gt;Judg 20:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A10&amp;version=ESV"&gt;Judg 20:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A13&amp;version=ESV"&gt;Judg 20:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A14&amp;version=ESV"&gt;Judg 20:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A15&amp;version=ESV"&gt;Judg 20:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A19&amp;version=ESV"&gt;Judg 20:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A20&amp;version=ESV"&gt;Judg 20:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A21&amp;version=ESV"&gt;Judg 20:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A25&amp;version=ESV"&gt;Judg 20:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A29&amp;version=ESV"&gt;Judg 20:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A30&amp;version=ESV"&gt;Judg 20:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A31&amp;version=ESV"&gt;Judg 20:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A34&amp;version=ESV"&gt;Judg 20:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A36&amp;version=ESV"&gt;Judg 20:36&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A37&amp;version=ESV"&gt;Judg 20:37&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A43&amp;version=ESV"&gt;Judg 20:43&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.231009,31.823781</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gidom~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A45&amp;version=ESV"&gt;Judg 20:45&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.297063,31.934660</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilead&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+5%3A17&amp;version=ESV"&gt;Judg 5:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A4&amp;version=ESV"&gt;Judg 10:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A8&amp;version=ESV"&gt;Judg 10:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A17&amp;version=ESV"&gt;Judg 10:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A18&amp;version=ESV"&gt;Judg 10:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A5&amp;version=ESV"&gt;Judg 11:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A7&amp;version=ESV"&gt;Judg 11:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A8&amp;version=ESV"&gt;Judg 11:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A9&amp;version=ESV"&gt;Judg 11:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A10&amp;version=ESV"&gt;Judg 11:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A11&amp;version=ESV"&gt;Judg 11:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A29&amp;version=ESV"&gt;Judg 11:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+12%3A4&amp;version=ESV"&gt;Judg 12:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+12%3A5&amp;version=ESV"&gt;Judg 12:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+12%3A7&amp;version=ESV"&gt;Judg 12:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A1&amp;version=ESV"&gt;Judg 20:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilgal</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+2%3A1&amp;version=ESV"&gt;Judg 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A19&amp;version=ESV"&gt;Judg 3:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.518546,31.863783</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Harod</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A1&amp;version=ESV"&gt;Judg 7:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.355647,32.549638</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Harosheth-hagoyim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A2&amp;version=ESV"&gt;Judg 4:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A13&amp;version=ESV"&gt;Judg 4:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A16&amp;version=ESV"&gt;Judg 4:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.110039,32.691177</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Havvoth-jair~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A4&amp;version=ESV"&gt;Judg 10:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A2&amp;version=ESV"&gt;Judg 4:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A17&amp;version=ESV"&gt;Judg 4:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.568048,33.017181</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hebron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A10&amp;version=ESV"&gt;Judg 1:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A20&amp;version=ESV"&gt;Judg 1:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+16%3A3&amp;version=ESV"&gt;Judg 16:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.094099,31.535773</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Helbah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A31&amp;version=ESV"&gt;Judg 1:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.865801,34.066067</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Heres~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A13&amp;version=ESV"&gt;Judg 8:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.633313,32.199982</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Heshbon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A19&amp;version=ESV"&gt;Judg 11:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A26&amp;version=ESV"&gt;Judg 11:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.809018,31.800520</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hormah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A17&amp;version=ESV"&gt;Judg 1:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.630620,30.880918</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ibleam</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A27&amp;version=ESV"&gt;Judg 1:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.2833,32.45</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jabbok</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A13&amp;version=ESV"&gt;Judg 11:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A22&amp;version=ESV"&gt;Judg 11:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.676305,32.193237</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jabesh-gilead</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A8&amp;version=ESV"&gt;Judg 21:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A9&amp;version=ESV"&gt;Judg 21:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A10&amp;version=ESV"&gt;Judg 21:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A12&amp;version=ESV"&gt;Judg 21:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A14&amp;version=ESV"&gt;Judg 21:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.611587,32.379821</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jahaz</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A20&amp;version=ESV"&gt;Judg 11:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.920631,31.501003</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jebus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+19%3A10&amp;version=ESV"&gt;Judg 19:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+19%3A11&amp;version=ESV"&gt;Judg 19:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A7&amp;version=ESV"&gt;Judg 1:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A8&amp;version=ESV"&gt;Judg 1:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A21&amp;version=ESV"&gt;Judg 1:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+19%3A10&amp;version=ESV"&gt;Judg 19:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jogbehah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A11&amp;version=ESV"&gt;Judg 8:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.862887,32.028743</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A28&amp;version=ESV"&gt;Judg 3:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+5%3A17&amp;version=ESV"&gt;Judg 5:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A33&amp;version=ESV"&gt;Judg 6:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A24&amp;version=ESV"&gt;Judg 7:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A25&amp;version=ESV"&gt;Judg 7:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A4&amp;version=ESV"&gt;Judg 8:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A8&amp;version=ESV"&gt;Judg 10:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A9&amp;version=ESV"&gt;Judg 10:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A13&amp;version=ESV"&gt;Judg 11:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A22&amp;version=ESV"&gt;Judg 11:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+12%3A5&amp;version=ESV"&gt;Judg 12:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+12%3A6&amp;version=ESV"&gt;Judg 12:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kadesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A16&amp;version=ESV"&gt;Judg 11:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A17&amp;version=ESV"&gt;Judg 11:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.494795,30.687712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kamon&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A5&amp;version=ESV"&gt;Judg 10:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Karkor~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A10&amp;version=ESV"&gt;Judg 8:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.702870,32.184372</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kedesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A9&amp;version=ESV"&gt;Judg 4:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A10&amp;version=ESV"&gt;Judg 4:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A11&amp;version=ESV"&gt;Judg 4:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.533613,33.112983</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kedesh-naphtali</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A6&amp;version=ESV"&gt;Judg 4:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.533613,33.112983</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriath-arba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A10&amp;version=ESV"&gt;Judg 1:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.094099,31.535773</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriath-jearim?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A12&amp;version=ESV"&gt;Judg 18:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.993812,31.771104</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriath-sepher</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A11&amp;version=ESV"&gt;Judg 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A12&amp;version=ESV"&gt;Judg 1:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.966670,31.416669</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kishon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A7&amp;version=ESV"&gt;Judg 4:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A13&amp;version=ESV"&gt;Judg 4:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+5%3A21&amp;version=ESV"&gt;Judg 5:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.064096,32.761948</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kitron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A30&amp;version=ESV"&gt;Judg 1:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.279335,32.753141</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Laish</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A7&amp;version=ESV"&gt;Judg 18:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A14&amp;version=ESV"&gt;Judg 18:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A27&amp;version=ESV"&gt;Judg 18:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A29&amp;version=ESV"&gt;Judg 18:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.652483,33.248659</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebanon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A15&amp;version=ESV"&gt;Judg 9:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.590804,33.752479</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebo-hamath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A3&amp;version=ESV"&gt;Judg 3:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebonah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A19&amp;version=ESV"&gt;Judg 21:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.239871,32.070770</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lehi~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+15%3A9&amp;version=ESV"&gt;Judg 15:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+15%3A14&amp;version=ESV"&gt;Judg 15:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+15%3A19&amp;version=ESV"&gt;Judg 15:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.976609,31.752748</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Luz</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A23&amp;version=ESV"&gt;Judg 1:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Luz?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A26&amp;version=ESV"&gt;Judg 1:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.57,37</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Maareh-geba~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A33&amp;version=ESV"&gt;Judg 20:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.231009,31.823781</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mahaneh-dan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+13%3A25&amp;version=ESV"&gt;Judg 13:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A12&amp;version=ESV"&gt;Judg 18:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.994252,31.758315</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Megiddo</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A27&amp;version=ESV"&gt;Judg 1:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+5%3A19&amp;version=ESV"&gt;Judg 5:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.182291,32.584183</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Meroz~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+5%3A23&amp;version=ESV"&gt;Judg 5:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.390913,32.686956</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mesopotamia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A8&amp;version=ESV"&gt;Judg 3:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A10&amp;version=ESV"&gt;Judg 3:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Midian&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A1&amp;version=ESV"&gt;Judg 6:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A2&amp;version=ESV"&gt;Judg 6:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A6&amp;version=ESV"&gt;Judg 6:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A13&amp;version=ESV"&gt;Judg 6:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A14&amp;version=ESV"&gt;Judg 6:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A1&amp;version=ESV"&gt;Judg 7:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A8&amp;version=ESV"&gt;Judg 7:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A13&amp;version=ESV"&gt;Judg 7:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A14&amp;version=ESV"&gt;Judg 7:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A15&amp;version=ESV"&gt;Judg 7:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A23&amp;version=ESV"&gt;Judg 7:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A25&amp;version=ESV"&gt;Judg 7:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A1&amp;version=ESV"&gt;Judg 8:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A3&amp;version=ESV"&gt;Judg 8:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A5&amp;version=ESV"&gt;Judg 8:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A12&amp;version=ESV"&gt;Judg 8:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A22&amp;version=ESV"&gt;Judg 8:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A26&amp;version=ESV"&gt;Judg 8:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A28&amp;version=ESV"&gt;Judg 8:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A17&amp;version=ESV"&gt;Judg 9:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.90832,28.932881</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Minnith</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A33&amp;version=ESV"&gt;Judg 11:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.850000,31.750000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mizpah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A17&amp;version=ESV"&gt;Judg 10:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A11&amp;version=ESV"&gt;Judg 11:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A29&amp;version=ESV"&gt;Judg 11:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A34&amp;version=ESV"&gt;Judg 11:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.005559,32.565267</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mizpah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A1&amp;version=ESV"&gt;Judg 20:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A3&amp;version=ESV"&gt;Judg 20:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A1&amp;version=ESV"&gt;Judg 21:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A5&amp;version=ESV"&gt;Judg 21:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A8&amp;version=ESV"&gt;Judg 21:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A12&amp;version=ESV"&gt;Judg 3:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A14&amp;version=ESV"&gt;Judg 3:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A15&amp;version=ESV"&gt;Judg 3:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A17&amp;version=ESV"&gt;Judg 3:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A30&amp;version=ESV"&gt;Judg 3:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A6&amp;version=ESV"&gt;Judg 10:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A15&amp;version=ESV"&gt;Judg 11:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A17&amp;version=ESV"&gt;Judg 11:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A18&amp;version=ESV"&gt;Judg 11:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A25&amp;version=ESV"&gt;Judg 11:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moreh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A1&amp;version=ESV"&gt;Judg 7:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.357376,32.617730</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Baal-hermon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A3&amp;version=ESV"&gt;Judg 3:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Gerizim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A7&amp;version=ESV"&gt;Judg 9:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.272852,32.199561</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Gilead</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A3&amp;version=ESV"&gt;Judg 7:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.408434,32.509840</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Heres</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A35&amp;version=ESV"&gt;Judg 1:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.976609,31.752748</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Lebanon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A3&amp;version=ESV"&gt;Judg 3:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.590804,33.752479</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Tabor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A6&amp;version=ESV"&gt;Judg 4:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A12&amp;version=ESV"&gt;Judg 4:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A14&amp;version=ESV"&gt;Judg 4:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.390913,32.686956</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Zalmon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A48&amp;version=ESV"&gt;Judg 9:48&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.273041,32.232938</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nahalol</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A30&amp;version=ESV"&gt;Judg 1:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.352820,32.722209</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Negeb&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A9&amp;version=ESV"&gt;Judg 1:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A15&amp;version=ESV"&gt;Judg 1:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A16&amp;version=ESV"&gt;Judg 1:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.2,30.3</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nobah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A11&amp;version=ESV"&gt;Judg 8:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.616400,32.756919</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nohah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A43&amp;version=ESV"&gt;Judg 20:43&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.181972,31.752603</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ophrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A11&amp;version=ESV"&gt;Judg 6:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A24&amp;version=ESV"&gt;Judg 6:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A27&amp;version=ESV"&gt;Judg 8:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A32&amp;version=ESV"&gt;Judg 8:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A5&amp;version=ESV"&gt;Judg 9:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.288264,32.608682</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Penuel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A8&amp;version=ESV"&gt;Judg 8:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A9&amp;version=ESV"&gt;Judg 8:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A17&amp;version=ESV"&gt;Judg 8:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.702870,32.184372</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pirathon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+12%3A15&amp;version=ESV"&gt;Judg 12:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.022944,32.286022</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A5&amp;version=ESV"&gt;Judg 4:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+19%3A13&amp;version=ESV"&gt;Judg 19:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.201730,31.896378</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramath-lehi~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+15%3A17&amp;version=ESV"&gt;Judg 15:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.976609,31.752748</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Red Sea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A16&amp;version=ESV"&gt;Judg 11:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.771729,27.088473</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rehob~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A31&amp;version=ESV"&gt;Judg 1:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.211971,32.955448</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rimmon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A45&amp;version=ESV"&gt;Judg 20:45&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+20%3A47&amp;version=ESV"&gt;Judg 20:47&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A13&amp;version=ESV"&gt;Judg 21:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.297063,31.934660</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Seir&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+5%3A4&amp;version=ESV"&gt;Judg 5:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Seirah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+3%3A26&amp;version=ESV"&gt;Judg 3:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sela</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A36&amp;version=ESV"&gt;Judg 1:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.456279,30.322435</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shaalbim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A35&amp;version=ESV"&gt;Judg 1:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.981728,31.870364</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shamir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A1&amp;version=ESV"&gt;Judg 10:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A2&amp;version=ESV"&gt;Judg 10:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.250054,32.360470</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shechem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A31&amp;version=ESV"&gt;Judg 8:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A1&amp;version=ESV"&gt;Judg 9:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A2&amp;version=ESV"&gt;Judg 9:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A3&amp;version=ESV"&gt;Judg 9:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A6&amp;version=ESV"&gt;Judg 9:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A7&amp;version=ESV"&gt;Judg 9:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A18&amp;version=ESV"&gt;Judg 9:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A20&amp;version=ESV"&gt;Judg 9:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A23&amp;version=ESV"&gt;Judg 9:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A24&amp;version=ESV"&gt;Judg 9:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A25&amp;version=ESV"&gt;Judg 9:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A26&amp;version=ESV"&gt;Judg 9:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A28&amp;version=ESV"&gt;Judg 9:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A31&amp;version=ESV"&gt;Judg 9:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A34&amp;version=ESV"&gt;Judg 9:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A39&amp;version=ESV"&gt;Judg 9:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A41&amp;version=ESV"&gt;Judg 9:41&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A57&amp;version=ESV"&gt;Judg 9:57&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A19&amp;version=ESV"&gt;Judg 21:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.281798,32.213691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shiloh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A31&amp;version=ESV"&gt;Judg 18:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A12&amp;version=ESV"&gt;Judg 21:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A19&amp;version=ESV"&gt;Judg 21:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+21%3A21&amp;version=ESV"&gt;Judg 21:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.289528,32.055700</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sidon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A31&amp;version=ESV"&gt;Judg 1:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A6&amp;version=ESV"&gt;Judg 10:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A28&amp;version=ESV"&gt;Judg 18:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sinai</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+5%3A5&amp;version=ESV"&gt;Judg 5:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.973333,28.539722</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Succoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A5&amp;version=ESV"&gt;Judg 8:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A6&amp;version=ESV"&gt;Judg 8:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A8&amp;version=ESV"&gt;Judg 8:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A14&amp;version=ESV"&gt;Judg 8:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A15&amp;version=ESV"&gt;Judg 8:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A16&amp;version=ESV"&gt;Judg 8:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.633313,32.199982</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Syria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+10%3A6&amp;version=ESV"&gt;Judg 10:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Taanach</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A27&amp;version=ESV"&gt;Judg 1:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+5%3A19&amp;version=ESV"&gt;Judg 5:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.216325,32.517239</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tabbath~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A22&amp;version=ESV"&gt;Judg 7:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.536929,32.356010</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tabor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+8%3A18&amp;version=ESV"&gt;Judg 8:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.390913,32.686956</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Thebez</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A50&amp;version=ESV"&gt;Judg 9:50&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.368252,32.324102</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Timnah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+14%3A1&amp;version=ESV"&gt;Judg 14:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+14%3A2&amp;version=ESV"&gt;Judg 14:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+14%3A5&amp;version=ESV"&gt;Judg 14:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.909680,31.784368</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Timnath-heres</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+2%3A9&amp;version=ESV"&gt;Judg 2:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.150392,32.121473</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tob</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A3&amp;version=ESV"&gt;Judg 11:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+11%3A5&amp;version=ESV"&gt;Judg 11:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.240494,32.561735</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tower of Shechem&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A46&amp;version=ESV"&gt;Judg 9:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A47&amp;version=ESV"&gt;Judg 9:47&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+9%3A49&amp;version=ESV"&gt;Judg 9:49&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.281798,32.213691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Jezreel~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+6%3A33&amp;version=ESV"&gt;Judg 6:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.330789,32.555963</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Sorek</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+16%3A4&amp;version=ESV"&gt;Judg 16:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.989013,31.825731</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zaanannim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+4%3A11&amp;version=ESV"&gt;Judg 4:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.533613,33.112983</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zaphon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+12%3A1&amp;version=ESV"&gt;Judg 12:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.585865,32.237710</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zephath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+1%3A17&amp;version=ESV"&gt;Judg 1:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.630620,30.880918</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zererah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+7%3A22&amp;version=ESV"&gt;Judg 7:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.576613,32.267821</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zorah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Judg+13%3A2&amp;version=ESV"&gt;Judg 13:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+13%3A25&amp;version=ESV"&gt;Judg 13:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+16%3A31&amp;version=ESV"&gt;Judg 16:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A2&amp;version=ESV"&gt;Judg 18:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A8&amp;version=ESV"&gt;Judg 18:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Judg+18%3A11&amp;version=ESV"&gt;Judg 18:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.969319,31.762141</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

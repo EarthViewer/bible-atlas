@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Sng</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Amana</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+4%3A8&amp;version=ESV"&gt;Sng 4:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.055039,33.681370</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baal-hamon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+8%3A11&amp;version=ESV"&gt;Sng 8:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bath-rabbim&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+7%3A4&amp;version=ESV"&gt;Sng 7:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.809018,31.800520</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Carmel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+7%3A5&amp;version=ESV"&gt;Sng 7:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.133331,31.433331</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Damascus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+7%3A4&amp;version=ESV"&gt;Sng 7:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Engedi</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+1%3A14&amp;version=ESV"&gt;Sng 1:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.392411,31.461525</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilead&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+4%3A1&amp;version=ESV"&gt;Sng 4:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Sng+6%3A5&amp;version=ESV"&gt;Sng 6:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hermon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+4%3A8&amp;version=ESV"&gt;Sng 4:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Heshbon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+7%3A4&amp;version=ESV"&gt;Sng 7:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.809018,31.800520</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+1%3A5&amp;version=ESV"&gt;Sng 1:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Sng+2%3A7&amp;version=ESV"&gt;Sng 2:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Sng+3%3A5&amp;version=ESV"&gt;Sng 3:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Sng+3%3A10&amp;version=ESV"&gt;Sng 3:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Sng+5%3A8&amp;version=ESV"&gt;Sng 5:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Sng+5%3A16&amp;version=ESV"&gt;Sng 5:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Sng+6%3A4&amp;version=ESV"&gt;Sng 6:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Sng+8%3A4&amp;version=ESV"&gt;Sng 8:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kedar~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+1%3A5&amp;version=ESV"&gt;Sng 1:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>37.7,27.4</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebanon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+3%3A9&amp;version=ESV"&gt;Sng 3:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Sng+4%3A8&amp;version=ESV"&gt;Sng 4:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Sng+4%3A11&amp;version=ESV"&gt;Sng 4:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Sng+4%3A15&amp;version=ESV"&gt;Sng 4:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Sng+5%3A15&amp;version=ESV"&gt;Sng 5:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Sng+7%3A4&amp;version=ESV"&gt;Sng 7:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.590804,33.752479</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Senir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+4%3A8&amp;version=ESV"&gt;Sng 4:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sharon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+2%3A1&amp;version=ESV"&gt;Sng 2:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.945929,32.639068</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tirzah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+6%3A4&amp;version=ESV"&gt;Sng 6:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.294303,32.271368</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Sng+3%3A11&amp;version=ESV"&gt;Sng 3:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Mark</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Arimathea</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+15%3A43&amp;version=ESV"&gt;Mark 15:43&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethany</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+11%3A1&amp;version=ESV"&gt;Mark 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+11%3A11&amp;version=ESV"&gt;Mark 11:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+11%3A12&amp;version=ESV"&gt;Mark 11:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+14%3A3&amp;version=ESV"&gt;Mark 14:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.262122,31.771665</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethphage</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+11%3A1&amp;version=ESV"&gt;Mark 11:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.256672,31.790383</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethsaida</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+6%3A45&amp;version=ESV"&gt;Mark 6:45&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+8%3A22&amp;version=ESV"&gt;Mark 8:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.626972,32.907848</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Caesarea Philippi</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+8%3A27&amp;version=ESV"&gt;Mark 8:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.694637,33.248059</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Capernaum</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+1%3A21&amp;version=ESV"&gt;Mark 1:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+2%3A1&amp;version=ESV"&gt;Mark 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+9%3A33&amp;version=ESV"&gt;Mark 9:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.575157,32.880594</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cyrene</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+15%3A21&amp;version=ESV"&gt;Mark 15:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>21.858301,32.824979</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dalmanutha</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+8%3A10&amp;version=ESV"&gt;Mark 8:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.522936,32.847334</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Decapolis&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+5%3A20&amp;version=ESV"&gt;Mark 5:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+7%3A31&amp;version=ESV"&gt;Mark 7:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Galilee&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+1%3A9&amp;version=ESV"&gt;Mark 1:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+1%3A14&amp;version=ESV"&gt;Mark 1:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+1%3A28&amp;version=ESV"&gt;Mark 1:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+1%3A39&amp;version=ESV"&gt;Mark 1:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+3%3A7&amp;version=ESV"&gt;Mark 3:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+6%3A21&amp;version=ESV"&gt;Mark 6:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+9%3A30&amp;version=ESV"&gt;Mark 9:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+14%3A28&amp;version=ESV"&gt;Mark 14:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+15%3A41&amp;version=ESV"&gt;Mark 15:41&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+16%3A7&amp;version=ESV"&gt;Mark 16:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.301528,32.706745</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gennesaret</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+6%3A53&amp;version=ESV"&gt;Mark 6:53&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.509937,32.859358</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gethsemane~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+14%3A32&amp;version=ESV"&gt;Mark 14:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Golgotha&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+15%3A22&amp;version=ESV"&gt;Mark 15:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Idumea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+3%3A8&amp;version=ESV"&gt;Mark 3:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jericho</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+10%3A46&amp;version=ESV"&gt;Mark 10:46&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.443863,31.870601</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+1%3A5&amp;version=ESV"&gt;Mark 1:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+3%3A8&amp;version=ESV"&gt;Mark 3:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+3%3A22&amp;version=ESV"&gt;Mark 3:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+7%3A1&amp;version=ESV"&gt;Mark 7:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+10%3A32&amp;version=ESV"&gt;Mark 10:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+10%3A33&amp;version=ESV"&gt;Mark 10:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+11%3A1&amp;version=ESV"&gt;Mark 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+11%3A11&amp;version=ESV"&gt;Mark 11:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+11%3A15&amp;version=ESV"&gt;Mark 11:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+11%3A27&amp;version=ESV"&gt;Mark 11:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+15%3A41&amp;version=ESV"&gt;Mark 15:41&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+1%3A5&amp;version=ESV"&gt;Mark 1:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+1%3A9&amp;version=ESV"&gt;Mark 1:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+3%3A8&amp;version=ESV"&gt;Mark 3:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+10%3A1&amp;version=ESV"&gt;Mark 10:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Judea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+1%3A5&amp;version=ESV"&gt;Mark 1:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+3%3A7&amp;version=ESV"&gt;Mark 3:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+10%3A1&amp;version=ESV"&gt;Mark 10:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+13%3A14&amp;version=ESV"&gt;Mark 13:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount of Olives</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+11%3A1&amp;version=ESV"&gt;Mark 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+13%3A3&amp;version=ESV"&gt;Mark 13:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+14%3A26&amp;version=ESV"&gt;Mark 14:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.247197,31.778095</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nazareth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+1%3A9&amp;version=ESV"&gt;Mark 1:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+1%3A24&amp;version=ESV"&gt;Mark 1:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+10%3A47&amp;version=ESV"&gt;Mark 10:47&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+16%3A6&amp;version=ESV"&gt;Mark 16:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.301528,32.706745</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Place of a Skull~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+15%3A22&amp;version=ESV"&gt;Mark 15:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sea of Galilee</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+1%3A16&amp;version=ESV"&gt;Mark 1:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+7%3A31&amp;version=ESV"&gt;Mark 7:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.589360,32.806775</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sidon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+3%3A8&amp;version=ESV"&gt;Mark 3:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+7%3A24&amp;version=ESV"&gt;Mark 7:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+7%3A31&amp;version=ESV"&gt;Mark 7:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tyre</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Mark+3%3A8&amp;version=ESV"&gt;Mark 3:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+7%3A24&amp;version=ESV"&gt;Mark 7:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Mark+7%3A31&amp;version=ESV"&gt;Mark 7:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.192574,33.275827</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

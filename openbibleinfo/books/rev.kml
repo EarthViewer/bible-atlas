@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Rev</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Armageddon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+16%3A16&amp;version=ESV"&gt;Rev 16:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.182291,32.584183</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Asia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+1%3A4&amp;version=ESV"&gt;Rev 1:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.73,39.23</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Babylon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+14%3A8&amp;version=ESV"&gt;Rev 14:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+16%3A19&amp;version=ESV"&gt;Rev 16:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+17%3A5&amp;version=ESV"&gt;Rev 17:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+18%3A2&amp;version=ESV"&gt;Rev 18:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+18%3A10&amp;version=ESV"&gt;Rev 18:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+18%3A21&amp;version=ESV"&gt;Rev 18:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+11%3A8&amp;version=ESV"&gt;Rev 11:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ephesus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+1%3A11&amp;version=ESV"&gt;Rev 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+2%3A1&amp;version=ESV"&gt;Rev 2:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>27.367825,37.953314</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Euphrates</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+9%3A14&amp;version=ESV"&gt;Rev 9:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+16%3A12&amp;version=ESV"&gt;Rev 16:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.427780,35.090577</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gog&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+20%3A8&amp;version=ESV"&gt;Rev 20:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>47,46</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+3%3A12&amp;version=ESV"&gt;Rev 3:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+21%3A2&amp;version=ESV"&gt;Rev 21:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+21%3A10&amp;version=ESV"&gt;Rev 21:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Laodicea</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+1%3A11&amp;version=ESV"&gt;Rev 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+3%3A14&amp;version=ESV"&gt;Rev 3:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>29.064501,37.769867</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Magog~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+20%3A8&amp;version=ESV"&gt;Rev 20:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>47,46</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Zion&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+14%3A1&amp;version=ESV"&gt;Rev 14:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Patmos</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+1%3A9&amp;version=ESV"&gt;Rev 1:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>26.548274,37.307520</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pergamum</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+1%3A11&amp;version=ESV"&gt;Rev 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+2%3A12&amp;version=ESV"&gt;Rev 2:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>27.165126,39.118945</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Philadelphia</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+1%3A11&amp;version=ESV"&gt;Rev 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+3%3A7&amp;version=ESV"&gt;Rev 3:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>28.519462,38.349048</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sardis</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+1%3A11&amp;version=ESV"&gt;Rev 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+3%3A1&amp;version=ESV"&gt;Rev 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+3%3A4&amp;version=ESV"&gt;Rev 3:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>28.114131,38.476826</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Smyrna</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+1%3A11&amp;version=ESV"&gt;Rev 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+2%3A8&amp;version=ESV"&gt;Rev 2:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>27.161921,38.451960</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sodom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+11%3A8&amp;version=ESV"&gt;Rev 11:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.396484,31.196560</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Thyatira</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Rev+1%3A11&amp;version=ESV"&gt;Rev 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+2%3A18&amp;version=ESV"&gt;Rev 2:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Rev+2%3A24&amp;version=ESV"&gt;Rev 2:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>27.856555,38.925791</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

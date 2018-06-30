@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Ruth</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Bethlehem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ruth+1%3A1&amp;version=ESV"&gt;Ruth 1:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ruth+1%3A2&amp;version=ESV"&gt;Ruth 1:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ruth+1%3A19&amp;version=ESV"&gt;Ruth 1:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ruth+1%3A22&amp;version=ESV"&gt;Ruth 1:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ruth+2%3A4&amp;version=ESV"&gt;Ruth 2:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ruth+4%3A11&amp;version=ESV"&gt;Ruth 4:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ephrathah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ruth+4%3A11&amp;version=ESV"&gt;Ruth 4:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ruth+1%3A1&amp;version=ESV"&gt;Ruth 1:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ruth+1%3A2&amp;version=ESV"&gt;Ruth 1:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ruth+1%3A6&amp;version=ESV"&gt;Ruth 1:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ruth+1%3A22&amp;version=ESV"&gt;Ruth 1:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ruth+2%3A6&amp;version=ESV"&gt;Ruth 2:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ruth+4%3A3&amp;version=ESV"&gt;Ruth 4:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

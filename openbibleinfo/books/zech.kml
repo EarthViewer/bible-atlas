@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Zech</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Ashdod</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A6&amp;version=ESV"&gt;Zech 9:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.635114,31.802999</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashkelon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A5&amp;version=ESV"&gt;Zech 9:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.547227,31.662405</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Assyria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+10%3A10&amp;version=ESV"&gt;Zech 10:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+10%3A11&amp;version=ESV"&gt;Zech 10:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Azal~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A5&amp;version=ESV"&gt;Zech 14:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.247197,31.778095</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Babylon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+2%3A7&amp;version=ESV"&gt;Zech 2:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+6%3A10&amp;version=ESV"&gt;Zech 6:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bashan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+11%3A2&amp;version=ESV"&gt;Zech 11:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.937301,32.800075</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+7%3A2&amp;version=ESV"&gt;Zech 7:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Corner Gate&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A10&amp;version=ESV"&gt;Zech 14:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Damascus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A1&amp;version=ESV"&gt;Zech 9:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+10%3A10&amp;version=ESV"&gt;Zech 10:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+10%3A11&amp;version=ESV"&gt;Zech 10:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A18&amp;version=ESV"&gt;Zech 14:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A19&amp;version=ESV"&gt;Zech 14:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ekron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A5&amp;version=ESV"&gt;Zech 9:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A7&amp;version=ESV"&gt;Zech 9:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.852145,31.777614</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gate of Benjamin&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A10&amp;version=ESV"&gt;Zech 14:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gaza</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A5&amp;version=ESV"&gt;Zech 9:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.433364,31.524817</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Geba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A10&amp;version=ESV"&gt;Zech 14:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.259755,31.857878</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilead&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+10%3A10&amp;version=ESV"&gt;Zech 10:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Greece&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A13&amp;version=ESV"&gt;Zech 9:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>23.733333,37.983333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hadad-rimmon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+12%3A11&amp;version=ESV"&gt;Zech 12:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.205136,32.524106</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hadrach~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A1&amp;version=ESV"&gt;Zech 9:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hamath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A2&amp;version=ESV"&gt;Zech 9:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+1%3A12&amp;version=ESV"&gt;Zech 1:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+1%3A14&amp;version=ESV"&gt;Zech 1:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+1%3A16&amp;version=ESV"&gt;Zech 1:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+1%3A17&amp;version=ESV"&gt;Zech 1:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+1%3A19&amp;version=ESV"&gt;Zech 1:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+2%3A2&amp;version=ESV"&gt;Zech 2:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+2%3A4&amp;version=ESV"&gt;Zech 2:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+2%3A12&amp;version=ESV"&gt;Zech 2:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+3%3A2&amp;version=ESV"&gt;Zech 3:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+7%3A7&amp;version=ESV"&gt;Zech 7:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+8%3A3&amp;version=ESV"&gt;Zech 8:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+8%3A4&amp;version=ESV"&gt;Zech 8:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+8%3A8&amp;version=ESV"&gt;Zech 8:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+8%3A15&amp;version=ESV"&gt;Zech 8:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+8%3A22&amp;version=ESV"&gt;Zech 8:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A9&amp;version=ESV"&gt;Zech 9:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A10&amp;version=ESV"&gt;Zech 9:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+12%3A2&amp;version=ESV"&gt;Zech 12:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+12%3A3&amp;version=ESV"&gt;Zech 12:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+12%3A5&amp;version=ESV"&gt;Zech 12:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+12%3A6&amp;version=ESV"&gt;Zech 12:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+12%3A7&amp;version=ESV"&gt;Zech 12:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+12%3A8&amp;version=ESV"&gt;Zech 12:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+12%3A9&amp;version=ESV"&gt;Zech 12:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+12%3A10&amp;version=ESV"&gt;Zech 12:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+12%3A11&amp;version=ESV"&gt;Zech 12:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+13%3A1&amp;version=ESV"&gt;Zech 13:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A2&amp;version=ESV"&gt;Zech 14:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A4&amp;version=ESV"&gt;Zech 14:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A8&amp;version=ESV"&gt;Zech 14:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A10&amp;version=ESV"&gt;Zech 14:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A11&amp;version=ESV"&gt;Zech 14:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A12&amp;version=ESV"&gt;Zech 14:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A14&amp;version=ESV"&gt;Zech 14:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A16&amp;version=ESV"&gt;Zech 14:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A17&amp;version=ESV"&gt;Zech 14:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A21&amp;version=ESV"&gt;Zech 14:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+11%3A3&amp;version=ESV"&gt;Zech 11:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebanon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+10%3A10&amp;version=ESV"&gt;Zech 10:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+11%3A1&amp;version=ESV"&gt;Zech 11:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.590804,33.752479</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Megiddo</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+12%3A11&amp;version=ESV"&gt;Zech 12:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.182291,32.584183</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A4&amp;version=ESV"&gt;Zech 14:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.247197,31.778095</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount of Olives</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A4&amp;version=ESV"&gt;Zech 14:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.247197,31.778095</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nile</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+10%3A11&amp;version=ESV"&gt;Zech 10:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.230987,30.092632</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Philistia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A6&amp;version=ESV"&gt;Zech 9:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rimmon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A10&amp;version=ESV"&gt;Zech 14:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.385705,34.353071</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>River</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A10&amp;version=ESV"&gt;Zech 9:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.427780,35.090577</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shinar&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+5%3A11&amp;version=ESV"&gt;Zech 5:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sidon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A2&amp;version=ESV"&gt;Zech 9:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tower of Hananel&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+14%3A10&amp;version=ESV"&gt;Zech 14:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tyre</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A2&amp;version=ESV"&gt;Zech 9:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A3&amp;version=ESV"&gt;Zech 9:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.192574,33.275827</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zech+1%3A14&amp;version=ESV"&gt;Zech 1:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+1%3A17&amp;version=ESV"&gt;Zech 1:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+2%3A7&amp;version=ESV"&gt;Zech 2:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+2%3A10&amp;version=ESV"&gt;Zech 2:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+8%3A2&amp;version=ESV"&gt;Zech 8:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+8%3A3&amp;version=ESV"&gt;Zech 8:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A9&amp;version=ESV"&gt;Zech 9:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zech+9%3A13&amp;version=ESV"&gt;Zech 9:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

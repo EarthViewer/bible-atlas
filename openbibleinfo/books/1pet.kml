@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>1 Pet</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Asia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Pet+1%3A1&amp;version=ESV"&gt;1 Pet 1:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.73,39.23</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Babylon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Pet+5%3A13&amp;version=ESV"&gt;1 Pet 5:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bithynia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Pet+1%3A1&amp;version=ESV"&gt;1 Pet 1:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>30.685778,40.905503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cappadocia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Pet+1%3A1&amp;version=ESV"&gt;1 Pet 1:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.486302,36.731904</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Galatia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Pet+1%3A1&amp;version=ESV"&gt;1 Pet 1:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.453182,37.578134</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pontus&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Pet+1%3A1&amp;version=ESV"&gt;1 Pet 1:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>37.799969,40.905222</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=1+Pet+2%3A6&amp;version=ESV"&gt;1 Pet 2:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

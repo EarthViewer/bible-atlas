@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Hos</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Admah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+11%3A8&amp;version=ESV"&gt;Hos 11:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.412530,31.119422</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aram~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+12%3A12&amp;version=ESV"&gt;Hos 12:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>39.12,34.85</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Assyria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+5%3A13&amp;version=ESV"&gt;Hos 5:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+7%3A11&amp;version=ESV"&gt;Hos 7:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+8%3A9&amp;version=ESV"&gt;Hos 8:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+9%3A3&amp;version=ESV"&gt;Hos 9:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+10%3A6&amp;version=ESV"&gt;Hos 10:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+11%3A5&amp;version=ESV"&gt;Hos 11:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+11%3A11&amp;version=ESV"&gt;Hos 11:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+12%3A1&amp;version=ESV"&gt;Hos 12:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+14%3A3&amp;version=ESV"&gt;Hos 14:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aven</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+10%3A8&amp;version=ESV"&gt;Hos 10:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baal-peor~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+9%3A10&amp;version=ESV"&gt;Hos 9:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.718565,31.765031</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-arbel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+10%3A14&amp;version=ESV"&gt;Hos 10:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.847829,32.561011</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-aven</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+4%3A15&amp;version=ESV"&gt;Hos 4:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+5%3A8&amp;version=ESV"&gt;Hos 5:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+10%3A5&amp;version=ESV"&gt;Hos 10:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.253098,31.895717</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+10%3A15&amp;version=ESV"&gt;Hos 10:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+12%3A4&amp;version=ESV"&gt;Hos 12:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+2%3A15&amp;version=ESV"&gt;Hos 2:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+7%3A11&amp;version=ESV"&gt;Hos 7:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+7%3A16&amp;version=ESV"&gt;Hos 7:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+8%3A13&amp;version=ESV"&gt;Hos 8:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+9%3A3&amp;version=ESV"&gt;Hos 9:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+9%3A6&amp;version=ESV"&gt;Hos 9:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+11%3A1&amp;version=ESV"&gt;Hos 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+11%3A5&amp;version=ESV"&gt;Hos 11:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+11%3A11&amp;version=ESV"&gt;Hos 11:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+12%3A1&amp;version=ESV"&gt;Hos 12:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+12%3A9&amp;version=ESV"&gt;Hos 12:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+12%3A13&amp;version=ESV"&gt;Hos 12:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+13%3A4&amp;version=ESV"&gt;Hos 13:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gibeah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+5%3A8&amp;version=ESV"&gt;Hos 5:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+9%3A9&amp;version=ESV"&gt;Hos 9:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+10%3A9&amp;version=ESV"&gt;Hos 10:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.231009,31.823781</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilead&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+6%3A8&amp;version=ESV"&gt;Hos 6:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+12%3A11&amp;version=ESV"&gt;Hos 12:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilgal</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+4%3A15&amp;version=ESV"&gt;Hos 4:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+9%3A15&amp;version=ESV"&gt;Hos 9:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+12%3A11&amp;version=ESV"&gt;Hos 12:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.518546,31.863783</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jezreel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+1%3A4&amp;version=ESV"&gt;Hos 1:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+1%3A11&amp;version=ESV"&gt;Hos 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+2%3A22&amp;version=ESV"&gt;Hos 2:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.330789,32.555963</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebanon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+14%3A5&amp;version=ESV"&gt;Hos 14:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+14%3A6&amp;version=ESV"&gt;Hos 14:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+14%3A7&amp;version=ESV"&gt;Hos 14:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.590804,33.752479</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Memphis</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+9%3A6&amp;version=ESV"&gt;Hos 9:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.253958,29.849632</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mizpah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+5%3A1&amp;version=ESV"&gt;Hos 5:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.005559,32.565267</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+5%3A8&amp;version=ESV"&gt;Hos 5:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.201730,31.896378</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Samaria</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+7%3A1&amp;version=ESV"&gt;Hos 7:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+8%3A5&amp;version=ESV"&gt;Hos 8:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+8%3A6&amp;version=ESV"&gt;Hos 8:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+10%3A5&amp;version=ESV"&gt;Hos 10:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Hos+13%3A16&amp;version=ESV"&gt;Hos 13:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.197929,32.280231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Samaria's</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+10%3A7&amp;version=ESV"&gt;Hos 10:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.197929,32.280231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shechem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+6%3A9&amp;version=ESV"&gt;Hos 6:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.281798,32.213691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tabor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+5%3A1&amp;version=ESV"&gt;Hos 5:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.390913,32.686956</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Achor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+2%3A15&amp;version=ESV"&gt;Hos 2:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.399737,31.836890</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Jezreel~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+1%3A5&amp;version=ESV"&gt;Hos 1:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.330789,32.555963</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zeboiim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Hos+11%3A8&amp;version=ESV"&gt;Hos 11:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.412530,31.119422</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

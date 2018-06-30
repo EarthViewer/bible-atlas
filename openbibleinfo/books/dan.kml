@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Dan</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Babylon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+1%3A1&amp;version=ESV"&gt;Dan 1:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+2%3A12&amp;version=ESV"&gt;Dan 2:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+2%3A14&amp;version=ESV"&gt;Dan 2:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+2%3A18&amp;version=ESV"&gt;Dan 2:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+2%3A24&amp;version=ESV"&gt;Dan 2:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+2%3A48&amp;version=ESV"&gt;Dan 2:48&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+2%3A49&amp;version=ESV"&gt;Dan 2:49&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+3%3A1&amp;version=ESV"&gt;Dan 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+3%3A12&amp;version=ESV"&gt;Dan 3:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+3%3A30&amp;version=ESV"&gt;Dan 3:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+4%3A6&amp;version=ESV"&gt;Dan 4:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+4%3A29&amp;version=ESV"&gt;Dan 4:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+4%3A30&amp;version=ESV"&gt;Dan 4:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+5%3A7&amp;version=ESV"&gt;Dan 5:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+7%3A1&amp;version=ESV"&gt;Dan 7:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dura~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+3%3A1&amp;version=ESV"&gt;Dan 3:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Edom&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+11%3A41&amp;version=ESV"&gt;Dan 11:41&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+9%3A15&amp;version=ESV"&gt;Dan 9:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+11%3A8&amp;version=ESV"&gt;Dan 11:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+11%3A42&amp;version=ESV"&gt;Dan 11:42&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+11%3A43&amp;version=ESV"&gt;Dan 11:43&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Elam&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+8%3A2&amp;version=ESV"&gt;Dan 8:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.257886,32.189191</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Greece&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+8%3A21&amp;version=ESV"&gt;Dan 8:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+10%3A20&amp;version=ESV"&gt;Dan 10:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+11%3A2&amp;version=ESV"&gt;Dan 11:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>23.733333,37.983333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+1%3A1&amp;version=ESV"&gt;Dan 1:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+5%3A2&amp;version=ESV"&gt;Dan 5:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+5%3A3&amp;version=ESV"&gt;Dan 5:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+6%3A10&amp;version=ESV"&gt;Dan 6:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+9%3A2&amp;version=ESV"&gt;Dan 9:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+9%3A7&amp;version=ESV"&gt;Dan 9:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+9%3A12&amp;version=ESV"&gt;Dan 9:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+9%3A16&amp;version=ESV"&gt;Dan 9:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+9%3A25&amp;version=ESV"&gt;Dan 9:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kittim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+11%3A30&amp;version=ESV"&gt;Dan 11:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.207693,35.018306</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Media&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+8%3A20&amp;version=ESV"&gt;Dan 8:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.514966,34.798311</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+11%3A41&amp;version=ESV"&gt;Dan 11:41&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Persia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+8%3A20&amp;version=ESV"&gt;Dan 8:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+10%3A1&amp;version=ESV"&gt;Dan 10:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+10%3A13&amp;version=ESV"&gt;Dan 10:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+10%3A20&amp;version=ESV"&gt;Dan 10:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+11%3A2&amp;version=ESV"&gt;Dan 11:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.514966,34.798311</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shinar&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+1%3A2&amp;version=ESV"&gt;Dan 1:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Susa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+8%3A2&amp;version=ESV"&gt;Dan 8:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.257886,32.189191</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tigris</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+10%3A4&amp;version=ESV"&gt;Dan 10:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.346466,35.983343</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ulai</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+8%3A2&amp;version=ESV"&gt;Dan 8:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Dan+8%3A16&amp;version=ESV"&gt;Dan 8:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>48.224890,32.178696</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Uphaz&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Dan+10%3A5&amp;version=ESV"&gt;Dan 10:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>77,22</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

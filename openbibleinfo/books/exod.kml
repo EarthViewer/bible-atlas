@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Ex</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Amalek&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A8&amp;version=ESV"&gt;Ex 17:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A9&amp;version=ESV"&gt;Ex 17:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A10&amp;version=ESV"&gt;Ex 17:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A11&amp;version=ESV"&gt;Ex 17:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A13&amp;version=ESV"&gt;Ex 17:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A14&amp;version=ESV"&gt;Ex 17:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A16&amp;version=ESV"&gt;Ex 17:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.835554,30.659770</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baal-zephon?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+14%3A2&amp;version=ESV"&gt;Ex 14:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+14%3A9&amp;version=ESV"&gt;Ex 14:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.395473,29.938441</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Canaan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+6%3A4&amp;version=ESV"&gt;Ex 6:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+15%3A15&amp;version=ESV"&gt;Ex 15:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+16%3A35&amp;version=ESV"&gt;Ex 16:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.843882,31.693529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Edom&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+15%3A15&amp;version=ESV"&gt;Ex 15:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+1%3A1&amp;version=ESV"&gt;Ex 1:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+1%3A5&amp;version=ESV"&gt;Ex 1:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+1%3A8&amp;version=ESV"&gt;Ex 1:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+1%3A15&amp;version=ESV"&gt;Ex 1:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+1%3A17&amp;version=ESV"&gt;Ex 1:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+1%3A18&amp;version=ESV"&gt;Ex 1:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+2%3A23&amp;version=ESV"&gt;Ex 2:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+3%3A7&amp;version=ESV"&gt;Ex 3:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+3%3A10&amp;version=ESV"&gt;Ex 3:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+3%3A11&amp;version=ESV"&gt;Ex 3:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+3%3A12&amp;version=ESV"&gt;Ex 3:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+3%3A16&amp;version=ESV"&gt;Ex 3:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+3%3A17&amp;version=ESV"&gt;Ex 3:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+3%3A18&amp;version=ESV"&gt;Ex 3:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+3%3A19&amp;version=ESV"&gt;Ex 3:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+3%3A20&amp;version=ESV"&gt;Ex 3:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+4%3A18&amp;version=ESV"&gt;Ex 4:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+4%3A19&amp;version=ESV"&gt;Ex 4:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+4%3A20&amp;version=ESV"&gt;Ex 4:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+4%3A21&amp;version=ESV"&gt;Ex 4:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+5%3A4&amp;version=ESV"&gt;Ex 5:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+5%3A12&amp;version=ESV"&gt;Ex 5:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+6%3A11&amp;version=ESV"&gt;Ex 6:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+6%3A13&amp;version=ESV"&gt;Ex 6:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+6%3A26&amp;version=ESV"&gt;Ex 6:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+6%3A27&amp;version=ESV"&gt;Ex 6:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+6%3A28&amp;version=ESV"&gt;Ex 6:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+6%3A29&amp;version=ESV"&gt;Ex 6:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A3&amp;version=ESV"&gt;Ex 7:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A4&amp;version=ESV"&gt;Ex 7:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A5&amp;version=ESV"&gt;Ex 7:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A11&amp;version=ESV"&gt;Ex 7:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A19&amp;version=ESV"&gt;Ex 7:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A21&amp;version=ESV"&gt;Ex 7:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A22&amp;version=ESV"&gt;Ex 7:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+8%3A5&amp;version=ESV"&gt;Ex 8:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+8%3A6&amp;version=ESV"&gt;Ex 8:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+8%3A7&amp;version=ESV"&gt;Ex 8:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+8%3A16&amp;version=ESV"&gt;Ex 8:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+8%3A17&amp;version=ESV"&gt;Ex 8:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+8%3A24&amp;version=ESV"&gt;Ex 8:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+9%3A4&amp;version=ESV"&gt;Ex 9:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+9%3A9&amp;version=ESV"&gt;Ex 9:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+9%3A18&amp;version=ESV"&gt;Ex 9:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+9%3A22&amp;version=ESV"&gt;Ex 9:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+9%3A23&amp;version=ESV"&gt;Ex 9:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+9%3A24&amp;version=ESV"&gt;Ex 9:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+9%3A25&amp;version=ESV"&gt;Ex 9:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+10%3A7&amp;version=ESV"&gt;Ex 10:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+10%3A12&amp;version=ESV"&gt;Ex 10:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+10%3A13&amp;version=ESV"&gt;Ex 10:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+10%3A14&amp;version=ESV"&gt;Ex 10:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+10%3A15&amp;version=ESV"&gt;Ex 10:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+10%3A19&amp;version=ESV"&gt;Ex 10:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+10%3A21&amp;version=ESV"&gt;Ex 10:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+10%3A22&amp;version=ESV"&gt;Ex 10:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+11%3A1&amp;version=ESV"&gt;Ex 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+11%3A3&amp;version=ESV"&gt;Ex 11:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+11%3A4&amp;version=ESV"&gt;Ex 11:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+11%3A5&amp;version=ESV"&gt;Ex 11:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+11%3A6&amp;version=ESV"&gt;Ex 11:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+11%3A7&amp;version=ESV"&gt;Ex 11:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+11%3A9&amp;version=ESV"&gt;Ex 11:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A1&amp;version=ESV"&gt;Ex 12:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A12&amp;version=ESV"&gt;Ex 12:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A13&amp;version=ESV"&gt;Ex 12:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A17&amp;version=ESV"&gt;Ex 12:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A27&amp;version=ESV"&gt;Ex 12:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A29&amp;version=ESV"&gt;Ex 12:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A30&amp;version=ESV"&gt;Ex 12:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A39&amp;version=ESV"&gt;Ex 12:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A40&amp;version=ESV"&gt;Ex 12:40&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A41&amp;version=ESV"&gt;Ex 12:41&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A42&amp;version=ESV"&gt;Ex 12:42&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A51&amp;version=ESV"&gt;Ex 12:51&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+13%3A3&amp;version=ESV"&gt;Ex 13:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+13%3A8&amp;version=ESV"&gt;Ex 13:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+13%3A9&amp;version=ESV"&gt;Ex 13:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+13%3A14&amp;version=ESV"&gt;Ex 13:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+13%3A15&amp;version=ESV"&gt;Ex 13:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+13%3A16&amp;version=ESV"&gt;Ex 13:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+13%3A17&amp;version=ESV"&gt;Ex 13:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+13%3A18&amp;version=ESV"&gt;Ex 13:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+14%3A5&amp;version=ESV"&gt;Ex 14:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+14%3A7&amp;version=ESV"&gt;Ex 14:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+14%3A8&amp;version=ESV"&gt;Ex 14:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+14%3A11&amp;version=ESV"&gt;Ex 14:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+14%3A12&amp;version=ESV"&gt;Ex 14:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+14%3A20&amp;version=ESV"&gt;Ex 14:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+16%3A1&amp;version=ESV"&gt;Ex 16:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+16%3A3&amp;version=ESV"&gt;Ex 16:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+16%3A6&amp;version=ESV"&gt;Ex 16:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+16%3A32&amp;version=ESV"&gt;Ex 16:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A3&amp;version=ESV"&gt;Ex 17:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+18%3A1&amp;version=ESV"&gt;Ex 18:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+19%3A1&amp;version=ESV"&gt;Ex 19:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+20%3A2&amp;version=ESV"&gt;Ex 20:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+22%3A21&amp;version=ESV"&gt;Ex 22:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+23%3A9&amp;version=ESV"&gt;Ex 23:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+23%3A15&amp;version=ESV"&gt;Ex 23:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+29%3A46&amp;version=ESV"&gt;Ex 29:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+32%3A1&amp;version=ESV"&gt;Ex 32:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+32%3A4&amp;version=ESV"&gt;Ex 32:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+32%3A7&amp;version=ESV"&gt;Ex 32:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+32%3A8&amp;version=ESV"&gt;Ex 32:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+32%3A11&amp;version=ESV"&gt;Ex 32:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+32%3A23&amp;version=ESV"&gt;Ex 32:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+33%3A1&amp;version=ESV"&gt;Ex 33:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+34%3A18&amp;version=ESV"&gt;Ex 34:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Elim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+15%3A27&amp;version=ESV"&gt;Ex 15:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+16%3A1&amp;version=ESV"&gt;Ex 16:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.980924,29.306194</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Etham</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+13%3A20&amp;version=ESV"&gt;Ex 13:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.282767,30.467511</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Euphrates</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+23%3A31&amp;version=ESV"&gt;Ex 23:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.427780,35.090577</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Goshen</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+8%3A22&amp;version=ESV"&gt;Ex 8:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+9%3A26&amp;version=ESV"&gt;Ex 9:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.804692,30.728501</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Horeb</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+3%3A1&amp;version=ESV"&gt;Ex 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A6&amp;version=ESV"&gt;Ex 17:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.973333,28.539722</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Marah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+15%3A23&amp;version=ESV"&gt;Ex 15:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.933333,29.350000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Massah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A7&amp;version=ESV"&gt;Ex 17:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.841699,28.731061</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Meribah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A7&amp;version=ESV"&gt;Ex 17:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.841699,28.731061</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Midian&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+2%3A15&amp;version=ESV"&gt;Ex 2:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+2%3A16&amp;version=ESV"&gt;Ex 2:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+3%3A1&amp;version=ESV"&gt;Ex 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+4%3A19&amp;version=ESV"&gt;Ex 4:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+18%3A1&amp;version=ESV"&gt;Ex 18:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.90832,28.932881</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Migdol?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+14%3A2&amp;version=ESV"&gt;Ex 14:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.372233,30.020296</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+15%3A15&amp;version=ESV"&gt;Ex 15:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Horeb</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+33%3A6&amp;version=ESV"&gt;Ex 33:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.973333,28.539722</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Sinai</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+19%3A11&amp;version=ESV"&gt;Ex 19:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+19%3A18&amp;version=ESV"&gt;Ex 19:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+19%3A20&amp;version=ESV"&gt;Ex 19:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+19%3A23&amp;version=ESV"&gt;Ex 19:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+24%3A16&amp;version=ESV"&gt;Ex 24:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+31%3A18&amp;version=ESV"&gt;Ex 31:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+34%3A2&amp;version=ESV"&gt;Ex 34:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+34%3A4&amp;version=ESV"&gt;Ex 34:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+34%3A29&amp;version=ESV"&gt;Ex 34:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+34%3A32&amp;version=ESV"&gt;Ex 34:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.973333,28.539722</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nile</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+1%3A22&amp;version=ESV"&gt;Ex 1:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+4%3A9&amp;version=ESV"&gt;Ex 4:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A15&amp;version=ESV"&gt;Ex 7:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A17&amp;version=ESV"&gt;Ex 7:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A18&amp;version=ESV"&gt;Ex 7:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A20&amp;version=ESV"&gt;Ex 7:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A21&amp;version=ESV"&gt;Ex 7:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A24&amp;version=ESV"&gt;Ex 7:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+7%3A25&amp;version=ESV"&gt;Ex 7:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+8%3A3&amp;version=ESV"&gt;Ex 8:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+8%3A9&amp;version=ESV"&gt;Ex 8:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+8%3A11&amp;version=ESV"&gt;Ex 8:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A5&amp;version=ESV"&gt;Ex 17:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.230987,30.092632</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Philistia&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+15%3A14&amp;version=ESV"&gt;Ex 15:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pi-hahiroth?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+14%3A2&amp;version=ESV"&gt;Ex 14:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+14%3A9&amp;version=ESV"&gt;Ex 14:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.425144,29.94658</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pithom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+1%3A11&amp;version=ESV"&gt;Ex 1:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.185558,30.593851</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Raamses~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+1%3A11&amp;version=ESV"&gt;Ex 1:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.185558,30.593851</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rameses</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A37&amp;version=ESV"&gt;Ex 12:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.834216,30.799370</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Red Sea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+10%3A19&amp;version=ESV"&gt;Ex 10:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+13%3A18&amp;version=ESV"&gt;Ex 13:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+15%3A4&amp;version=ESV"&gt;Ex 15:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+15%3A22&amp;version=ESV"&gt;Ex 15:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+23%3A31&amp;version=ESV"&gt;Ex 23:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.771729,27.088473</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rephidim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A1&amp;version=ESV"&gt;Ex 17:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A8&amp;version=ESV"&gt;Ex 17:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+19%3A2&amp;version=ESV"&gt;Ex 19:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.841699,28.731061</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sea of the Philistines&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+23%3A31&amp;version=ESV"&gt;Ex 23:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.47,33.24</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shur&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+15%3A22&amp;version=ESV"&gt;Ex 15:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.247,30.2354</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sin&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+16%3A1&amp;version=ESV"&gt;Ex 16:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+17%3A1&amp;version=ESV"&gt;Ex 17:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.420573,28.838778</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sinai</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+16%3A1&amp;version=ESV"&gt;Ex 16:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+19%3A1&amp;version=ESV"&gt;Ex 19:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+19%3A2&amp;version=ESV"&gt;Ex 19:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.973333,28.539722</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Succoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Ex+12%3A37&amp;version=ESV"&gt;Ex 12:37&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Ex+13%3A20&amp;version=ESV"&gt;Ex 13:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>32.258693,30.620774</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

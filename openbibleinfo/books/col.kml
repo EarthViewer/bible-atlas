@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Col</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Colossae</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Col+1%3A2&amp;version=ESV"&gt;Col 1:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>29.25,37.783333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hierapolis</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Col+4%3A13&amp;version=ESV"&gt;Col 4:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>29.124525,37.924517</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Laodicea</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Col+2%3A1&amp;version=ESV"&gt;Col 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Col+4%3A13&amp;version=ESV"&gt;Col 4:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Col+4%3A15&amp;version=ESV"&gt;Col 4:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Col+4%3A16&amp;version=ESV"&gt;Col 4:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>29.064501,37.769867</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

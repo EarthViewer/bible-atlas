@@ -1,0 +1,2557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Josh</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Abdon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A30&amp;version=ESV"&gt;Josh 21:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.146201,33.047808</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Achshaph</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A1&amp;version=ESV"&gt;Josh 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A20&amp;version=ESV"&gt;Josh 12:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A25&amp;version=ESV"&gt;Josh 19:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.173826,32.951820</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Achzib</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A44&amp;version=ESV"&gt;Josh 15:44&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.000000,31.700000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Achzib</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A29&amp;version=ESV"&gt;Josh 19:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.102202,33.048467</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Adadah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A22&amp;version=ESV"&gt;Josh 15:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.96745,31.1858</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Adam</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+3%3A16&amp;version=ESV"&gt;Josh 3:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.564690,32.097720</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Adamah?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A36&amp;version=ESV"&gt;Josh 19:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.4382,32.7253</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Adami-nekeb</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A33&amp;version=ESV"&gt;Josh 19:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.542890,32.610500</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Addar~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A3&amp;version=ESV"&gt;Josh 15:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.7187,30.9522</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Adithaim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A36&amp;version=ESV"&gt;Josh 15:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.89532,31.7001</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Adullam</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A15&amp;version=ESV"&gt;Josh 12:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A35&amp;version=ESV"&gt;Josh 15:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.000000,31.650000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Adummim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A7&amp;version=ESV"&gt;Josh 15:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A17&amp;version=ESV"&gt;Josh 18:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.361646,31.817585</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ai</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+7%3A2&amp;version=ESV"&gt;Josh 7:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+7%3A3&amp;version=ESV"&gt;Josh 7:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+7%3A4&amp;version=ESV"&gt;Josh 7:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+7%3A5&amp;version=ESV"&gt;Josh 7:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A1&amp;version=ESV"&gt;Josh 8:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A2&amp;version=ESV"&gt;Josh 8:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A3&amp;version=ESV"&gt;Josh 8:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A9&amp;version=ESV"&gt;Josh 8:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A10&amp;version=ESV"&gt;Josh 8:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A11&amp;version=ESV"&gt;Josh 8:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A12&amp;version=ESV"&gt;Josh 8:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A14&amp;version=ESV"&gt;Josh 8:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A17&amp;version=ESV"&gt;Josh 8:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A18&amp;version=ESV"&gt;Josh 8:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A20&amp;version=ESV"&gt;Josh 8:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A21&amp;version=ESV"&gt;Josh 8:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A23&amp;version=ESV"&gt;Josh 8:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A24&amp;version=ESV"&gt;Josh 8:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A25&amp;version=ESV"&gt;Josh 8:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A26&amp;version=ESV"&gt;Josh 8:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A28&amp;version=ESV"&gt;Josh 8:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A29&amp;version=ESV"&gt;Josh 8:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A3&amp;version=ESV"&gt;Josh 9:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A1&amp;version=ESV"&gt;Josh 10:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A2&amp;version=ESV"&gt;Josh 10:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A9&amp;version=ESV"&gt;Josh 12:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.261226,31.916978</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aijalon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A42&amp;version=ESV"&gt;Josh 19:42&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A24&amp;version=ESV"&gt;Josh 21:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.025379,31.841173</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ain</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A32&amp;version=ESV"&gt;Josh 15:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A7&amp;version=ESV"&gt;Josh 19:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A16&amp;version=ESV"&gt;Josh 21:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.860665,31.370835</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Akrabbim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A3&amp;version=ESV"&gt;Josh 15:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.263182,30.688292</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Allammelech~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A26&amp;version=ESV"&gt;Josh 19:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.182915,32.97829</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Almon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A18&amp;version=ESV"&gt;Josh 21:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.287637,31.828406</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Amad</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A26&amp;version=ESV"&gt;Josh 19:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.173644,33.019337</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Amam~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A26&amp;version=ESV"&gt;Josh 15:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.057114,31.162327</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Anab</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A21&amp;version=ESV"&gt;Josh 11:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A50&amp;version=ESV"&gt;Josh 15:50&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.944185,31.403888</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Anaharath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A19&amp;version=ESV"&gt;Josh 19:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.397389,32.607039</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Anathoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A18&amp;version=ESV"&gt;Josh 21:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.263498,31.812912</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Anim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A50&amp;version=ESV"&gt;Josh 15:50&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.074552,31.373521</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aphek</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A4&amp;version=ESV"&gt;Josh 13:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A30&amp;version=ESV"&gt;Josh 19:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.865801,34.066067</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aphek</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A18&amp;version=ESV"&gt;Josh 12:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.931979,32.104712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aphekah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A53&amp;version=ESV"&gt;Josh 15:53&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.931979,32.104712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arabah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A14&amp;version=ESV"&gt;Josh 8:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A2&amp;version=ESV"&gt;Josh 11:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A16&amp;version=ESV"&gt;Josh 11:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A1&amp;version=ESV"&gt;Josh 12:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A3&amp;version=ESV"&gt;Josh 12:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A8&amp;version=ESV"&gt;Josh 12:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A18&amp;version=ESV"&gt;Josh 18:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.520995,32.029676</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arab~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A52&amp;version=ESV"&gt;Josh 15:52&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.045648,31.450746</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arad</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A14&amp;version=ESV"&gt;Josh 12:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.126365,31.280981</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aroer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A2&amp;version=ESV"&gt;Josh 12:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A9&amp;version=ESV"&gt;Josh 13:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A16&amp;version=ESV"&gt;Josh 13:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.822003,31.471095</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aroer~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A25&amp;version=ESV"&gt;Josh 13:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.9115,31.9617</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashan~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A42&amp;version=ESV"&gt;Josh 15:42&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A7&amp;version=ESV"&gt;Josh 19:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.9365,31.8099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashdod</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A22&amp;version=ESV"&gt;Josh 11:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A3&amp;version=ESV"&gt;Josh 13:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A46&amp;version=ESV"&gt;Josh 15:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A47&amp;version=ESV"&gt;Josh 15:47&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.635114,31.802999</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashkelon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A3&amp;version=ESV"&gt;Josh 13:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.547227,31.662405</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashnah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A33&amp;version=ESV"&gt;Josh 15:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A43&amp;version=ESV"&gt;Josh 15:43&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.9365,31.8099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashtaroth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A10&amp;version=ESV"&gt;Josh 9:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A4&amp;version=ESV"&gt;Josh 12:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A12&amp;version=ESV"&gt;Josh 13:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A31&amp;version=ESV"&gt;Josh 13:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.016666,32.833333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ataroth~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A2&amp;version=ESV"&gt;Josh 16:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A7&amp;version=ESV"&gt;Josh 16:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.128313,31.858917</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ataroth-addar~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A5&amp;version=ESV"&gt;Josh 16:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A13&amp;version=ESV"&gt;Josh 18:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.128313,31.858917</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Avvim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A23&amp;version=ESV"&gt;Josh 18:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.094099,31.535773</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Azekah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A10&amp;version=ESV"&gt;Josh 10:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A11&amp;version=ESV"&gt;Josh 10:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A35&amp;version=ESV"&gt;Josh 15:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.936185,31.700638</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Azmon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A4&amp;version=ESV"&gt;Josh 15:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.380500,30.958506</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Aznoth-tabor~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A34&amp;version=ESV"&gt;Josh 19:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.390913,32.686956</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baal-gad</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A17&amp;version=ESV"&gt;Josh 11:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A7&amp;version=ESV"&gt;Josh 12:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A5&amp;version=ESV"&gt;Josh 13:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baalah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A29&amp;version=ESV"&gt;Josh 15:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.840888,31.244952</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baalah?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A9&amp;version=ESV"&gt;Josh 15:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A10&amp;version=ESV"&gt;Josh 15:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.993812,31.771104</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baalath~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A44&amp;version=ESV"&gt;Josh 19:44&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.055378,31.927451</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Baalath-beer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A8&amp;version=ESV"&gt;Josh 19:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Balah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A3&amp;version=ESV"&gt;Josh 19:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.840888,31.244952</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bamoth-baal~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A17&amp;version=ESV"&gt;Josh 13:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.718565,31.765031</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bashan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A10&amp;version=ESV"&gt;Josh 9:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A4&amp;version=ESV"&gt;Josh 12:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A5&amp;version=ESV"&gt;Josh 12:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A11&amp;version=ESV"&gt;Josh 13:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A12&amp;version=ESV"&gt;Josh 13:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A30&amp;version=ESV"&gt;Josh 13:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A31&amp;version=ESV"&gt;Josh 13:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A1&amp;version=ESV"&gt;Josh 17:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A5&amp;version=ESV"&gt;Josh 17:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+20%3A8&amp;version=ESV"&gt;Josh 20:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A6&amp;version=ESV"&gt;Josh 21:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A27&amp;version=ESV"&gt;Josh 21:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A7&amp;version=ESV"&gt;Josh 22:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.937301,32.800075</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bealoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A24&amp;version=ESV"&gt;Josh 15:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beeroth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A17&amp;version=ESV"&gt;Josh 9:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A25&amp;version=ESV"&gt;Josh 18:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.216688,31.900074</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beersheba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A28&amp;version=ESV"&gt;Josh 15:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A2&amp;version=ESV"&gt;Josh 19:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.840888,31.244952</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beeshterah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A27&amp;version=ESV"&gt;Josh 21:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.016666,32.833333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bene-berak</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A45&amp;version=ESV"&gt;Josh 19:45&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.827108,32.035782</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beten</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A25&amp;version=ESV"&gt;Josh 19:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.270799,32.934736</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-anath~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A38&amp;version=ESV"&gt;Josh 19:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.427134,33.146864</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-anoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A59&amp;version=ESV"&gt;Josh 15:59&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.124483,31.558456</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-arabah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A6&amp;version=ESV"&gt;Josh 15:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A61&amp;version=ESV"&gt;Josh 15:61&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A18&amp;version=ESV"&gt;Josh 18:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A22&amp;version=ESV"&gt;Josh 18:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.506490,31.843320</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-aven</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+7%3A2&amp;version=ESV"&gt;Josh 7:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A12&amp;version=ESV"&gt;Josh 18:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.253098,31.895717</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-baal-meon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A17&amp;version=ESV"&gt;Josh 13:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.734892,31.679454</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-dagon~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A41&amp;version=ESV"&gt;Josh 15:41&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.775,31.908</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-dagon~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A27&amp;version=ESV"&gt;Josh 19:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.107928,32.899561</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-emek</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A27&amp;version=ESV"&gt;Josh 19:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.167096,32.978855</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-haram</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A27&amp;version=ESV"&gt;Josh 13:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.583333,31.816667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-hoglah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A6&amp;version=ESV"&gt;Josh 15:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A19&amp;version=ESV"&gt;Josh 18:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A21&amp;version=ESV"&gt;Josh 18:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.513151,31.837062</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-horon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A10&amp;version=ESV"&gt;Josh 10:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A11&amp;version=ESV"&gt;Josh 10:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A14&amp;version=ESV"&gt;Josh 18:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A22&amp;version=ESV"&gt;Josh 21:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.123567,31.878925</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-jeshimoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A3&amp;version=ESV"&gt;Josh 12:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A20&amp;version=ESV"&gt;Josh 13:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.598657,31.776911</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-lebaoth~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A6&amp;version=ESV"&gt;Josh 19:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.940502,31.391668</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-marcaboth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A5&amp;version=ESV"&gt;Josh 19:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.940502,31.391668</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-nimrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A27&amp;version=ESV"&gt;Josh 13:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.625693,31.900811</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-pazzez~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A21&amp;version=ESV"&gt;Josh 19:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.303683,32.463499</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-pelet~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A27&amp;version=ESV"&gt;Josh 15:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.942986,31.215418</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-peor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A20&amp;version=ESV"&gt;Josh 13:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.711870,31.656099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-shean</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A11&amp;version=ESV"&gt;Josh 17:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A16&amp;version=ESV"&gt;Josh 17:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.503077,32.504238</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-shemesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A10&amp;version=ESV"&gt;Josh 15:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A16&amp;version=ESV"&gt;Josh 21:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.976609,31.752748</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-shemesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A22&amp;version=ESV"&gt;Josh 19:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.504628,32.406430</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-shemesh~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A38&amp;version=ESV"&gt;Josh 19:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.427134,33.146864</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-tappuah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A53&amp;version=ESV"&gt;Josh 15:53&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.050377,31.529730</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Beth-zur</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A58&amp;version=ESV"&gt;Josh 15:58&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.102620,31.596107</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+7%3A2&amp;version=ESV"&gt;Josh 7:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A9&amp;version=ESV"&gt;Josh 8:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A12&amp;version=ESV"&gt;Josh 8:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A17&amp;version=ESV"&gt;Josh 8:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A9&amp;version=ESV"&gt;Josh 12:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A1&amp;version=ESV"&gt;Josh 16:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A2&amp;version=ESV"&gt;Josh 16:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A13&amp;version=ESV"&gt;Josh 18:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A22&amp;version=ESV"&gt;Josh 18:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethel~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A16&amp;version=ESV"&gt;Josh 12:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethlehem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A15&amp;version=ESV"&gt;Josh 19:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.189704,32.735379</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethul~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A4&amp;version=ESV"&gt;Josh 19:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Betonim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A26&amp;version=ESV"&gt;Josh 13:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.706297,32.010500</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bezer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+20%3A8&amp;version=ESV"&gt;Josh 20:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A36&amp;version=ESV"&gt;Josh 21:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.488290,32.516137</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Biziothiah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A28&amp;version=ESV"&gt;Josh 15:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.840888,31.244952</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bozkath~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A39&amp;version=ESV"&gt;Josh 15:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.846725,31.564850</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Brook of Egypt</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A4&amp;version=ESV"&gt;Josh 15:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A47&amp;version=ESV"&gt;Josh 15:47&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.854957,31.032047</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cabbon~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A40&amp;version=ESV"&gt;Josh 15:40&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.7667,31.5</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cabul</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A27&amp;version=ESV"&gt;Josh 19:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.211814,32.865661</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Canaan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+5%3A12&amp;version=ESV"&gt;Josh 5:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+14%3A1&amp;version=ESV"&gt;Josh 14:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A2&amp;version=ESV"&gt;Josh 21:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A9&amp;version=ESV"&gt;Josh 22:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A10&amp;version=ESV"&gt;Josh 22:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A11&amp;version=ESV"&gt;Josh 22:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A32&amp;version=ESV"&gt;Josh 22:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A3&amp;version=ESV"&gt;Josh 24:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.843882,31.693529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Carmel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A22&amp;version=ESV"&gt;Josh 12:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A55&amp;version=ESV"&gt;Josh 15:55&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A26&amp;version=ESV"&gt;Josh 19:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.133331,31.433331</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chephar-ammoni</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A24&amp;version=ESV"&gt;Josh 18:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.250000,31.966667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chephirah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A17&amp;version=ESV"&gt;Josh 9:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A26&amp;version=ESV"&gt;Josh 18:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.095272,31.836401</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chesalon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A10&amp;version=ESV"&gt;Josh 15:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.051130,31.781049</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chesil~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A30&amp;version=ESV"&gt;Josh 15:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chesulloth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A18&amp;version=ESV"&gt;Josh 19:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.324694,32.683231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chinnereth~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A35&amp;version=ESV"&gt;Josh 19:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.589360,32.806775</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chinneroth&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A2&amp;version=ESV"&gt;Josh 11:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.589360,32.806775</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chisloth-tabor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A12&amp;version=ESV"&gt;Josh 19:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.324694,32.683231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chitlish~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A40&amp;version=ESV"&gt;Josh 15:40&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.777779,31.823337</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>City of Salt~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A62&amp;version=ESV"&gt;Josh 15:62&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.392411,31.461525</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dabbesheth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A11&amp;version=ESV"&gt;Josh 19:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.266682,33.000000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Daberath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A12&amp;version=ESV"&gt;Josh 19:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A28&amp;version=ESV"&gt;Josh 21:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.371710,32.691712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A47&amp;version=ESV"&gt;Josh 19:47&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.652483,33.248659</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dannah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A49&amp;version=ESV"&gt;Josh 15:49&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.975472,31.561025</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Debir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A38&amp;version=ESV"&gt;Josh 10:38&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A39&amp;version=ESV"&gt;Josh 10:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A21&amp;version=ESV"&gt;Josh 11:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A13&amp;version=ESV"&gt;Josh 12:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A15&amp;version=ESV"&gt;Josh 15:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A49&amp;version=ESV"&gt;Josh 15:49&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A15&amp;version=ESV"&gt;Josh 21:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.966670,31.416669</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Debir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A7&amp;version=ESV"&gt;Josh 15:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.349994,31.816662</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Debir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A26&amp;version=ESV"&gt;Josh 13:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.783568,32.662488</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dibon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A9&amp;version=ESV"&gt;Josh 13:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A17&amp;version=ESV"&gt;Josh 13:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dilean~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A38&amp;version=ESV"&gt;Josh 15:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.846725,31.564850</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dimnah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A35&amp;version=ESV"&gt;Josh 21:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.321364,32.781808</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dimonah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A22&amp;version=ESV"&gt;Josh 15:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.96745,31.1858</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A23&amp;version=ESV"&gt;Josh 12:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A11&amp;version=ESV"&gt;Josh 17:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.918896,32.613236</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Dumah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A52&amp;version=ESV"&gt;Josh 15:52&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.982762,31.438270</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ebez</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A20&amp;version=ESV"&gt;Josh 19:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.328129,32.261621</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ebron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A28&amp;version=ESV"&gt;Josh 19:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.146201,33.047808</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eder~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A21&amp;version=ESV"&gt;Josh 15:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.96745,31.1858</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Edom&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A1&amp;version=ESV"&gt;Josh 15:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A21&amp;version=ESV"&gt;Josh 15:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Edrei</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A4&amp;version=ESV"&gt;Josh 12:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A12&amp;version=ESV"&gt;Josh 13:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A31&amp;version=ESV"&gt;Josh 13:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A37&amp;version=ESV"&gt;Josh 19:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.098996,32.624137</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eglon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A3&amp;version=ESV"&gt;Josh 10:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A5&amp;version=ESV"&gt;Josh 10:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A23&amp;version=ESV"&gt;Josh 10:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A34&amp;version=ESV"&gt;Josh 10:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A36&amp;version=ESV"&gt;Josh 10:36&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A37&amp;version=ESV"&gt;Josh 10:37&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A12&amp;version=ESV"&gt;Josh 12:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A39&amp;version=ESV"&gt;Josh 15:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.7667,31.5</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Egypt&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+2%3A10&amp;version=ESV"&gt;Josh 2:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+5%3A4&amp;version=ESV"&gt;Josh 5:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+5%3A5&amp;version=ESV"&gt;Josh 5:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+5%3A6&amp;version=ESV"&gt;Josh 5:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+5%3A9&amp;version=ESV"&gt;Josh 5:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A9&amp;version=ESV"&gt;Josh 9:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A3&amp;version=ESV"&gt;Josh 13:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A4&amp;version=ESV"&gt;Josh 24:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A5&amp;version=ESV"&gt;Josh 24:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A6&amp;version=ESV"&gt;Josh 24:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A7&amp;version=ESV"&gt;Josh 24:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A14&amp;version=ESV"&gt;Josh 24:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A17&amp;version=ESV"&gt;Josh 24:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A32&amp;version=ESV"&gt;Josh 24:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.338220,30.108086</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ekron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A3&amp;version=ESV"&gt;Josh 13:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A11&amp;version=ESV"&gt;Josh 15:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A45&amp;version=ESV"&gt;Josh 15:45&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A46&amp;version=ESV"&gt;Josh 15:46&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A43&amp;version=ESV"&gt;Josh 19:43&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.852145,31.777614</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Elon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A43&amp;version=ESV"&gt;Josh 19:43&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.116531,31.973818</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Elteke</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A23&amp;version=ESV"&gt;Josh 21:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.066880,31.869521</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eltekeh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A44&amp;version=ESV"&gt;Josh 19:44&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.066880,31.869521</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eltekon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A59&amp;version=ESV"&gt;Josh 15:59&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.995406,31.660570</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eltolad~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A30&amp;version=ESV"&gt;Josh 15:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A4&amp;version=ESV"&gt;Josh 19:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Emek-keziz~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A21&amp;version=ESV"&gt;Josh 18:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.513151,31.837062</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>En-dor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A11&amp;version=ESV"&gt;Josh 17:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.385667,32.625700</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>En-gannim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A34&amp;version=ESV"&gt;Josh 15:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.950106,31.750000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>En-gannim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A21&amp;version=ESV"&gt;Josh 19:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A29&amp;version=ESV"&gt;Josh 21:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.303683,32.463499</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>En-haddah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A21&amp;version=ESV"&gt;Josh 19:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.254452,32.478425</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>En-hazor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A37&amp;version=ESV"&gt;Josh 19:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.350000,33.100000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>En-rogel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A7&amp;version=ESV"&gt;Josh 15:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A16&amp;version=ESV"&gt;Josh 18:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234408,31.767775</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>En-shemesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A7&amp;version=ESV"&gt;Josh 15:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A17&amp;version=ESV"&gt;Josh 18:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.270231,31.774020</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>En-tappuah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A7&amp;version=ESV"&gt;Josh 17:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.233333,32.116666</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Enam~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A34&amp;version=ESV"&gt;Josh 15:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.1260,32.15</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Engedi</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A62&amp;version=ESV"&gt;Josh 15:62&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.392411,31.461525</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ephron~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A15&amp;version=ESV"&gt;Josh 18:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.042407,31.675746</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eshan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A52&amp;version=ESV"&gt;Josh 15:52&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.033537,31.420175</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eshtaol</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A33&amp;version=ESV"&gt;Josh 15:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A41&amp;version=ESV"&gt;Josh 19:41&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.009012,31.782429</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eshtemoa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A14&amp;version=ESV"&gt;Josh 21:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.074552,31.373521</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eshtemoh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A50&amp;version=ESV"&gt;Josh 15:50&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.074552,31.373521</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Eth-kazin~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A13&amp;version=ESV"&gt;Josh 19:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.321364,32.781808</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ether~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A42&amp;version=ESV"&gt;Josh 15:42&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A7&amp;version=ESV"&gt;Josh 19:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.9365,31.8099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Euphrates</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+1%3A4&amp;version=ESV"&gt;Josh 1:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A2&amp;version=ESV"&gt;Josh 24:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.427780,35.090577</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ezem~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A29&amp;version=ESV"&gt;Josh 15:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A3&amp;version=ESV"&gt;Josh 19:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gaash~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A30&amp;version=ESV"&gt;Josh 24:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.150392,32.121473</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Galilee&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A23&amp;version=ESV"&gt;Josh 12:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+20%3A7&amp;version=ESV"&gt;Josh 20:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A32&amp;version=ESV"&gt;Josh 21:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.301528,32.706745</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A22&amp;version=ESV"&gt;Josh 11:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A3&amp;version=ESV"&gt;Josh 13:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.843882,31.693529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gath-hepher</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A13&amp;version=ESV"&gt;Josh 19:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.328226,32.739184</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gath-rimmon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A45&amp;version=ESV"&gt;Josh 19:45&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A24&amp;version=ESV"&gt;Josh 21:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.883055,32.069722</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gath-rimmon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A25&amp;version=ESV"&gt;Josh 21:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.2833,32.45</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gaza</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A41&amp;version=ESV"&gt;Josh 10:41&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A22&amp;version=ESV"&gt;Josh 11:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A3&amp;version=ESV"&gt;Josh 13:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A47&amp;version=ESV"&gt;Josh 15:47&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.433364,31.524817</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Geba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A24&amp;version=ESV"&gt;Josh 18:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A17&amp;version=ESV"&gt;Josh 21:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.259755,31.857878</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Geder</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A13&amp;version=ESV"&gt;Josh 12:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.083333,31.633330</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gederah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A36&amp;version=ESV"&gt;Josh 15:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.777779,31.823337</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gederothaim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A36&amp;version=ESV"&gt;Josh 15:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.777779,31.823337</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gederoth~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A41&amp;version=ESV"&gt;Josh 15:41&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.777779,31.823337</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gedor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A58&amp;version=ESV"&gt;Josh 15:58&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.083333,31.633330</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Geliloth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A17&amp;version=ESV"&gt;Josh 18:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.518546,31.863783</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Geshur</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A13&amp;version=ESV"&gt;Josh 13:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.416670,33.000000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gezer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A33&amp;version=ESV"&gt;Josh 10:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A12&amp;version=ESV"&gt;Josh 12:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A3&amp;version=ESV"&gt;Josh 16:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A10&amp;version=ESV"&gt;Josh 16:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A21&amp;version=ESV"&gt;Josh 21:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.9225,31.876111</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gibbethon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A44&amp;version=ESV"&gt;Josh 19:44&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A23&amp;version=ESV"&gt;Josh 21:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.004896,31.976623</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gibeah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A28&amp;version=ESV"&gt;Josh 18:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A33&amp;version=ESV"&gt;Josh 24:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.231009,31.823781</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gibeah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A57&amp;version=ESV"&gt;Josh 15:57&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.133331,31.433331</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gibeath-haaraloth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+5%3A3&amp;version=ESV"&gt;Josh 5:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.518546,31.863783</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gibeon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A3&amp;version=ESV"&gt;Josh 9:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A17&amp;version=ESV"&gt;Josh 9:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A1&amp;version=ESV"&gt;Josh 10:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A2&amp;version=ESV"&gt;Josh 10:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A4&amp;version=ESV"&gt;Josh 10:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A5&amp;version=ESV"&gt;Josh 10:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A6&amp;version=ESV"&gt;Josh 10:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A10&amp;version=ESV"&gt;Josh 10:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A12&amp;version=ESV"&gt;Josh 10:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A41&amp;version=ESV"&gt;Josh 10:41&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A19&amp;version=ESV"&gt;Josh 11:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A25&amp;version=ESV"&gt;Josh 18:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A17&amp;version=ESV"&gt;Josh 21:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.184912,31.846847</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilead&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A2&amp;version=ESV"&gt;Josh 12:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A5&amp;version=ESV"&gt;Josh 12:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A11&amp;version=ESV"&gt;Josh 13:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A25&amp;version=ESV"&gt;Josh 13:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A31&amp;version=ESV"&gt;Josh 13:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A1&amp;version=ESV"&gt;Josh 17:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A5&amp;version=ESV"&gt;Josh 17:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A6&amp;version=ESV"&gt;Josh 17:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+20%3A8&amp;version=ESV"&gt;Josh 20:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A38&amp;version=ESV"&gt;Josh 21:38&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A9&amp;version=ESV"&gt;Josh 22:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A13&amp;version=ESV"&gt;Josh 22:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A15&amp;version=ESV"&gt;Josh 22:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A32&amp;version=ESV"&gt;Josh 22:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilgal</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A19&amp;version=ESV"&gt;Josh 4:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A20&amp;version=ESV"&gt;Josh 4:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+5%3A9&amp;version=ESV"&gt;Josh 5:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+5%3A10&amp;version=ESV"&gt;Josh 5:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A6&amp;version=ESV"&gt;Josh 9:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A6&amp;version=ESV"&gt;Josh 10:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A7&amp;version=ESV"&gt;Josh 10:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A9&amp;version=ESV"&gt;Josh 10:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A15&amp;version=ESV"&gt;Josh 10:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A43&amp;version=ESV"&gt;Josh 10:43&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+14%3A6&amp;version=ESV"&gt;Josh 14:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A7&amp;version=ESV"&gt;Josh 15:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.518546,31.863783</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Giloh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A51&amp;version=ESV"&gt;Josh 15:51&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.083333,31.616667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Golan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+20%3A8&amp;version=ESV"&gt;Josh 20:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A27&amp;version=ESV"&gt;Josh 21:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.937301,32.800075</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Goshen</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A41&amp;version=ESV"&gt;Josh 10:41&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A16&amp;version=ESV"&gt;Josh 11:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A51&amp;version=ESV"&gt;Josh 15:51&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.916667,31.450000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Great Sea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+1%3A4&amp;version=ESV"&gt;Josh 1:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A1&amp;version=ESV"&gt;Josh 9:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A12&amp;version=ESV"&gt;Josh 15:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A47&amp;version=ESV"&gt;Josh 15:47&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+23%3A4&amp;version=ESV"&gt;Josh 23:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.47,33.24</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Great Sidon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A8&amp;version=ESV"&gt;Josh 11:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hadashah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A37&amp;version=ESV"&gt;Josh 15:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.695903,31.679512</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Haeleph</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A28&amp;version=ESV"&gt;Josh 18:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.196862,31.792733</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Halhul</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A58&amp;version=ESV"&gt;Josh 15:58&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.099103,31.579549</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hali~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A25&amp;version=ESV"&gt;Josh 19:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.270799,32.934736</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hammath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A35&amp;version=ESV"&gt;Josh 19:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.165000,33.125828</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hammon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A28&amp;version=ESV"&gt;Josh 19:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.165000,33.125828</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hammoth-dor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A32&amp;version=ESV"&gt;Josh 21:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.165000,33.125828</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hannathon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A14&amp;version=ESV"&gt;Josh 19:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.426637,32.916002</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hapharaim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A19&amp;version=ESV"&gt;Josh 19:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.288264,32.608682</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazar-gaddah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A27&amp;version=ESV"&gt;Josh 15:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.057114,31.162327</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazar-shual</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A28&amp;version=ESV"&gt;Josh 15:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A3&amp;version=ESV"&gt;Josh 19:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.942986,31.215418</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazar-susah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A5&amp;version=ESV"&gt;Josh 19:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.940502,31.391668</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A1&amp;version=ESV"&gt;Josh 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A10&amp;version=ESV"&gt;Josh 11:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A11&amp;version=ESV"&gt;Josh 11:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A13&amp;version=ESV"&gt;Josh 11:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A19&amp;version=ESV"&gt;Josh 12:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A36&amp;version=ESV"&gt;Josh 19:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.568048,33.017181</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazor~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A23&amp;version=ESV"&gt;Josh 15:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.494795,30.687712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazor~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A25&amp;version=ESV"&gt;Josh 15:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.057114,31.162327</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hazor-hadattah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A25&amp;version=ESV"&gt;Josh 15:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.057114,31.162327</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hebron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A3&amp;version=ESV"&gt;Josh 10:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A5&amp;version=ESV"&gt;Josh 10:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A23&amp;version=ESV"&gt;Josh 10:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A36&amp;version=ESV"&gt;Josh 10:36&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A39&amp;version=ESV"&gt;Josh 10:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A21&amp;version=ESV"&gt;Josh 11:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A10&amp;version=ESV"&gt;Josh 12:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+14%3A13&amp;version=ESV"&gt;Josh 14:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+14%3A14&amp;version=ESV"&gt;Josh 14:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+14%3A15&amp;version=ESV"&gt;Josh 14:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A13&amp;version=ESV"&gt;Josh 15:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A54&amp;version=ESV"&gt;Josh 15:54&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+20%3A7&amp;version=ESV"&gt;Josh 20:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A11&amp;version=ESV"&gt;Josh 21:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A13&amp;version=ESV"&gt;Josh 21:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.094099,31.535773</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Heleph</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A33&amp;version=ESV"&gt;Josh 19:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.332157,33.134416</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Helkath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A25&amp;version=ESV"&gt;Josh 19:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A31&amp;version=ESV"&gt;Josh 21:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.211971,32.955448</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hepher</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A17&amp;version=ESV"&gt;Josh 12:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.8833,32.3667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hermon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A3&amp;version=ESV"&gt;Josh 11:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Heshbon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A10&amp;version=ESV"&gt;Josh 9:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A2&amp;version=ESV"&gt;Josh 12:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A5&amp;version=ESV"&gt;Josh 12:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A10&amp;version=ESV"&gt;Josh 13:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A17&amp;version=ESV"&gt;Josh 13:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A21&amp;version=ESV"&gt;Josh 13:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A26&amp;version=ESV"&gt;Josh 13:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A27&amp;version=ESV"&gt;Josh 13:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A39&amp;version=ESV"&gt;Josh 21:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.809018,31.800520</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Heshmon~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A27&amp;version=ESV"&gt;Josh 15:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.942986,31.215418</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hezron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A3&amp;version=ESV"&gt;Josh 15:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.568048,33.017181</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Holon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A51&amp;version=ESV"&gt;Josh 15:51&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A15&amp;version=ESV"&gt;Josh 21:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.950000,31.583333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Horem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A38&amp;version=ESV"&gt;Josh 19:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.433333,33.166667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hormah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A14&amp;version=ESV"&gt;Josh 12:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A30&amp;version=ESV"&gt;Josh 15:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A4&amp;version=ESV"&gt;Josh 19:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.630620,30.880918</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hosah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A29&amp;version=ESV"&gt;Josh 19:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.227580,32.178502</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Hukkok</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A34&amp;version=ESV"&gt;Josh 19:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.496694,32.882153</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Humtah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A54&amp;version=ESV"&gt;Josh 15:54&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.094099,31.535773</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ibleam</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A11&amp;version=ESV"&gt;Josh 17:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.2833,32.45</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Idalah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A15&amp;version=ESV"&gt;Josh 19:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.166667,32.733333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Iim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A29&amp;version=ESV"&gt;Josh 15:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Iphtah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A43&amp;version=ESV"&gt;Josh 15:43&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.9365,31.8099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ir-shemesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A41&amp;version=ESV"&gt;Josh 19:41&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.976609,31.752748</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Irpeel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A27&amp;version=ESV"&gt;Josh 18:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.197712,31.869343</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ithlah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A42&amp;version=ESV"&gt;Josh 19:42&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.075769,31.823593</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ithnan~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A23&amp;version=ESV"&gt;Josh 15:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jabbok</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A2&amp;version=ESV"&gt;Josh 12:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.676305,32.193237</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jabneel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A11&amp;version=ESV"&gt;Josh 15:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.746856,31.865518</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jabneel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A33&amp;version=ESV"&gt;Josh 19:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.500000,32.700000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jagur~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A21&amp;version=ESV"&gt;Josh 15:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.96745,31.1858</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jahaz</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A18&amp;version=ESV"&gt;Josh 13:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A36&amp;version=ESV"&gt;Josh 21:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.920631,31.501003</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jair~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A30&amp;version=ESV"&gt;Josh 13:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Janim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A53&amp;version=ESV"&gt;Josh 15:53&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.166667,31.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Janoah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A6&amp;version=ESV"&gt;Josh 16:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A7&amp;version=ESV"&gt;Josh 16:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.302915,33.260246</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Japhia</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A12&amp;version=ESV"&gt;Josh 19:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.274955,32.691633</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jarmuth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A3&amp;version=ESV"&gt;Josh 10:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A5&amp;version=ESV"&gt;Josh 10:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A23&amp;version=ESV"&gt;Josh 10:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A11&amp;version=ESV"&gt;Josh 12:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A35&amp;version=ESV"&gt;Josh 15:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.969953,31.709268</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jarmuth~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A29&amp;version=ESV"&gt;Josh 21:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.330789,32.555963</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jattir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A48&amp;version=ESV"&gt;Josh 15:48&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A14&amp;version=ESV"&gt;Josh 21:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.069413,31.401438</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jazer</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A25&amp;version=ESV"&gt;Josh 13:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A39&amp;version=ESV"&gt;Josh 21:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.727769,31.943529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jebus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A28&amp;version=ESV"&gt;Josh 18:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jebusite</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A8&amp;version=ESV"&gt;Josh 15:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jehud</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A45&amp;version=ESV"&gt;Josh 19:45&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.889599,32.033636</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jericho</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+2%3A1&amp;version=ESV"&gt;Josh 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+2%3A2&amp;version=ESV"&gt;Josh 2:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+2%3A3&amp;version=ESV"&gt;Josh 2:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+3%3A16&amp;version=ESV"&gt;Josh 3:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A13&amp;version=ESV"&gt;Josh 4:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A19&amp;version=ESV"&gt;Josh 4:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+5%3A10&amp;version=ESV"&gt;Josh 5:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+5%3A13&amp;version=ESV"&gt;Josh 5:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+6%3A1&amp;version=ESV"&gt;Josh 6:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+6%3A2&amp;version=ESV"&gt;Josh 6:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+6%3A25&amp;version=ESV"&gt;Josh 6:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+6%3A26&amp;version=ESV"&gt;Josh 6:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+7%3A2&amp;version=ESV"&gt;Josh 7:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A2&amp;version=ESV"&gt;Josh 8:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A3&amp;version=ESV"&gt;Josh 9:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A1&amp;version=ESV"&gt;Josh 10:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A28&amp;version=ESV"&gt;Josh 10:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A30&amp;version=ESV"&gt;Josh 10:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A9&amp;version=ESV"&gt;Josh 12:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A32&amp;version=ESV"&gt;Josh 13:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A1&amp;version=ESV"&gt;Josh 16:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A7&amp;version=ESV"&gt;Josh 16:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A12&amp;version=ESV"&gt;Josh 18:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A21&amp;version=ESV"&gt;Josh 18:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+20%3A8&amp;version=ESV"&gt;Josh 20:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A11&amp;version=ESV"&gt;Josh 24:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.443863,31.870601</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A1&amp;version=ESV"&gt;Josh 10:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A3&amp;version=ESV"&gt;Josh 10:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A5&amp;version=ESV"&gt;Josh 10:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A23&amp;version=ESV"&gt;Josh 10:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A10&amp;version=ESV"&gt;Josh 12:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A8&amp;version=ESV"&gt;Josh 15:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A63&amp;version=ESV"&gt;Josh 15:63&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A28&amp;version=ESV"&gt;Josh 18:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jezreel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A18&amp;version=ESV"&gt;Josh 19:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.330789,32.555963</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jezreel~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A56&amp;version=ESV"&gt;Josh 15:56&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.094099,31.535773</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jokdeam~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A56&amp;version=ESV"&gt;Josh 15:56&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.000000,31.366667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jokneam</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A22&amp;version=ESV"&gt;Josh 12:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A11&amp;version=ESV"&gt;Josh 19:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A34&amp;version=ESV"&gt;Josh 21:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.108918,32.664545</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Joktheel~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A38&amp;version=ESV"&gt;Josh 15:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.846725,31.564850</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Joppa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A46&amp;version=ESV"&gt;Josh 19:46&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.750426,32.053519</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+1%3A2&amp;version=ESV"&gt;Josh 1:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+1%3A11&amp;version=ESV"&gt;Josh 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+1%3A14&amp;version=ESV"&gt;Josh 1:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+1%3A15&amp;version=ESV"&gt;Josh 1:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+2%3A7&amp;version=ESV"&gt;Josh 2:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+2%3A10&amp;version=ESV"&gt;Josh 2:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+3%3A1&amp;version=ESV"&gt;Josh 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+3%3A8&amp;version=ESV"&gt;Josh 3:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+3%3A11&amp;version=ESV"&gt;Josh 3:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+3%3A13&amp;version=ESV"&gt;Josh 3:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+3%3A14&amp;version=ESV"&gt;Josh 3:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+3%3A15&amp;version=ESV"&gt;Josh 3:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+3%3A17&amp;version=ESV"&gt;Josh 3:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A1&amp;version=ESV"&gt;Josh 4:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A3&amp;version=ESV"&gt;Josh 4:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A5&amp;version=ESV"&gt;Josh 4:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A7&amp;version=ESV"&gt;Josh 4:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A8&amp;version=ESV"&gt;Josh 4:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A9&amp;version=ESV"&gt;Josh 4:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A10&amp;version=ESV"&gt;Josh 4:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A16&amp;version=ESV"&gt;Josh 4:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A17&amp;version=ESV"&gt;Josh 4:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A18&amp;version=ESV"&gt;Josh 4:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A19&amp;version=ESV"&gt;Josh 4:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A20&amp;version=ESV"&gt;Josh 4:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A22&amp;version=ESV"&gt;Josh 4:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A23&amp;version=ESV"&gt;Josh 4:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+5%3A1&amp;version=ESV"&gt;Josh 5:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+7%3A7&amp;version=ESV"&gt;Josh 7:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A1&amp;version=ESV"&gt;Josh 9:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A10&amp;version=ESV"&gt;Josh 9:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A1&amp;version=ESV"&gt;Josh 12:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A7&amp;version=ESV"&gt;Josh 12:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A8&amp;version=ESV"&gt;Josh 13:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A23&amp;version=ESV"&gt;Josh 13:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A27&amp;version=ESV"&gt;Josh 13:27&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A32&amp;version=ESV"&gt;Josh 13:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+14%3A3&amp;version=ESV"&gt;Josh 14:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A5&amp;version=ESV"&gt;Josh 15:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A1&amp;version=ESV"&gt;Josh 16:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A7&amp;version=ESV"&gt;Josh 16:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A5&amp;version=ESV"&gt;Josh 17:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A7&amp;version=ESV"&gt;Josh 18:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A12&amp;version=ESV"&gt;Josh 18:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A19&amp;version=ESV"&gt;Josh 18:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A20&amp;version=ESV"&gt;Josh 18:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A22&amp;version=ESV"&gt;Josh 19:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A33&amp;version=ESV"&gt;Josh 19:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A34&amp;version=ESV"&gt;Josh 19:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+20%3A8&amp;version=ESV"&gt;Josh 20:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A4&amp;version=ESV"&gt;Josh 22:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A7&amp;version=ESV"&gt;Josh 22:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A10&amp;version=ESV"&gt;Josh 22:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A11&amp;version=ESV"&gt;Josh 22:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A25&amp;version=ESV"&gt;Josh 22:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+23%3A4&amp;version=ESV"&gt;Josh 23:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A8&amp;version=ESV"&gt;Josh 24:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A11&amp;version=ESV"&gt;Josh 24:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Juttah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A55&amp;version=ESV"&gt;Josh 15:55&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A16&amp;version=ESV"&gt;Josh 21:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.083333,31.450000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kabzeel~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A21&amp;version=ESV"&gt;Josh 15:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.96745,31.1858</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kadesh-barnea</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A41&amp;version=ESV"&gt;Josh 10:41&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+14%3A6&amp;version=ESV"&gt;Josh 14:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+14%3A7&amp;version=ESV"&gt;Josh 14:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A3&amp;version=ESV"&gt;Josh 15:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.494795,30.687712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kain</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A57&amp;version=ESV"&gt;Josh 15:57&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.166667,31.500000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kanah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A8&amp;version=ESV"&gt;Josh 16:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A9&amp;version=ESV"&gt;Josh 17:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.038971,32.138219</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kanah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A28&amp;version=ESV"&gt;Josh 19:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.338771,32.747015</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Karka~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A3&amp;version=ESV"&gt;Josh 15:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.380500,30.958506</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kartah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A34&amp;version=ESV"&gt;Josh 21:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.279335,32.753141</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kartan~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A32&amp;version=ESV"&gt;Josh 21:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.165000,33.125828</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kattath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A15&amp;version=ESV"&gt;Josh 19:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.279335,32.753141</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kedemoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A18&amp;version=ESV"&gt;Josh 13:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A37&amp;version=ESV"&gt;Josh 21:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.894537,31.646073</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kedesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A22&amp;version=ESV"&gt;Josh 12:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A37&amp;version=ESV"&gt;Josh 19:37&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+20%3A7&amp;version=ESV"&gt;Josh 20:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A32&amp;version=ESV"&gt;Josh 21:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.533613,33.112983</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kedesh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A23&amp;version=ESV"&gt;Josh 15:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.494795,30.687712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Keilah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A44&amp;version=ESV"&gt;Josh 15:44&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.002752,31.614175</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kerioth-hezron~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A25&amp;version=ESV"&gt;Josh 15:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.057114,31.162327</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kibzaim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A22&amp;version=ESV"&gt;Josh 21:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.300000,31.833333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kinah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A22&amp;version=ESV"&gt;Josh 15:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.96745,31.1858</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriath-arba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+14%3A15&amp;version=ESV"&gt;Josh 14:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A13&amp;version=ESV"&gt;Josh 15:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A54&amp;version=ESV"&gt;Josh 15:54&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+20%3A7&amp;version=ESV"&gt;Josh 20:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A11&amp;version=ESV"&gt;Josh 21:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.094099,31.535773</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriath-baal?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A60&amp;version=ESV"&gt;Josh 15:60&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A14&amp;version=ESV"&gt;Josh 18:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.993812,31.771104</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriath-jearim?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A17&amp;version=ESV"&gt;Josh 9:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A9&amp;version=ESV"&gt;Josh 15:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A60&amp;version=ESV"&gt;Josh 15:60&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A14&amp;version=ESV"&gt;Josh 18:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A15&amp;version=ESV"&gt;Josh 18:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A28&amp;version=ESV"&gt;Josh 18:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.993812,31.771104</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriath-sannah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A49&amp;version=ESV"&gt;Josh 15:49&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.966670,31.416669</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriath-sepher</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A15&amp;version=ESV"&gt;Josh 15:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A16&amp;version=ESV"&gt;Josh 15:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.966670,31.416669</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kiriathaim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A19&amp;version=ESV"&gt;Josh 13:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.700000,31.583333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Kishion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A20&amp;version=ESV"&gt;Josh 19:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A28&amp;version=ESV"&gt;Josh 21:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.246206,32.559061</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lachish</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A3&amp;version=ESV"&gt;Josh 10:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A5&amp;version=ESV"&gt;Josh 10:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A23&amp;version=ESV"&gt;Josh 10:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A31&amp;version=ESV"&gt;Josh 10:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A32&amp;version=ESV"&gt;Josh 10:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A33&amp;version=ESV"&gt;Josh 10:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A34&amp;version=ESV"&gt;Josh 10:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A35&amp;version=ESV"&gt;Josh 10:35&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A11&amp;version=ESV"&gt;Josh 12:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A39&amp;version=ESV"&gt;Josh 15:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.846725,31.564850</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lahmam</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A40&amp;version=ESV"&gt;Josh 15:40&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.900000,31.566667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lakkum~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A33&amp;version=ESV"&gt;Josh 19:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.390913,32.686956</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lasharon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A18&amp;version=ESV"&gt;Josh 12:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.467002,32.725440</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebanon&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+1%3A4&amp;version=ESV"&gt;Josh 1:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+9%3A1&amp;version=ESV"&gt;Josh 9:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A5&amp;version=ESV"&gt;Josh 13:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A6&amp;version=ESV"&gt;Josh 13:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.590804,33.752479</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebaoth~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A32&amp;version=ESV"&gt;Josh 15:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.940502,31.391668</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lebo-hamath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A5&amp;version=ESV"&gt;Josh 13:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.749488,35.136204</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Leshem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A47&amp;version=ESV"&gt;Josh 19:47&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.652483,33.248659</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Libnah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A29&amp;version=ESV"&gt;Josh 10:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A31&amp;version=ESV"&gt;Josh 10:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A32&amp;version=ESV"&gt;Josh 10:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A39&amp;version=ESV"&gt;Josh 10:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A15&amp;version=ESV"&gt;Josh 12:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A42&amp;version=ESV"&gt;Josh 15:42&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A13&amp;version=ESV"&gt;Josh 21:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.846725,31.564850</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Lower Beth-horon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A3&amp;version=ESV"&gt;Josh 16:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A13&amp;version=ESV"&gt;Josh 18:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.123567,31.878925</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Luz</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A2&amp;version=ESV"&gt;Josh 16:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A13&amp;version=ESV"&gt;Josh 18:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221032,31.930539</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Maacath~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A13&amp;version=ESV"&gt;Josh 13:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.5,33.2</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Maarath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A59&amp;version=ESV"&gt;Josh 15:59&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.102328,31.621003</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Madmannah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A31&amp;version=ESV"&gt;Josh 15:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.940502,31.391668</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Madon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A1&amp;version=ESV"&gt;Josh 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A19&amp;version=ESV"&gt;Josh 12:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.459506,32.799879</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mahalab</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A29&amp;version=ESV"&gt;Josh 19:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.445446,33.024980</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mahanaim?</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A26&amp;version=ESV"&gt;Josh 13:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A30&amp;version=ESV"&gt;Josh 13:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A38&amp;version=ESV"&gt;Josh 21:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.632914,32.214708</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Makkedah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A10&amp;version=ESV"&gt;Josh 10:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A16&amp;version=ESV"&gt;Josh 10:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A17&amp;version=ESV"&gt;Josh 10:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A21&amp;version=ESV"&gt;Josh 10:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A28&amp;version=ESV"&gt;Josh 10:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A29&amp;version=ESV"&gt;Josh 10:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A16&amp;version=ESV"&gt;Josh 12:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A41&amp;version=ESV"&gt;Josh 15:41&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.781326,31.935117</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Maon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A55&amp;version=ESV"&gt;Josh 15:55&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.116666,31.416666</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mareal</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A11&amp;version=ESV"&gt;Josh 19:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.241789,32.697409</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mareshah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A44&amp;version=ESV"&gt;Josh 15:44&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.902377,31.603933</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Me-jarkon~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A46&amp;version=ESV"&gt;Josh 19:46&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.788144,32.132898</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mearah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A4&amp;version=ESV"&gt;Josh 13:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.433333,33.633333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Medeba</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A9&amp;version=ESV"&gt;Josh 13:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A16&amp;version=ESV"&gt;Josh 13:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.791972,31.720457</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Megiddo</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A21&amp;version=ESV"&gt;Josh 12:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A11&amp;version=ESV"&gt;Josh 17:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.182291,32.584183</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mephaath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A18&amp;version=ESV"&gt;Josh 13:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A37&amp;version=ESV"&gt;Josh 21:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.933333,31.850000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Merom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A5&amp;version=ESV"&gt;Josh 11:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A7&amp;version=ESV"&gt;Josh 11:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.605480,33.075269</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Michmethath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A6&amp;version=ESV"&gt;Josh 16:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A7&amp;version=ESV"&gt;Josh 17:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.283333,32.183333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Middin</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A61&amp;version=ESV"&gt;Josh 15:61&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.401591,31.743894</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Midian&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A21&amp;version=ESV"&gt;Josh 13:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.90832,28.932881</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Migdal-el</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A38&amp;version=ESV"&gt;Josh 19:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.362942,33.232131</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Migdal-gad</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A37&amp;version=ESV"&gt;Josh 15:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.583333,31.666667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mishal~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A26&amp;version=ESV"&gt;Josh 19:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A30&amp;version=ESV"&gt;Josh 21:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.146201,33.047808</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Misrephoth-maim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A8&amp;version=ESV"&gt;Josh 11:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A6&amp;version=ESV"&gt;Josh 13:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.139434,33.118952</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mizpah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A3&amp;version=ESV"&gt;Josh 11:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.573371,33.281770</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mizpeh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A26&amp;version=ESV"&gt;Josh 18:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mizpeh~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A38&amp;version=ESV"&gt;Josh 15:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.846725,31.564850</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A32&amp;version=ESV"&gt;Josh 13:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A9&amp;version=ESV"&gt;Josh 24:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moladah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A26&amp;version=ESV"&gt;Josh 15:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A2&amp;version=ESV"&gt;Josh 19:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.057114,31.162327</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Baalah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A11&amp;version=ESV"&gt;Josh 15:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.746856,31.865518</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Ebal</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A30&amp;version=ESV"&gt;Josh 8:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A33&amp;version=ESV"&gt;Josh 8:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.273041,32.232938</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Ephron~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A9&amp;version=ESV"&gt;Josh 15:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.042407,31.675746</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Gerizim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+8%3A33&amp;version=ESV"&gt;Josh 8:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.272852,32.199561</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Halak</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A17&amp;version=ESV"&gt;Josh 11:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A7&amp;version=ESV"&gt;Josh 12:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.833333,30.916667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Hermon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A17&amp;version=ESV"&gt;Josh 11:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A1&amp;version=ESV"&gt;Josh 12:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A5&amp;version=ESV"&gt;Josh 12:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A5&amp;version=ESV"&gt;Josh 13:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A11&amp;version=ESV"&gt;Josh 13:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Jearim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A10&amp;version=ESV"&gt;Josh 15:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.051130,31.781049</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Seir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A10&amp;version=ESV"&gt;Josh 15:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.994000,31.783333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mozah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A26&amp;version=ESV"&gt;Josh 18:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.158376,31.802641</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Naamah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A41&amp;version=ESV"&gt;Josh 15:41&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.871894,31.871782</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Naarah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A7&amp;version=ESV"&gt;Josh 16:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.458730,31.949518</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nahalal</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A15&amp;version=ESV"&gt;Josh 19:15&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A35&amp;version=ESV"&gt;Josh 21:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.352820,32.722209</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Naphath-dor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A23&amp;version=ESV"&gt;Josh 12:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.918896,32.613236</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Naphath~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A11&amp;version=ESV"&gt;Josh 17:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.182291,32.584183</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Naphoth-dor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A2&amp;version=ESV"&gt;Josh 11:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.918896,32.613236</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Neah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A13&amp;version=ESV"&gt;Josh 19:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221877,32.894254</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Negeb&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A40&amp;version=ESV"&gt;Josh 10:40&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A16&amp;version=ESV"&gt;Josh 11:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A8&amp;version=ESV"&gt;Josh 12:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A19&amp;version=ESV"&gt;Josh 15:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A8&amp;version=ESV"&gt;Josh 19:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.2,30.3</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Neiel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A27&amp;version=ESV"&gt;Josh 19:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.221877,32.894254</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nephtoah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A9&amp;version=ESV"&gt;Josh 15:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A15&amp;version=ESV"&gt;Josh 18:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.167987,31.683036</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nezib</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A43&amp;version=ESV"&gt;Josh 15:43&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.992389,31.588050</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nibshan~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A62&amp;version=ESV"&gt;Josh 15:62&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.392411,31.461525</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ophni</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A24&amp;version=ESV"&gt;Josh 18:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.215483,31.961989</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ophrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A23&amp;version=ESV"&gt;Josh 18:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.299135,31.953789</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Parah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A23&amp;version=ESV"&gt;Josh 18:23&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.300000,31.833333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Peor~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A17&amp;version=ESV"&gt;Josh 22:17&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.718565,31.765031</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Pisgah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A3&amp;version=ESV"&gt;Josh 12:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A20&amp;version=ESV"&gt;Josh 13:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.718565,31.765031</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rabbah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A25&amp;version=ESV"&gt;Josh 13:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A60&amp;version=ESV"&gt;Josh 15:60&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.924131,31.950188</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rabbith</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A20&amp;version=ESV"&gt;Josh 19:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.377302,32.391416</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rakkath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A35&amp;version=ESV"&gt;Josh 19:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.529220,32.795537</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rakkon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A46&amp;version=ESV"&gt;Josh 19:46&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.788144,32.132898</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A25&amp;version=ESV"&gt;Josh 18:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A8&amp;version=ESV"&gt;Josh 19:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.201730,31.896378</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A29&amp;version=ESV"&gt;Josh 19:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.310464,33.111078</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A36&amp;version=ESV"&gt;Josh 19:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.368123,32.939010</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramath-mizpeh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A26&amp;version=ESV"&gt;Josh 13:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.005559,32.565267</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ramoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+20%3A8&amp;version=ESV"&gt;Josh 20:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A38&amp;version=ESV"&gt;Josh 21:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.005559,32.565267</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Red Sea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+2%3A10&amp;version=ESV"&gt;Josh 2:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+4%3A23&amp;version=ESV"&gt;Josh 4:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A6&amp;version=ESV"&gt;Josh 24:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.771729,27.088473</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rehob~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A28&amp;version=ESV"&gt;Josh 19:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.165000,33.125828</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rehob~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A30&amp;version=ESV"&gt;Josh 19:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A31&amp;version=ESV"&gt;Josh 21:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.211971,32.955448</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rekem~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A27&amp;version=ESV"&gt;Josh 18:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.197712,31.869343</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Remeth~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A21&amp;version=ESV"&gt;Josh 19:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.330789,32.555963</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rimmon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A32&amp;version=ESV"&gt;Josh 15:32&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A7&amp;version=ESV"&gt;Josh 19:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.385705,34.353071</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Rimmon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A13&amp;version=ESV"&gt;Josh 19:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.321364,32.781808</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>River</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A3&amp;version=ESV"&gt;Josh 24:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A14&amp;version=ESV"&gt;Josh 24:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A15&amp;version=ESV"&gt;Josh 24:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>40.427780,35.090577</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Salecah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A5&amp;version=ESV"&gt;Josh 12:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A11&amp;version=ESV"&gt;Josh 13:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.710337,32.493941</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Salt Sea</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+3%3A16&amp;version=ESV"&gt;Josh 3:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A3&amp;version=ESV"&gt;Josh 12:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A2&amp;version=ESV"&gt;Josh 15:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A5&amp;version=ESV"&gt;Josh 15:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A19&amp;version=ESV"&gt;Josh 18:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.482268,31.538593</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sansannah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A31&amp;version=ESV"&gt;Josh 15:31&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.940502,31.391668</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sarid</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A10&amp;version=ESV"&gt;Josh 19:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A12&amp;version=ESV"&gt;Josh 19:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.196668,32.689785</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sea of Chinnereth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A27&amp;version=ESV"&gt;Josh 13:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.589360,32.806775</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sea of Chinneroth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A3&amp;version=ESV"&gt;Josh 12:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.589360,32.806775</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sea of the Arabah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+3%3A16&amp;version=ESV"&gt;Josh 3:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A3&amp;version=ESV"&gt;Josh 12:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.482268,31.538593</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Secacah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A61&amp;version=ESV"&gt;Josh 15:61&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.283333,31.766667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Seir&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A17&amp;version=ESV"&gt;Josh 11:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A7&amp;version=ESV"&gt;Josh 12:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A4&amp;version=ESV"&gt;Josh 24:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shaalabbin</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A42&amp;version=ESV"&gt;Josh 19:42&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.981728,31.870364</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shaaraim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A36&amp;version=ESV"&gt;Josh 15:36&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.89532,31.7001</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shahazumah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A22&amp;version=ESV"&gt;Josh 19:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.504628,32.406430</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shamir</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A48&amp;version=ESV"&gt;Josh 15:48&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.933333,31.416667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sharuhen</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A6&amp;version=ESV"&gt;Josh 19:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.482500,31.282222</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sheba&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A2&amp;version=ESV"&gt;Josh 19:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>38.746799,9.022736</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shebarim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+7%3A5&amp;version=ESV"&gt;Josh 7:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.261226,31.916978</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shechem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A7&amp;version=ESV"&gt;Josh 17:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+20%3A7&amp;version=ESV"&gt;Josh 20:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A21&amp;version=ESV"&gt;Josh 21:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A1&amp;version=ESV"&gt;Josh 24:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A25&amp;version=ESV"&gt;Josh 24:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A32&amp;version=ESV"&gt;Josh 24:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.281798,32.213691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shema~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A26&amp;version=ESV"&gt;Josh 15:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.057114,31.162327</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shihor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A3&amp;version=ESV"&gt;Josh 13:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>33.854957,31.032047</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shihor-libnath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A26&amp;version=ESV"&gt;Josh 19:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.907697,32.538496</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shikkeron~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A11&amp;version=ESV"&gt;Josh 15:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.852145,31.777614</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shilhim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A32&amp;version=ESV"&gt;Josh 15:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.482500,31.282222</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shiloh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A1&amp;version=ESV"&gt;Josh 18:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A8&amp;version=ESV"&gt;Josh 18:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A9&amp;version=ESV"&gt;Josh 18:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A10&amp;version=ESV"&gt;Josh 18:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A51&amp;version=ESV"&gt;Josh 19:51&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A2&amp;version=ESV"&gt;Josh 21:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A9&amp;version=ESV"&gt;Josh 22:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+22%3A12&amp;version=ESV"&gt;Josh 22:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.289528,32.055700</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shimron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A1&amp;version=ESV"&gt;Josh 11:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A15&amp;version=ESV"&gt;Josh 19:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.213332,32.705288</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shimron-meron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A20&amp;version=ESV"&gt;Josh 12:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.213332,32.705288</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shinar&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+7%3A21&amp;version=ESV"&gt;Josh 7:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>44.420882,32.536503</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A19&amp;version=ESV"&gt;Josh 19:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.333334,32.716666</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shittim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+2%3A1&amp;version=ESV"&gt;Josh 2:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+3%3A1&amp;version=ESV"&gt;Josh 3:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.641566,31.858262</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shunem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A18&amp;version=ESV"&gt;Josh 19:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.334305,32.605631</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sibmah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A19&amp;version=ESV"&gt;Josh 13:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.766738,31.815283</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sidon the Great</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A28&amp;version=ESV"&gt;Josh 19:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Socoh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A35&amp;version=ESV"&gt;Josh 15:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.976398,31.681234</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Socoh~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A48&amp;version=ESV"&gt;Josh 15:48&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.966670,31.416669</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Succoth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A27&amp;version=ESV"&gt;Josh 13:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.633313,32.199982</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Taanach</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A21&amp;version=ESV"&gt;Josh 12:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A11&amp;version=ESV"&gt;Josh 17:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+21%3A25&amp;version=ESV"&gt;Josh 21:25&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.216325,32.517239</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Taanath-shiloh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A6&amp;version=ESV"&gt;Josh 16:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.383333,32.150000</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tabor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A22&amp;version=ESV"&gt;Josh 19:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.390913,32.686956</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tappuah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A17&amp;version=ESV"&gt;Josh 12:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A8&amp;version=ESV"&gt;Josh 16:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A8&amp;version=ESV"&gt;Josh 17:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.233333,32.116666</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tappuah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A34&amp;version=ESV"&gt;Josh 15:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.1260,32.15</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Taralah~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A27&amp;version=ESV"&gt;Josh 18:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.196862,31.792733</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Telem~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A24&amp;version=ESV"&gt;Josh 15:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Timnah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A10&amp;version=ESV"&gt;Josh 15:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A43&amp;version=ESV"&gt;Josh 19:43&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.909680,31.784368</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Timnah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A57&amp;version=ESV"&gt;Josh 15:57&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.040359,31.699323</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Timnath-serah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A50&amp;version=ESV"&gt;Josh 19:50&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+24%3A30&amp;version=ESV"&gt;Josh 24:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.150392,32.121473</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tirzah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A24&amp;version=ESV"&gt;Josh 12:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.294303,32.271368</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tyre</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A29&amp;version=ESV"&gt;Josh 19:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.192574,33.275827</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ummah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A30&amp;version=ESV"&gt;Josh 19:30&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180623,33.104377</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Upper Beth-horon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+16%3A5&amp;version=ESV"&gt;Josh 16:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.128313,31.858917</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Achor</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+7%3A24&amp;version=ESV"&gt;Josh 7:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+7%3A26&amp;version=ESV"&gt;Josh 7:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A7&amp;version=ESV"&gt;Josh 15:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.399737,31.836890</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Aijalon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+10%3A12&amp;version=ESV"&gt;Josh 10:12&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.025379,31.841173</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Hinnom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A8&amp;version=ESV"&gt;Josh 15:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A16&amp;version=ESV"&gt;Josh 18:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.227994,31.769079</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Iphtahel</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A14&amp;version=ESV"&gt;Josh 19:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A27&amp;version=ESV"&gt;Josh 19:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.277225,32.832774</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Jezreel~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+17%3A16&amp;version=ESV"&gt;Josh 17:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.330789,32.555963</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Lebanon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A17&amp;version=ESV"&gt;Josh 11:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A7&amp;version=ESV"&gt;Josh 12:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Mizpeh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+11%3A8&amp;version=ESV"&gt;Josh 11:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.573371,33.281770</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of Rephaim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A8&amp;version=ESV"&gt;Josh 15:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A16&amp;version=ESV"&gt;Josh 18:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.223059,31.756332</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of the Arnon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A1&amp;version=ESV"&gt;Josh 12:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+12%3A2&amp;version=ESV"&gt;Josh 12:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A9&amp;version=ESV"&gt;Josh 13:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A16&amp;version=ESV"&gt;Josh 13:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.677009,31.428800</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Valley of the Son of Hinnom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A8&amp;version=ESV"&gt;Josh 15:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A16&amp;version=ESV"&gt;Josh 18:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.227994,31.769079</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Yiron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A38&amp;version=ESV"&gt;Josh 19:38&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.414111,33.088748</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zaanannim~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A33&amp;version=ESV"&gt;Josh 19:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.533613,33.112983</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zanoah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A34&amp;version=ESV"&gt;Josh 15:34&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.000000,31.716667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zanoah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A56&amp;version=ESV"&gt;Josh 15:56&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.000000,31.366667</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zaphon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A27&amp;version=ESV"&gt;Josh 13:27&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.585865,32.237710</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zarethan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+3%3A16&amp;version=ESV"&gt;Josh 3:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.576613,32.267821</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zela~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A28&amp;version=ESV"&gt;Josh 18:28&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.196862,31.792733</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zemaraim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+18%3A22&amp;version=ESV"&gt;Josh 18:22&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.457280,31.910999</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zenan~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A37&amp;version=ESV"&gt;Josh 15:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.694006,31.743719</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zereth-shahar</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+13%3A19&amp;version=ESV"&gt;Josh 13:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.567522,31.616962</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zer~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A35&amp;version=ESV"&gt;Josh 19:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.165000,33.125828</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ziddim</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A35&amp;version=ESV"&gt;Josh 19:35&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.435872,32.814279</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ziklag</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A31&amp;version=ESV"&gt;Josh 15:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A5&amp;version=ESV"&gt;Josh 19:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.873561,31.377600</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zin&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A1&amp;version=ESV"&gt;Josh 15:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.494795,30.687712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zin~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A3&amp;version=ESV"&gt;Josh 15:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.494795,30.687712</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zior</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A54&amp;version=ESV"&gt;Josh 15:54&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.148296,31.589719</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ziph</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A55&amp;version=ESV"&gt;Josh 15:55&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.1333,31.4833</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ziph~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A24&amp;version=ESV"&gt;Josh 15:24&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.733402,32.049953</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zorah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Josh+15%3A33&amp;version=ESV"&gt;Josh 15:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Josh+19%3A41&amp;version=ESV"&gt;Josh 19:41&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.969319,31.762141</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

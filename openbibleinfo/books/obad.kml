@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Obad</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Edom&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A1&amp;version=ESV"&gt;Obad 1:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A8&amp;version=ESV"&gt;Obad 1:8&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Esau&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A6&amp;version=ESV"&gt;Obad 1:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A18&amp;version=ESV"&gt;Obad 1:18&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gilead&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A19&amp;version=ESV"&gt;Obad 1:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.724241,32.042523</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A11&amp;version=ESV"&gt;Obad 1:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A20&amp;version=ESV"&gt;Obad 1:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Esau&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A8&amp;version=ESV"&gt;Obad 1:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A9&amp;version=ESV"&gt;Obad 1:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A19&amp;version=ESV"&gt;Obad 1:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A21&amp;version=ESV"&gt;Obad 1:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.606250,30.734691</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount Zion&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A17&amp;version=ESV"&gt;Obad 1:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A21&amp;version=ESV"&gt;Obad 1:21&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Negeb&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A19&amp;version=ESV"&gt;Obad 1:19&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A20&amp;version=ESV"&gt;Obad 1:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.2,30.3</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Samaria</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A19&amp;version=ESV"&gt;Obad 1:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.197929,32.280231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sepharad</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A20&amp;version=ESV"&gt;Obad 1:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>28.114131,38.476826</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Shephelah&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A19&amp;version=ESV"&gt;Obad 1:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.852145,31.777614</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Teman&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A9&amp;version=ESV"&gt;Obad 1:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.732568,30.203813</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zarephath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Obad+1%3A20&amp;version=ESV"&gt;Obad 1:20&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.3,33.4333</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

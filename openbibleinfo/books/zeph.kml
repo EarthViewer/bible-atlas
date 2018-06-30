@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Zeph</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Ashdod's</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+2%3A4&amp;version=ESV"&gt;Zeph 2:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.635114,31.802999</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ashkelon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+2%3A4&amp;version=ESV"&gt;Zeph 2:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zeph+2%3A7&amp;version=ESV"&gt;Zeph 2:7&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.547227,31.662405</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Assyria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+2%3A13&amp;version=ESV"&gt;Zeph 2:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Canaan&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+2%3A5&amp;version=ESV"&gt;Zeph 2:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.843882,31.693529</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cush&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+3%3A10&amp;version=ESV"&gt;Zeph 3:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>31.343557,21.959788</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ekron</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+2%3A4&amp;version=ESV"&gt;Zeph 2:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.852145,31.777614</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Fish Gate&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+1%3A10&amp;version=ESV"&gt;Zeph 1:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gaza</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+2%3A4&amp;version=ESV"&gt;Zeph 2:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.433364,31.524817</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gomorrah</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+2%3A9&amp;version=ESV"&gt;Zeph 2:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.473954,31.157248</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+1%3A4&amp;version=ESV"&gt;Zeph 1:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zeph+1%3A12&amp;version=ESV"&gt;Zeph 1:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zeph+3%3A14&amp;version=ESV"&gt;Zeph 3:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zeph+3%3A16&amp;version=ESV"&gt;Zeph 3:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Moab&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+2%3A8&amp;version=ESV"&gt;Zeph 2:8&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zeph+2%3A9&amp;version=ESV"&gt;Zeph 2:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.782841,31.496845</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mortar&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+1%3A11&amp;version=ESV"&gt;Zeph 1:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nineveh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+2%3A13&amp;version=ESV"&gt;Zeph 2:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Second Quarter&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+1%3A10&amp;version=ESV"&gt;Zeph 1:10&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sodom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+2%3A9&amp;version=ESV"&gt;Zeph 2:9&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.396484,31.196560</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zion</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Zeph+3%3A14&amp;version=ESV"&gt;Zeph 3:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Zeph+3%3A16&amp;version=ESV"&gt;Zeph 3:16&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

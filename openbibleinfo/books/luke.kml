@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Luke</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Abilene</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+3%3A1&amp;version=ESV"&gt;Luke 3:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.091710,33.587300</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Arimathea</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+23%3A50&amp;version=ESV"&gt;Luke 23:50&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.180162,31.832739</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethany</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+19%3A29&amp;version=ESV"&gt;Luke 19:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+24%3A50&amp;version=ESV"&gt;Luke 24:50&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.262122,31.771665</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethlehem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A4&amp;version=ESV"&gt;Luke 2:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A15&amp;version=ESV"&gt;Luke 2:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.210266,31.705361</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethphage</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+19%3A29&amp;version=ESV"&gt;Luke 19:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.256672,31.790383</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Bethsaida</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+9%3A10&amp;version=ESV"&gt;Luke 9:10&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+10%3A13&amp;version=ESV"&gt;Luke 10:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.626972,32.907848</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Capernaum</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+4%3A23&amp;version=ESV"&gt;Luke 4:23&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+4%3A31&amp;version=ESV"&gt;Luke 4:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+7%3A1&amp;version=ESV"&gt;Luke 7:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+10%3A15&amp;version=ESV"&gt;Luke 10:15&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.575157,32.880594</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chorazin</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+10%3A13&amp;version=ESV"&gt;Luke 10:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.552923,32.909091</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Cyrene</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+23%3A26&amp;version=ESV"&gt;Luke 23:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>21.858301,32.824979</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Emmaus</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+24%3A13&amp;version=ESV"&gt;Luke 24:13&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.989529,31.839450</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Galilee&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+1%3A26&amp;version=ESV"&gt;Luke 1:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A4&amp;version=ESV"&gt;Luke 2:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A39&amp;version=ESV"&gt;Luke 2:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+3%3A1&amp;version=ESV"&gt;Luke 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+4%3A14&amp;version=ESV"&gt;Luke 4:14&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+4%3A31&amp;version=ESV"&gt;Luke 4:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+5%3A17&amp;version=ESV"&gt;Luke 5:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+8%3A26&amp;version=ESV"&gt;Luke 8:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+17%3A11&amp;version=ESV"&gt;Luke 17:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+23%3A5&amp;version=ESV"&gt;Luke 23:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+23%3A49&amp;version=ESV"&gt;Luke 23:49&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+23%3A55&amp;version=ESV"&gt;Luke 23:55&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+24%3A6&amp;version=ESV"&gt;Luke 24:6&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.301528,32.706745</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Gennesaret</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+5%3A1&amp;version=ESV"&gt;Luke 5:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.509937,32.859358</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Ituraea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+3%3A1&amp;version=ESV"&gt;Luke 3:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.857256,33.416159</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jericho</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+10%3A30&amp;version=ESV"&gt;Luke 10:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+18%3A35&amp;version=ESV"&gt;Luke 18:35&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+19%3A1&amp;version=ESV"&gt;Luke 19:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.443863,31.870601</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jerusalem</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A22&amp;version=ESV"&gt;Luke 2:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A25&amp;version=ESV"&gt;Luke 2:25&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A38&amp;version=ESV"&gt;Luke 2:38&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A41&amp;version=ESV"&gt;Luke 2:41&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A43&amp;version=ESV"&gt;Luke 2:43&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A45&amp;version=ESV"&gt;Luke 2:45&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+4%3A9&amp;version=ESV"&gt;Luke 4:9&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+5%3A17&amp;version=ESV"&gt;Luke 5:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+6%3A17&amp;version=ESV"&gt;Luke 6:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+9%3A31&amp;version=ESV"&gt;Luke 9:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+9%3A51&amp;version=ESV"&gt;Luke 9:51&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+9%3A53&amp;version=ESV"&gt;Luke 9:53&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+10%3A30&amp;version=ESV"&gt;Luke 10:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+13%3A4&amp;version=ESV"&gt;Luke 13:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+13%3A22&amp;version=ESV"&gt;Luke 13:22&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+13%3A33&amp;version=ESV"&gt;Luke 13:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+13%3A34&amp;version=ESV"&gt;Luke 13:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+17%3A11&amp;version=ESV"&gt;Luke 17:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+18%3A31&amp;version=ESV"&gt;Luke 18:31&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+19%3A11&amp;version=ESV"&gt;Luke 19:11&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+19%3A28&amp;version=ESV"&gt;Luke 19:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+21%3A20&amp;version=ESV"&gt;Luke 21:20&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+21%3A24&amp;version=ESV"&gt;Luke 21:24&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+23%3A7&amp;version=ESV"&gt;Luke 23:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+23%3A28&amp;version=ESV"&gt;Luke 23:28&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+24%3A13&amp;version=ESV"&gt;Luke 24:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+24%3A18&amp;version=ESV"&gt;Luke 24:18&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+24%3A33&amp;version=ESV"&gt;Luke 24:33&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+24%3A47&amp;version=ESV"&gt;Luke 24:47&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+24%3A52&amp;version=ESV"&gt;Luke 24:52&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Jordan</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+3%3A3&amp;version=ESV"&gt;Luke 3:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+4%3A1&amp;version=ESV"&gt;Luke 4:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.559900,32.309099</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Judea&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+1%3A5&amp;version=ESV"&gt;Luke 1:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+1%3A65&amp;version=ESV"&gt;Luke 1:65&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A4&amp;version=ESV"&gt;Luke 2:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+3%3A1&amp;version=ESV"&gt;Luke 3:1&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+4%3A44&amp;version=ESV"&gt;Luke 4:44&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+5%3A17&amp;version=ESV"&gt;Luke 5:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+6%3A17&amp;version=ESV"&gt;Luke 6:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+7%3A17&amp;version=ESV"&gt;Luke 7:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+21%3A21&amp;version=ESV"&gt;Luke 21:21&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+23%3A5&amp;version=ESV"&gt;Luke 23:5&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Mount of Olives</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+19%3A37&amp;version=ESV"&gt;Luke 19:37&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+22%3A39&amp;version=ESV"&gt;Luke 22:39&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.247197,31.778095</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nain</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+7%3A11&amp;version=ESV"&gt;Luke 7:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.347826,32.630833</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nazareth</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+1%3A26&amp;version=ESV"&gt;Luke 1:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A4&amp;version=ESV"&gt;Luke 2:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A39&amp;version=ESV"&gt;Luke 2:39&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A51&amp;version=ESV"&gt;Luke 2:51&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+4%3A16&amp;version=ESV"&gt;Luke 4:16&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+4%3A34&amp;version=ESV"&gt;Luke 4:34&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+18%3A37&amp;version=ESV"&gt;Luke 18:37&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+24%3A19&amp;version=ESV"&gt;Luke 24:19&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.301528,32.706745</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nineveh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+11%3A30&amp;version=ESV"&gt;Luke 11:30&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+11%3A32&amp;version=ESV"&gt;Luke 11:32&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Olivet</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+19%3A29&amp;version=ESV"&gt;Luke 19:29&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+21%3A37&amp;version=ESV"&gt;Luke 21:37&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.247197,31.778095</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Samaria</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+17%3A11&amp;version=ESV"&gt;Luke 17:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.197929,32.280231</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sidon</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+4%3A26&amp;version=ESV"&gt;Luke 4:26&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+6%3A17&amp;version=ESV"&gt;Luke 6:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+10%3A13&amp;version=ESV"&gt;Luke 10:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+10%3A14&amp;version=ESV"&gt;Luke 10:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.366346,33.563167</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Siloam&lt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+13%3A4&amp;version=ESV"&gt;Luke 13:4&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Sodom</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+10%3A12&amp;version=ESV"&gt;Luke 10:12&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+17%3A29&amp;version=ESV"&gt;Luke 17:29&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.396484,31.196560</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Syria&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+2%3A2&amp;version=ESV"&gt;Luke 2:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.313449,33.519299</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>The Skull~</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+23%3A33&amp;version=ESV"&gt;Luke 23:33&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.234935,31.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Trachonitis&gt;</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+3%3A1&amp;version=ESV"&gt;Luke 3:1&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>36.5,32.833333</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tyre</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+6%3A17&amp;version=ESV"&gt;Luke 6:17&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+10%3A13&amp;version=ESV"&gt;Luke 10:13&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Luke+10%3A14&amp;version=ESV"&gt;Luke 10:14&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.192574,33.275827</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Zarephath</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Luke+4%3A26&amp;version=ESV"&gt;Luke 4:26&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>35.3,33.4333</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Jonah</name>
+<description>Bible Places from &lt;a href="http://www.openbible.info/"&gt;OpenBible.info&lt;/a&gt;</description>
+<Style id="obi-normal">
+	<IconStyle>
+		<scale>0.5</scale>
+		<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href></Icon>
+	</IconStyle>
+</Style>
+<Placemark>
+	<name>Joppa</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Jonah+1%3A3&amp;version=ESV"&gt;Jonah 1:3&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>34.750426,32.053519</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Nineveh</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Jonah+1%3A2&amp;version=ESV"&gt;Jonah 1:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Jonah+3%3A2&amp;version=ESV"&gt;Jonah 3:2&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Jonah+3%3A3&amp;version=ESV"&gt;Jonah 3:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Jonah+3%3A4&amp;version=ESV"&gt;Jonah 3:4&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Jonah+3%3A5&amp;version=ESV"&gt;Jonah 3:5&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Jonah+3%3A6&amp;version=ESV"&gt;Jonah 3:6&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Jonah+3%3A7&amp;version=ESV"&gt;Jonah 3:7&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Jonah+4%3A11&amp;version=ESV"&gt;Jonah 4:11&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>43.152887,36.359410</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Tarshish</name>
+	<description>&lt;a href="https://www.biblegateway.com/passage/?search=Jonah+1%3A3&amp;version=ESV"&gt;Jonah 1:3&lt;/a&gt;, &lt;a href="https://www.biblegateway.com/passage/?search=Jonah+4%3A2&amp;version=ESV"&gt;Jonah 4:2&lt;/a&gt;</description>
+	<styleUrl>#obi-normal</styleUrl>
+	<Point><coordinates>-6.379340,36.952995</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
