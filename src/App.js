@@ -4,6 +4,7 @@
  * http://www.opensource.org/licenses/mit-license
  */
 import React, { Component } from 'react'
+import $ from 'jquery'
 import Globe from 'worldwind-react-globe'
 import {
   CardColumns,
@@ -115,11 +116,11 @@ export default class App extends Component {
     const globe = this.globeRef.current;
     const layers = [
       {layer: 'blue-marble', options: {category: 'base', enabled: false}},
-      {layer: 'blue-marble-landsat', options: {category: 'base', enabled: false}},
+      {layer: 'blue-marble-landsat', options: {category: 'base', enabled: true}},
       {layer: 'bing-aerial', options: {category: 'base', enabled: false}},
       {layer: 'bing-aerial-labels', options: {category: 'base', enabled: false}},
       {layer: 'eox-sentinal2', options: {category: 'base', enabled: false}},
-      {layer: 'eox-sentinal2-labels', options: {category: 'base', enabled: true}},
+      {layer: 'eox-sentinal2-labels', options: {category: 'base', enabled: false}},
       {layer: 'renderables', options: {category: 'data', enabled: true, displayName: MARKERS_LAYER}},
       {layer: 'compass', options: {category: 'setting', enabled: false}},
       {layer: 'coordinates', options: {category: 'setting', enabled: true}},
